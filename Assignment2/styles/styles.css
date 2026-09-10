@@ -1,0 +1,160 @@
+/* styles.css — Assignment 2
+   Shared base for all four pages. Each page loads this first, then its own
+   page-*.css file, which swaps in that page's accent colour. */
+
+
+/* Page foundation. 700px holds a line of text to about 80 characters,
+   and margin: 0 auto centres the column. */
+body {
+  background-color: #E9EAE4;
+  color: #232826;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.65;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
+}
+
+
+/* Navigation component.
+   These say `nav li`, not plain `li`. The lesson's demo page has one list,
+   so `li { display: inline-block; }` is safe there. This site has lists of
+   districts, directors and factions that would all collapse into one line. */
+nav {
+  border-bottom: 3px solid #232826;
+  padding: 20px 0 12px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 22px 0 0;
+}
+
+nav a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: #5C635F;
+  text-decoration: none;
+  padding: 0 0 4px;
+  border-bottom: 3px solid transparent;
+}
+
+nav a:hover {
+  color: #232826;
+}
+
+
+/* Header band. background-color is set in the page-*.css files. */
+header {
+  color: #F6F7F3;
+  padding: 32px 26px 28px;
+  margin: 30px 0 40px;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  line-height: 1.22;
+  color: #F6F7F3;
+  margin: 0 0 12px;
+}
+
+header p {
+  font-size: 17px;
+  color: #F6F7F3;
+  margin: 0;
+}
+
+
+/* Headings and body text */
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  line-height: 1.3;
+  margin: 46px 0 16px;
+  padding: 0 0 8px;
+  border-bottom: 1px solid #C3C7BE;
+}
+
+p {
+  margin: 0 0 20px;
+}
+
+
+/* Content lists. list-style-image is set per page, and those paths start
+   with ../ because CSS paths are relative to the CSS file: these sit inside
+   styles/ and have to step back out to reach images/. */
+main ul,
+main ol {
+  margin: 0 0 26px;
+  padding-left: 28px;
+}
+
+main li {
+  margin: 0 0 18px;
+  padding-left: 4px;
+}
+
+/* The name that opens each entry, set in sans so it is easy to scan for. */
+main li strong {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+
+
+/* Links. Colour is set per page. */
+a {
+  text-decoration: underline;
+}
+
+/* Without this, tabbing through the navigation is invisible. */
+a:focus {
+  outline: 2px solid #232826;
+  outline-offset: 3px;
+}
+
+
+/* Images. max-width: 100% shrinks them to fit a phone. */
+figure {
+  margin: 34px 0;
+  padding: 18px;
+  background-color: #E1E3DC;
+  border: 1px solid #C3C7BE;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #5C635F;
+  text-align: center;
+  margin: 16px 0 0;
+}
+
+
+/* Footer */
+footer {
+  border-top: 3px solid #232826;
+  margin: 64px 0 0;
+  padding: 18px 0 0;
+}
+
+footer p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  color: #5C635F;
+  margin: 0;
+}

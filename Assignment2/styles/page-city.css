@@ -1,0 +1,21 @@
+/* page-city.css — city.html
+   Blue: the sea wall and the water behind it.
+   Loaded after styles.css, so these rules win where they overlap. */
+
+header {
+  background-color: #245C82;
+}
+
+nav a[aria-current="page"] {
+  color: #245C82;
+  border-bottom: 3px solid #245C82;
+}
+
+main a,
+footer a {
+  color: #245C82;
+}
+
+main ul {
+  list-style-image: url('../images/bullet-city.png');
+}

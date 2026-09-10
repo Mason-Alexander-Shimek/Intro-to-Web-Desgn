@@ -1,0 +1,21 @@
+/* page-home.css — index.html
+   Green: the world before the walls went up.
+   Loaded after styles.css, so these rules win where they overlap. */
+
+header {
+  background-color: #2E6B4A;
+}
+
+nav a[aria-current="page"] {
+  color: #2E6B4A;
+  border-bottom: 3px solid #2E6B4A;
+}
+
+main a,
+footer a {
+  color: #2E6B4A;
+}
+
+main ul {
+  list-style-image: url('../images/bullet-home.png');
+}
