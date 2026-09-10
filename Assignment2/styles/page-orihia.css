@@ -1,0 +1,86 @@
+/* page-orihia.css — orihia.html
+   Red phosphor, and heavier than the other three pages on purpose. The
+   headings run as inverted alert bars rather than underlined text, and every
+   rule is thicker. Loaded after styles.css. */
+
+body {
+  background-color: #100608;
+  color: #D9B3B3;
+}
+
+nav {
+  border-bottom: 4px solid #6E2A2C;
+}
+
+nav a {
+  color: #8F7374;
+}
+
+nav a:hover {
+  color: #FF4B45;
+}
+
+nav a[aria-current="page"] {
+  background-color: #FF4B45;
+  color: #100608;
+}
+
+header {
+  background-color: #FF4B45;
+  color: #100608;
+  padding: 30px 24px 26px;
+}
+
+h1 {
+  font-size: 30px;
+  letter-spacing: 0.04em;
+  color: #100608;
+}
+
+header p {
+  border-top: 3px solid #100608;
+  padding: 15px 0 0;
+  margin: 18px 0 0;
+  color: #100608;
+}
+
+/* Inverted bars instead of the underlined headings the other pages use. */
+h2 {
+  background-color: #FF4B45;
+  color: #100608;
+  border-bottom: none;
+  padding: 8px 13px;
+  margin: 48px 0 20px;
+}
+
+main a,
+footer a,
+main li strong {
+  color: #FF4B45;
+}
+
+main ul {
+  list-style-image: url('../images/bullet-orihia.png');
+}
+
+/* The emblem file already has a black background, so it sits inside the
+   frame without a visible seam. 406px is its real width, so capping below
+   that keeps it an emblem rather than a banner across the column. */
+figure {
+  background-color: #000000;
+  border: 4px solid #6E2A2C;
+  padding: 30px 0 0;
+}
+
+figure img {
+  max-width: 300px;
+}
+
+figcaption,
+footer p {
+  color: #8F7374;
+}
+
+footer {
+  border-top: 4px solid #6E2A2C;
+}

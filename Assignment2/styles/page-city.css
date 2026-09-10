@@ -1,0 +1,63 @@
+/* page-city.css — city.html
+   Blue phosphor: the sea wall and the water behind it.
+   Loaded after styles.css, so these rules win where they overlap. */
+
+body {
+  background-color: #070B12;
+  color: #A8C4DC;
+}
+
+nav {
+  border-bottom-color: #33526E;
+}
+
+nav a {
+  color: #6B7E8F;
+}
+
+nav a:hover {
+  color: #48B4F0;
+}
+
+nav a[aria-current="page"] {
+  background-color: #48B4F0;
+  color: #070B12;
+}
+
+header {
+  background-color: #48B4F0;
+  color: #070B12;
+}
+
+h1,
+header p {
+  color: #070B12;
+}
+
+h2 {
+  color: #48B4F0;
+  border-bottom-color: #33526E;
+}
+
+main a,
+footer a,
+main li strong {
+  color: #48B4F0;
+}
+
+main ul {
+  list-style-image: url('../images/bullet-city.png');
+}
+
+figure {
+  border-color: #33526E;
+}
+
+figcaption,
+footer p {
+  color: #6B7E8F;
+}
+
+footer {
+  border-top-color: #33526E;
+}

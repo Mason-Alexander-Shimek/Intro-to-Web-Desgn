@@ -1,0 +1,63 @@
+/* page-factions.css — factions.html
+   Violet phosphor: everyone outside Orihia's chain of command.
+   Loaded after styles.css, so these rules win where they overlap. */
+
+body {
+  background-color: #0B0812;
+  color: #BCB0D9;
+}
+
+nav {
+  border-bottom-color: #4E3E73;
+}
+
+nav a {
+  color: #807795;
+}
+
+nav a:hover {
+  color: #A883F5;
+}
+
+nav a[aria-current="page"] {
+  background-color: #A883F5;
+  color: #0B0812;
+}
+
+header {
+  background-color: #A883F5;
+  color: #0B0812;
+}
+
+h1,
+header p {
+  color: #0B0812;
+}
+
+h2 {
+  color: #A883F5;
+  border-bottom-color: #4E3E73;
+}
+
+main a,
+footer a,
+main li strong {
+  color: #A883F5;
+}
+
+main ul {
+  list-style-image: url('../images/bullet-factions.png');
+}
+
+figure {
+  border-color: #4E3E73;
+}
+
+figcaption,
+footer p {
+  color: #807795;
+}
+
+footer {
+  border-top-color: #4E3E73;
+}

@@ -1,0 +1,169 @@
+/* styles.css — Assignment 2
+   Shared base for all four pages: an Orihia public access terminal.
+   Each page loads this first, then its own page-*.css, which tints the
+   screen and the phosphor to that page's colour. */
+
+
+/* The screen. The background is not pure black, because a CRT always
+   carries a faint cast from its phosphor even where nothing is lit.
+   680px holds a line to about 70 monospaced characters. */
+body {
+  background-color: #0B0D0C;
+  color: #B9C4BD;
+  font-family: Consolas, Monaco, "Courier New", Courier, monospace;
+  font-size: 16px;
+  line-height: 1.8;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
+}
+
+
+/* Navigation component, drawn as a row of console tabs.
+   These say `nav li`, not plain `li`. The lesson's demo page has one list,
+   so `li { display: inline-block; }` is safe there. This site has lists of
+   districts, directors and factions that would all collapse into one line. */
+nav {
+  border-bottom: 2px solid #2A312D;
+  padding: 22px 0 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 4px 0 0;
+}
+
+nav a {
+  display: inline-block;
+  font-size: 13px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #6E7A73;
+  text-decoration: none;
+  padding: 7px 13px;
+}
+
+nav a:hover {
+  color: #E6EFE9;
+}
+
+/* The page you are on is drawn in inverted video, the way a terminal marks
+   a selected item. Colours come from the page-*.css files. */
+
+
+/* Header. Inverted again: the band is lit phosphor and the text is cut out
+   of it in the screen colour. */
+header {
+  background-color: #B9C4BD;
+  color: #0B0D0C;
+  padding: 26px 22px 22px;
+  margin: 26px 0 40px;
+}
+
+h1 {
+  font-size: 26px;
+  line-height: 1.32;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #0B0D0C;
+  margin: 0 0 14px;
+}
+
+header p {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #0B0D0C;
+  margin: 0;
+}
+
+
+/* Headings and body text */
+h2 {
+  font-size: 17px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #E6EFE9;
+  margin: 46px 0 18px;
+  padding: 0 0 9px;
+  border-bottom: 1px solid #2A312D;
+}
+
+p {
+  margin: 0 0 20px;
+}
+
+
+/* Content lists. list-style-image is set per page, and those paths start
+   with ../ because CSS paths are relative to the CSS file: these sit inside
+   styles/ and have to step back out to reach images/. */
+main ul,
+main ol {
+  margin: 0 0 26px;
+  padding-left: 26px;
+}
+
+main li {
+  margin: 0 0 18px;
+  padding-left: 6px;
+}
+
+/* The name that opens each entry, lit brighter so it is easy to scan for. */
+main li strong {
+  color: #E6EFE9;
+}
+
+
+/* Links. Colour is set per page. */
+a {
+  color: #E6EFE9;
+  text-decoration: underline;
+}
+
+/* Without this, tabbing through the navigation is invisible. */
+a:focus {
+  outline: 2px solid #E6EFE9;
+  outline-offset: 3px;
+}
+
+
+/* Images. max-width: 100% shrinks them to fit a phone. */
+figure {
+  margin: 32px 0;
+  padding: 16px;
+  background-color: #060807;
+  border: 1px solid #2A312D;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #6E7A73;
+  text-align: center;
+  margin: 14px 0 0;
+}
+
+
+/* Footer */
+footer {
+  border-top: 2px solid #2A312D;
+  margin: 60px 0 0;
+  padding: 16px 0 0;
+}
+
+footer p {
+  font-size: 13px;
+  color: #6E7A73;
+  margin: 0;
+}

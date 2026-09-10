@@ -1,0 +1,63 @@
+/* page-home.css — index.html
+   Green phosphor: the world before the walls went up.
+   Loaded after styles.css, so these rules win where they overlap. */
+
+body {
+  background-color: #080C09;
+  color: #A9CBB6;
+}
+
+nav {
+  border-bottom-color: #3A5F49;
+}
+
+nav a {
+  color: #6A8173;
+}
+
+nav a:hover {
+  color: #46D986;
+}
+
+nav a[aria-current="page"] {
+  background-color: #46D986;
+  color: #080C09;
+}
+
+header {
+  background-color: #46D986;
+  color: #080C09;
+}
+
+h1,
+header p {
+  color: #080C09;
+}
+
+h2 {
+  color: #46D986;
+  border-bottom-color: #3A5F49;
+}
+
+main a,
+footer a,
+main li strong {
+  color: #46D986;
+}
+
+main ul {
+  list-style-image: url('../images/bullet-home.png');
+}
+
+figure {
+  border-color: #3A5F49;
+}
+
+figcaption,
+footer p {
+  color: #6A8173;
+}
+
+footer {
+  border-top-color: #3A5F49;
+}
