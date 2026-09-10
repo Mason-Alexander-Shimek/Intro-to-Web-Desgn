@@ -1,10 +1,4 @@
-/* styles.css — Assignment 2
-   Shared base for all four pages. Each page loads this first, then its own
-   page-*.css file, which swaps in that page's accent colour. */
 
-
-/* Page foundation. 700px holds a line of text to about 80 characters,
-   and margin: 0 auto centres the column. */
 body {
   background-color: #E9EAE4;
   color: #232826;
@@ -17,10 +11,7 @@ body {
 }
 
 
-/* Navigation component.
-   These say `nav li`, not plain `li`. The lesson's demo page has one list,
-   so `li { display: inline-block; }` is safe there. This site has lists of
-   districts, directors and factions that would all collapse into one line. */
+
 nav {
   border-bottom: 3px solid #232826;
   padding: 20px 0 12px;
@@ -51,7 +42,6 @@ nav a:hover {
 }
 
 
-/* Header band. background-color is set in the page-*.css files. */
 header {
   color: #F6F7F3;
   padding: 32px 26px 28px;
@@ -88,9 +78,7 @@ p {
 }
 
 
-/* Content lists. list-style-image is set per page, and those paths start
-   with ../ because CSS paths are relative to the CSS file: these sit inside
-   styles/ and have to step back out to reach images/. */
+
 main ul,
 main ol {
   margin: 0 0 26px;
