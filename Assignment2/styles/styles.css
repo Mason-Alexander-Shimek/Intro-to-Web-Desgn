@@ -4,9 +4,6 @@
    screen and the phosphor to that page's colour. */
 
 
-/* The screen. The background is not pure black, because a CRT always
-   carries a faint cast from its phosphor even where nothing is lit.
-   680px holds a line to about 70 monospaced characters. */
 body {
   background-color: #0B0D0C;
   color: #B9C4BD;
@@ -19,10 +16,6 @@ body {
 }
 
 
-/* Navigation component, drawn as a row of console tabs.
-   These say `nav li`, not plain `li`. The lesson's demo page has one list,
-   so `li { display: inline-block; }` is safe there. This site has lists of
-   districts, directors and factions that would all collapse into one line. */
 nav {
   border-bottom: 2px solid #2A312D;
   padding: 22px 0 0;
@@ -99,9 +92,6 @@ p {
 }
 
 
-/* Content lists. list-style-image is set per page, and those paths start
-   with ../ because CSS paths are relative to the CSS file: these sit inside
-   styles/ and have to step back out to reach images/. */
 main ul,
 main ol {
   margin: 0 0 26px;
@@ -119,13 +109,12 @@ main li strong {
 }
 
 
-/* Links. Colour is set per page. */
+
 a {
   color: #E6EFE9;
   text-decoration: underline;
 }
 
-/* Without this, tabbing through the navigation is invisible. */
 a:focus {
   outline: 2px solid #E6EFE9;
   outline-offset: 3px;
@@ -155,7 +144,6 @@ figcaption {
 }
 
 
-/* Footer */
 footer {
   border-top: 2px solid #2A312D;
   margin: 60px 0 0;
