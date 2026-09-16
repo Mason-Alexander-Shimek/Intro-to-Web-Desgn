@@ -1,15 +1,3 @@
-/* styles.css — Assignment 3
-   One stylesheet for all four pages. Now that we have classes, each page just
-   carries a class on its <body> tag and the themes at the bottom of this file
-   switch the phosphor colour for the whole screen. */
-
-
-/* ============================================================
-   1. THE SCREEN
-   The background is never pure black, because a CRT carries a faint cast
-   from its phosphor even where nothing is lit. 680px holds a line to about
-   70 monospaced characters.
-   ============================================================ */
 body {
   background-color: #0B0D0C;
   color: #B9C4BD;
@@ -22,12 +10,6 @@ body {
 }
 
 
-/* ============================================================
-   2. NAVIGATION COMPONENT
-   `nav li`, not plain `li`. The lesson's demo page has one list, so
-   `li { display: inline-block; }` is safe there. This site has lists of
-   districts, directors and factions that would all collapse into one line.
-   ============================================================ */
 nav {
   border-bottom: 2px solid #2A312D;
   padding: 22px 0 0;
@@ -59,16 +41,11 @@ nav a:hover {
 }
 
 
-/* ============================================================
-   3. HERO COMPONENT
-   Opens every page. On the homepage it also holds the map, a quotation and
-   its citation; the other three pages use just the header block.
-   ============================================================ */
+
 .hero {
   margin: 26px 0 42px;
 }
 
-/* Inverted video: the band is lit phosphor and the text is cut out of it. */
 .hero header {
   background-color: #B9C4BD;
   color: #0B0D0C;
@@ -83,8 +60,7 @@ nav a:hover {
   margin: 0 0 14px;
 }
 
-/* The subtitle. Scoped to the hero so it keeps well clear of the section
-   headings in main, which are also <h2> but look nothing like this. */
+
 .hero header h2 {
   font-size: 14px;
   line-height: 1.65;
@@ -116,8 +92,7 @@ nav a:hover {
   margin: 0;
 }
 
-/* The quotation and its citation share one background so they read as a
-   single panel rather than two stray pieces of text. */
+
 .hero blockquote {
   text-align: center;
   max-width: 100%;
@@ -139,21 +114,13 @@ nav a:hover {
 }
 
 
-/* ============================================================
-   4. FILE CARD COMPONENT
-   One card, written once and used three times on the homepage. The group
-   is centred by giving the parent text-align: center, which works because
-   the cards themselves are inline-block.
-   ============================================================ */
+
 .file-card-group {
   text-align: center;
   margin: 36px 0 46px;
 }
 
-/* max-width is 24%, not a third, because the padding and border below are
-   added on top of that width rather than included in it. min-width is what
-   makes the cards drop onto separate rows on a phone instead of shrinking
-   to nothing. */
+
 .file-card {
   display: inline-block;
   vertical-align: top;
@@ -204,9 +171,7 @@ nav a:hover {
 }
 
 
-/* ============================================================
-   5. HEADINGS, TEXT AND LISTS IN MAIN
-   ============================================================ */
+
 main h2 {
   font-size: 17px;
   letter-spacing: 0.07em;
@@ -220,9 +185,7 @@ p {
   margin: 0 0 20px;
 }
 
-/* list-style-image is set per theme, and those paths start with ../ because
-   CSS paths are relative to the CSS file: this one sits inside styles/ and
-   has to step back out to reach images/. */
+
 main ul,
 main ol {
   margin: 0 0 26px;
@@ -240,9 +203,7 @@ main li strong {
 }
 
 
-/* ============================================================
-   6. LINKS, FIGURES IN MAIN, AND THE FOOTER
-   ============================================================ */
+
 a {
   color: #E6EFE9;
   text-decoration: underline;
@@ -286,10 +247,7 @@ footer p {
 }
 
 
-/* ============================================================
-   7. PAGE THEMES
-   Each page carries one of these class names on its <body> tag.
-   ============================================================ */
+
 
 /* ---- .page-home — Green phosphor: the world before the walls went up. ---- */
 .page-home {
@@ -297,7 +255,6 @@ footer p {
   color: #A9CBB6;
 }
 
-/* Everything that draws a rule on this page. */
 .page-home nav,
 .page-home main h2,
 .page-home main figure,
@@ -305,7 +262,6 @@ footer p {
   border-color: #3A5F49;
 }
 
-/* Dimmed text: labels and anything secondary. */
 .page-home nav a,
 .page-home .hero figcaption,
 .page-home .hero cite,
@@ -324,14 +280,12 @@ footer p {
   color: #46D986;
 }
 
-/* Inverted video, the way a terminal marks a selected item. */
 .page-home nav a[aria-current="page"],
 .page-home .hero header {
   background-color: #46D986;
   color: #080C09;
 }
 
-/* Panels sitting just above the screen black. */
 .page-home .hero blockquote,
 .page-home .hero cite,
 .page-home .file-card {
@@ -342,13 +296,11 @@ footer p {
   list-style-image: url('../images/bullet-home.png');
 }
 
-/* ---- .page-city — Blue phosphor: the sea wall and the water behind it. ---- */
 .page-city {
   background-color: #070B12;
   color: #A8C4DC;
 }
 
-/* Everything that draws a rule on this page. */
 .page-city nav,
 .page-city main h2,
 .page-city main figure,
@@ -356,7 +308,6 @@ footer p {
   border-color: #33526E;
 }
 
-/* Dimmed text: labels and anything secondary. */
 .page-city nav a,
 .page-city .hero figcaption,
 .page-city .hero cite,
@@ -365,7 +316,6 @@ footer p {
   color: #6B7E8F;
 }
 
-/* Lit text: headings, links and the names that open each entry. */
 .page-city nav a:hover,
 .page-city main h2,
 .page-city main a,
@@ -375,14 +325,12 @@ footer p {
   color: #48B4F0;
 }
 
-/* Inverted video, the way a terminal marks a selected item. */
 .page-city nav a[aria-current="page"],
 .page-city .hero header {
   background-color: #48B4F0;
   color: #070B12;
 }
 
-/* Panels sitting just above the screen black. */
 .page-city .hero blockquote,
 .page-city .hero cite,
 .page-city .file-card {
@@ -393,13 +341,11 @@ footer p {
   list-style-image: url('../images/bullet-city.png');
 }
 
-/* ---- .page-orihia — Red phosphor. This page also runs heavier than the other three. ---- */
 .page-orihia {
   background-color: #100608;
   color: #D9B3B3;
 }
 
-/* Everything that draws a rule on this page. */
 .page-orihia nav,
 .page-orihia main h2,
 .page-orihia main figure,
@@ -407,7 +353,6 @@ footer p {
   border-color: #6E2A2C;
 }
 
-/* Dimmed text: labels and anything secondary. */
 .page-orihia nav a,
 .page-orihia .hero figcaption,
 .page-orihia .hero cite,
@@ -416,7 +361,6 @@ footer p {
   color: #8F7374;
 }
 
-/* Lit text: headings, links and the names that open each entry. */
 .page-orihia nav a:hover,
 .page-orihia main h2,
 .page-orihia main a,
@@ -426,7 +370,6 @@ footer p {
   color: #FF4B45;
 }
 
-/* Inverted video, the way a terminal marks a selected item. */
 .page-orihia nav a[aria-current="page"],
 .page-orihia .hero header {
   background-color: #FF4B45;
@@ -444,13 +387,11 @@ footer p {
   list-style-image: url('../images/bullet-orihia.png');
 }
 
-/* ---- .page-factions — Violet phosphor: everyone outside Orihia's chain of command. ---- */
 .page-factions {
   background-color: #0B0812;
   color: #BCB0D9;
 }
 
-/* Everything that draws a rule on this page. */
 .page-factions nav,
 .page-factions main h2,
 .page-factions main figure,
@@ -458,7 +399,6 @@ footer p {
   border-color: #4E3E73;
 }
 
-/* Dimmed text: labels and anything secondary. */
 .page-factions nav a,
 .page-factions .hero figcaption,
 .page-factions .hero cite,
@@ -467,7 +407,6 @@ footer p {
   color: #807795;
 }
 
-/* Lit text: headings, links and the names that open each entry. */
 .page-factions nav a:hover,
 .page-factions main h2,
 .page-factions main a,
@@ -477,14 +416,12 @@ footer p {
   color: #A883F5;
 }
 
-/* Inverted video, the way a terminal marks a selected item. */
 .page-factions nav a[aria-current="page"],
 .page-factions .hero header {
   background-color: #A883F5;
   color: #0B0812;
 }
 
-/* Panels sitting just above the screen black. */
 .page-factions .hero blockquote,
 .page-factions .hero cite,
 .page-factions .file-card {
@@ -495,7 +432,6 @@ footer p {
   list-style-image: url('../images/bullet-factions.png');
 }
 
-/* ---- Orihia runs heavier than the rest: it owns the city ---- */
 .page-orihia nav,
 .page-orihia footer {
   border-width: 4px;
@@ -512,7 +448,6 @@ footer p {
   margin: 18px 0 0;
 }
 
-/* Inverted alert bars instead of the underlined headings the others use. */
 .page-orihia main h2 {
   background-color: #FF4B45;
   color: #100608;
@@ -521,9 +456,7 @@ footer p {
   margin: 48px 0 20px;
 }
 
-/* The emblem file already has a black background, so it sits inside the frame
-   without a visible seam. 406px is its real width, so capping below that keeps
-   it an emblem rather than a banner across the column. */
+
 .page-orihia main figure {
   background-color: #000000;
   border-width: 4px;
@@ -540,16 +473,7 @@ footer p {
 }
 
 
-/* ============================================================
-   8. CARD VARIANTS
-   These sit last on purpose. The theme above styles every link inside main,
-   and these selectors are no more specific than that one, so the only thing
-   that decides the winner is which rule the browser reads last.
-   ============================================================ */
 
-/* Each card borrows the phosphor of the page it leads to, so the group
-   previews the colour coding before you get there. The second class on the
-   div is what picks it: class="file-card card-city". */
 .card-city {
   border-color: #33526E;
 }
