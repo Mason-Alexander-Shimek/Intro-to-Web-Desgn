@@ -1,8 +1,3 @@
-/* styles.css — Assignment 4
-   One stylesheet for every page. The body class picks the page theme. */
-
-
-/* 1. THE SCREEN */
 body {
   background-color: #0B0D0C;
   color: #B9C4BD;
@@ -16,7 +11,6 @@ body {
 }
 
 
-/* 2. NAVIGATION COMPONENT */
 nav {
   position: sticky;
   top: 0;
@@ -52,7 +46,6 @@ nav a:hover {
 }
 
 
-/* 3. HERO COMPONENT */
 .hero {
   margin: 26px 0 42px;
 }
@@ -128,7 +121,6 @@ nav a:hover {
 }
 
 
-/* 4. FILE CARD COMPONENT */
 .file-card-group {
   text-align: center;
   margin: 36px 0 46px;
@@ -184,7 +176,6 @@ nav a:hover {
 }
 
 
-/* 5. HEADINGS, TEXT AND LISTS IN MAIN */
 main h2 {
   font-size: 17px;
   letter-spacing: 0.07em;
@@ -222,7 +213,6 @@ main li strong {
 }
 
 
-/* 6. LINKS, FIGURES IN MAIN, AND THE FOOTER */
 a {
   color: #E6EFE9;
   text-decoration: underline;
@@ -265,7 +255,6 @@ footer p {
 }
 
 
-/* 7. FORM COMPONENT */
 .lore-form {
   background-color: #121614;
   border: 1px solid #2A312D;
@@ -346,7 +335,6 @@ footer p {
 }
 
 
-/* 8. TABLE */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -384,7 +372,6 @@ code {
 }
 
 
-/* 9. GALLERY */
 #gallery {
   display: flex;
   flex-wrap: wrap;
@@ -416,7 +403,6 @@ code {
 }
 
 
-/* 10. PAGE THEMES */
 .page-home {
   background-color: #080C09;
   color: #A9CBB6;
@@ -641,7 +627,6 @@ code {
 }
 
 
-/* 11. PAGE THEMES FOR THE NEW COMPONENTS */
 .page-home nav {
   background-color: #080C09;
 }
