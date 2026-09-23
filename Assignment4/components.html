@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Component Library</title>
+
+  <!-- Google Fonts: VT323 for the big display type, IBM Plex Mono for reading. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=VT323&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+
+  <!-- ------------------------------------------------ -->
+  <!-- ------------------ TEST AREA ------------------- -->
+  <!-- ------------------------------------------------ -->
+  <!-- New components go here first, directly under the opening body tag, so
+       they are the first thing on screen when the page reloads. Give the test
+       one a throwaway class like class="card-test", style it at the top of
+       the stylesheet, then move it down into the library once it works. -->
+
+
+  <nav id="top">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="city.html">The City</a></li>
+      <li><a href="orihia.html">Orihia</a></li>
+      <li><a href="factions.html">Factions</a></li>
+    </ul>
+  </nav>
+  <main>
+
+    <h2>Component Library</h2>
+    <p>Every reusable piece of this site in one place, with no page theme
+      applied. The body tag here carries no page class, so these are the base
+      versions; each page's own class recolours them.</p>
+
+    <hr>
+
+  <!-- ------------------------------------------------ -->
+  <!-- --------------------HERO-------------------- -->
+  <!-- ------------------------------------------------ -->
+
+  <div class="hero">
+    <header>
+      <h1>A Setting for a Cyberpunk TTRPG Campaign</h1>
+      <h2>A player&rsquo;s guide to Moscow, the Orihia Corporation, and the world outside the wall.</h2>
+    </header>
+
+    <figure>
+      <img src="images/world-map-terminal.png" alt="A world map showing the coastlines after the sea levels rose, drawn as lit green land against unlit ocean. Many familiar coastlines are shrunk or broken into islands.">
+      <figcaption>For your reference, here is a more or less accurate map of what the world looks like now in this universe.</figcaption>
+    </figure>
+
+    <blockquote>This is life, and it&rsquo;s normal. People do as they always do. They try to survive.</blockquote>
+    <cite>Player&rsquo;s Guide &mdash; A Brief History</cite>
+  </div>
+    <hr>
+
+  <!-- ------------------------------------------------ -->
+  <!-- --------------FILE CARD GROUP--------------- -->
+  <!-- ------------------------------------------------ -->
+
+    <div class="file-card-group">
+
+      <div class="file-card card-city">
+        <h3><a href="city.html">The City</a></h3>
+        <cite>city.html</cite>
+        <img src="images/card-city.png" alt="Schematic of Moscow: concentric security rings around the Citadel, over a street grid.">
+        <p>Eight subsectors, from the sealed Citadel down to the Quarantine Zone. Where you live decides what you breathe.</p>
+      </div>
+
+      <div class="file-card card-orihia">
+        <h3><a href="orihia.html">Orihia</a></h3>
+        <cite>orihia.html</cite>
+        <img src="images/card-orihia.png" alt="The emblem of Orihia International Armaments.">
+        <p>Weapons manufacturing, private military contracting, and the directors who sign off on both.</p>
+      </div>
+
+      <div class="file-card card-factions">
+        <h3><a href="factions.html">Factions</a></h3>
+        <cite>factions.html</cite>
+        <img src="images/card-factions.png" alt="Schematic of competing organisations drawn as linked nodes with no single centre.">
+        <p>The corporations, syndicates and cults you might work for, run from, or both at once.</p>
+      </div>
+
+    </div>
+    <hr>
+
+  <!-- ------------------------------------------------ -->
+  <!-- --------------------FORM-------------------- -->
+  <!-- ------------------------------------------------ -->
+
+    <!-- The form has no action attribute: GitHub Pages is static, so nothing
+         is sent anywhere yet. Point it at a form service when that changes. -->
+    <form class="lore-form">
+      <fieldset>
+        <legend>Request More Lore</legend>
+
+        <label for="handle">Your name or handle</label>
+        <input type="text" id="handle" name="handle" placeholder="e.g. Mason, or your Discord tag">
+
+        <label for="contact">Email address</label>
+        <input type="email" id="contact" name="contact" placeholder="e.g. you@example.com">
+
+        <label for="area">Which part of the setting?</label>
+        <select id="area" name="area">
+          <option value="history">The world before the walls</option>
+          <option value="city">Moscow and its subsectors</option>
+          <option value="orihia">The Orihia Corporation</option>
+          <option value="factions">Other organizations</option>
+          <option value="other">Something not listed here</option>
+        </select>
+
+        <label for="question">What do you want to know?</label>
+        <textarea id="question" name="question" rows="5" placeholder="Ask about a district, a faction, a piece of tech, or anything your character would plausibly have heard of."></textarea>
+
+        <label>Where are you in character creation?</label>
+        <label class="choice"><input type="radio" name="stage" value="idea"> Still kicking ideas around</label>
+        <label class="choice"><input type="radio" name="stage" value="drafting"> Drafting a character</label>
+        <label class="choice"><input type="radio" name="stage" value="ready"> Sheet is basically done</label>
+
+        <label class="choice"><input type="checkbox" name="notify" value="yes"> Tell me when this guide is updated</label>
+
+        <button type="submit">Transmit Request</button>
+      </fieldset>
+    </form>
+    <hr>
+
+  <!-- ------------------------------------------------ -->
+  <!-- -------------------TABLE-------------------- -->
+  <!-- ------------------------------------------------ -->
+
+    <table>
+      <thead>
+        <tr>
+          <th>Roll</th>
+          <th>Subsector</th>
+          <th>At a glance</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>The Citadel Precinct</td>
+          <td>Sealed, tiered by rank, wrapped in its own smog storm</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>The Entertainment Quarter</td>
+          <td>The one sector with no curfew. Casinos, stadiums, night markets</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Foundry Wards</td>
+          <td>Weapon plants and munitions dumps. Ozone and molten alloy</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Saprozona</td>
+          <td>The Quarantine Zone, cordoned off and overtaken by a fungal nanobiome</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>The Archology</td>
+          <td>Admin offices, datacenters and legal, kept outside the Citadel</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>The Belt</td>
+          <td>The city's whole ocean frontage. Railheads and river terminals</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>New Moskova Ecologies</td>
+          <td>Engineered biospheres growing food, synthetic air and pharma</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>The Bastion</td>
+          <td>Militarised buffer between the city and the wasteland</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
+  <!-- ------------------------------------------------ -->
+  <!-- ------------------GALLERY------------------- -->
+  <!-- ------------------------------------------------ -->
+
+    <div id="gallery">
+        <figure>
+          <img src="images/mark-allray.png" alt="Registry mark for Allray International.">
+          <figcaption>Allray International</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-phalanx.png" alt="Registry mark for Phalanx Corporate Security.">
+          <figcaption>Phalanx Corporate Security</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-nexus.png" alt="Registry mark for Nexus Solutions.">
+          <figcaption>Nexus Solutions</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-cybertech.png" alt="Registry mark for Cybertech.">
+          <figcaption>Cybertech</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-heaven.png" alt="Registry mark for Heaven Incorporated.">
+          <figcaption>Heaven Incorporated</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-real.png" alt="Registry mark for Real™.">
+          <figcaption>Real™</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-terrestrial.png" alt="Registry mark for The Terrestrial Economic Union.">
+          <figcaption>The Terrestrial Economic Union</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-kuriheiki.png" alt="Registry mark for Kurīheiki Salvage.">
+          <figcaption>Kurīheiki Salvage</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-crow.png" alt="Registry mark for The Crow Garrisons.">
+          <figcaption>The Crow Garrisons</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-orthodoxy.png" alt="Registry mark for The Orthodoxy.">
+          <figcaption>The Orthodoxy</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-firedragon.png" alt="Registry mark for The Fire Dragons.">
+          <figcaption>The Fire Dragons</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-konton.png" alt="Registry mark for Konton.">
+          <figcaption>Konton</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-corruption.png" alt="Registry mark for The Corruption.">
+          <figcaption>The Corruption</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-kurokami.png" alt="Registry mark for Kurokami Clan.">
+          <figcaption>Kurokami Clan</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-osiris.png" alt="Registry mark for The Children of Osiris.">
+          <figcaption>The Children of Osiris</figcaption>
+        </figure>
+        <figure>
+          <img src="images/mark-unicode.png" alt="Registry mark for The Unicode Collective.">
+          <figcaption>The Unicode Collective</figcaption>
+        </figure>
+    </div>
+    <hr>
+
+  <!-- ------------------------------------------------ -->
+  <!-- ------------------ICON SET------------------ -->
+  <!-- ------------------------------------------------ -->
+
+    <div id="icon-set">
+        <figure>
+          <img src="images/icon-terminal.png" alt="Terminal readout icon.">
+          <figcaption>terminal</figcaption>
+        </figure>
+        <figure>
+          <img src="images/icon-rings.png" alt="Concentric city rings icon.">
+          <figcaption>rings</figcaption>
+        </figure>
+        <figure>
+          <img src="images/icon-alert.png" alt="Warning triangle icon.">
+          <figcaption>alert</figcaption>
+        </figure>
+        <figure>
+          <img src="images/icon-network.png" alt="Linked nodes icon.">
+          <figcaption>network</figcaption>
+        </figure>
+        <figure>
+          <img src="images/icon-transmit.png" alt="Broadcast mast icon.">
+          <figcaption>transmit</figcaption>
+        </figure>
+        <figure>
+          <img src="images/icon-die.png" alt="Eight-sided die icon.">
+          <figcaption>die</figcaption>
+        </figure>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>Component library for Assignment 4 of my Intro to Web Design course.
+      <a href="index.html">Back to the site</a>.</p>
+  </footer>
+
+</body>
+</html>
