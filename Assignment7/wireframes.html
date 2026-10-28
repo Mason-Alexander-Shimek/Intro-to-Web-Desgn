@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vallam &mdash; Page Wireframes</title>
+<link rel="stylesheet" href="styles/wireframes.css">
+</head>
+<body>
+
+<header class="sheet-head">
+  <p class="eyebrow">Assignment 7 &middot; Module 7 Deliverable 1</p>
+  <h1>Vallam Lore Reference &mdash; Page Wireframes</h1>
+  <p class="sub">Six pages. Every block is a named component from the library. Tags mark which
+     layout system holds the block together, so the Flexbox and Grid decisions are visible
+     before any styling exists.</p>
+  <ul class="key">
+    <li><span class="tag flex">FLEX</span> one-dimensional row or column</li>
+    <li><span class="tag grid">GRID</span> two-dimensional, auto-fit columns</li>
+    <li><span class="tag flow">FLOW</span> normal document flow</li>
+  </ul>
+</header>
+
+<main class="sheets">
+
+  <!-- 1 -->
+  <section class="sheet">
+    <h2>1 &middot; index.html <span class="file">Home</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span><em>brand left, 5 links right, wraps to column under 600px</em></div>
+      <div class="b tall hero">.hero-plate <span class="tag flex">FLEX</span><em>full-bleed sepia band, title + standfirst centred over it</em></div>
+      <div class="b">.part-intro <span class="tag flow">FLOW</span><em>what this archive is, in two short paragraphs</em></div>
+      <div class="b grid5">.gateway-grid &rsaquo; 5 &times; .gateway-card <span class="tag grid">GRID</span>
+        <em>auto-fit minmax(240px, 1fr) &mdash; one card per part, each with its emblem</em>
+        <div class="cells"><i>World</i><i>Dominion</i><i>Vallam</i><i>Factions</i><i>Houses</i></div>
+      </div>
+      <div class="b wide">.figure-band &rsaquo; city map <span class="tag flow">FLOW</span><em>full map, links through to the neighbourhood index</em></div>
+      <div class="b">.pull &mdash; in-world epigraph <span class="tag flow">FLOW</span></div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 2 -->
+  <section class="sheet">
+    <h2>2 &middot; world.html <span class="file">The World</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b hero">.hero-plate &mdash; world map <span class="tag flex">FLEX</span></div>
+      <div class="b split">
+        <div class="col rail">.toc-rail <span class="tag flow">FLOW</span><em>sticky; 6 anchors</em></div>
+        <div class="col">
+          <div class="b in">.lore-section &times; 6 <span class="tag flow">FLOW</span><em>Morphe &middot; day &amp; year &middot; moon &middot; climate &middot; Nihil &middot; continents</em></div>
+          <div class="b in grid3">.card-grid &rsaquo; .entry-card <span class="tag grid">GRID</span><em>the two religions, crest + text</em></div>
+        </div>
+      </div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 3 -->
+  <section class="sheet">
+    <h2>3 &middot; dominion.html <span class="file">Fairbourne</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b hero">.hero-plate <span class="tag flex">FLEX</span></div>
+      <div class="b split">
+        <div class="col rail">.toc-rail <span class="tag flow">FLOW</span></div>
+        <div class="col">
+          <div class="b in">.lore-section &times; 4 <span class="tag flow">FLOW</span><em>founding &middot; parliament &middot; the Dominion &middot; the Great War</em></div>
+          <div class="b in wide">.figure-band &mdash; war banner <span class="tag flow">FLOW</span></div>
+          <div class="b in">.lore-section &mdash; Cerani and R&#259;vin <span class="tag flow">FLOW</span></div>
+        </div>
+      </div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 4 -->
+  <section class="sheet">
+    <h2>4 &middot; vallam.html <span class="file">The City</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b hero">.hero-plate <span class="tag flex">FLEX</span></div>
+      <div class="b split">
+        <div class="col rail">.toc-rail <span class="tag flow">FLOW</span><em>culture, then 12 places</em></div>
+        <div class="col">
+          <div class="b in">.lore-section &times; 4 <span class="tag flow">FLOW</span><em>the Vallammer &middot; war &middot; prohibition &middot; immigration</em></div>
+          <div class="b in wide">.figure-band &mdash; full city map <span class="tag flow">FLOW</span></div>
+          <div class="b in grid3">.place-grid &rsaquo; .place-card &times; 12 <span class="tag grid">GRID</span>
+            <em>auto-fit minmax(300px, 1fr); each card = map locator tile + name + grid ref</em>
+            <div class="cells"><i>Confluence</i><i>Merchant</i><i>Terrace</i><i>Greenvale</i><i>Aldenmere</i><i>Ironside</i></div>
+          </div>
+        </div>
+      </div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 5 -->
+  <section class="sheet">
+    <h2>5 &middot; factions.html <span class="file">Organisations</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b hero">.hero-plate <span class="tag flex">FLEX</span></div>
+      <div class="b split">
+        <div class="col rail">.toc-rail <span class="tag flow">FLOW</span><em>6 category anchors</em></div>
+        <div class="col">
+          <div class="b in">.cat-head &times; 6 <span class="tag flow">FLOW</span><em>government &middot; press &middot; civic &middot; academic &middot; cultural &middot; congregation</em></div>
+          <div class="b in grid2">.card-grid &rsaquo; .entry-card &times; 23 <span class="tag grid">GRID</span>
+            <em>auto-fit minmax(330px, 1fr)</em>
+            <div class="cells"><i>crest + name</i><i>crest + name</i><i>crest + name</i><i>crest + name</i></div>
+          </div>
+          <div class="b in">.entry-card inner <span class="tag flex">FLEX</span><em>crest column + text column; stacks under 600px</em></div>
+          <div class="b in">.dossier <span class="tag flex">FLEX</span><em>the 10pt "Location:" line, set as a labelled field</em></div>
+        </div>
+      </div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 6 -->
+  <section class="sheet">
+    <h2>6 &middot; houses.html <span class="file">Houses &amp; Underworld</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b hero">.hero-plate <span class="tag flex">FLEX</span></div>
+      <div class="b split">
+        <div class="col rail">.toc-rail <span class="tag flow">FLOW</span><em>9 houses, 7 outfits</em></div>
+        <div class="col">
+          <div class="b in">.cat-head &mdash; The Wealthy Families <span class="tag flow">FLOW</span></div>
+          <div class="b in grid3">.crest-grid &rsaquo; .house-card &times; 9 <span class="tag grid">GRID</span>
+            <em>crest sits large and centred; the crest is the way in</em>
+            <div class="cells"><i>Fairchild</i><i>Harwick-Sel</i><i>Calloway</i><i>Spencer</i><i>Rajiv</i><i>Foulere</i></div>
+          </div>
+          <div class="b in">.cat-head &mdash; Criminal Organisations <span class="tag flow">FLOW</span><em>rhythm breaks here on purpose</em></div>
+          <div class="b in grid2">.card-grid &rsaquo; .entry-card &times; 7 <span class="tag grid">GRID</span></div>
+        </div>
+      </div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="sheet-foot">
+  <p>Mason Shimek &middot; Intro to Web Design &middot; Assignment 7 &middot; wireframes drafted before build</p>
+</footer>
+
+</body>
+</html>

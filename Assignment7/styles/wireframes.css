@@ -1,0 +1,183 @@
+/* Wireframe sheet. Deliberately greyscale and unstyled-looking:
+   this shows structure and layout system only, not the finished design. */
+
+:root {
+  --ink: #1b1b1b;
+  --mid: #6d6d6d;
+  --line: #b9b9b9;
+  --fill: #ececec;
+  --fill-2: #dedede;
+  --paper: #f7f7f5;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 36px 28px 60px;
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* ---- sheet header ---- */
+.sheet-head { max-width: 940px; margin: 0 auto 40px; }
+
+.eyebrow {
+  margin: 0 0 6px;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+
+.sheet-head h1 { margin: 0 0 10px; font-size: 30px; font-weight: 700; }
+.sheet-head .sub { margin: 0 0 18px; max-width: 70ch; color: #3c3c3c; }
+
+.key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 0;
+  padding: 14px 16px;
+  list-style: none;
+  border: 1px solid var(--line);
+  background-color: #fff;
+  font-size: 13px;
+}
+
+.key li { display: flex; align-items: center; gap: 8px; }
+
+/* ---- the six sheets ---- */
+.sheets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  gap: 26px;
+  align-items: start;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.sheet {
+  border: 1px solid var(--line);
+  background-color: #fff;
+  padding: 16px 16px 20px;
+}
+
+.sheet h2 {
+  margin: 0 0 14px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--ink);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.sheet h2 .file {
+  float: right;
+  font-weight: 400;
+  color: var(--mid);
+}
+
+/* ---- blocks ---- */
+.wf { display: flex; flex-direction: column; gap: 8px; }
+
+.b {
+  position: relative;
+  border: 1px solid var(--line);
+  background-color: var(--fill);
+  padding: 10px 12px 11px;
+  font-size: 12.5px;
+  font-weight: 600;
+}
+
+.b em {
+  display: block;
+  margin-top: 3px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 11.5px;
+  color: #555;
+}
+
+.b.in { background-color: var(--fill-2); }
+.b.nav, .b.foot { background-color: #cfcfcf; }
+.b.hero { background-color: #c4c4c4; padding-top: 26px; padding-bottom: 26px; }
+.b.tall { padding-top: 46px; padding-bottom: 46px; }
+.b.wide { background-color: #c9c9c9; padding-top: 20px; padding-bottom: 20px; }
+
+/* two-column body: sticky rail beside content */
+.b.split {
+  display: flex;
+  gap: 8px;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+.col { display: flex; flex-direction: column; gap: 8px; }
+.col.rail {
+  flex: 0 0 112px;
+  border: 1px dashed var(--mid);
+  background-color: #f1f1f1;
+  padding: 10px 8px;
+  font-size: 11.5px;
+  font-weight: 600;
+}
+.col:not(.rail) { flex: 1; }
+
+/* the little cell swatches that show a grid's children */
+.cells {
+  display: grid;
+  gap: 5px;
+  margin-top: 8px;
+}
+.grid2 .cells { grid-template-columns: repeat(2, 1fr); }
+.grid3 .cells { grid-template-columns: repeat(3, 1fr); }
+.grid5 .cells { grid-template-columns: repeat(5, 1fr); }
+
+.cells i {
+  display: block;
+  padding: 12px 4px;
+  border: 1px solid var(--mid);
+  background-color: #fff;
+  font-style: normal;
+  font-size: 10.5px;
+  font-weight: 500;
+  text-align: center;
+  color: #444;
+}
+
+/* ---- layout-system tags ---- */
+.tag {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 7px;
+  border-radius: 2px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  vertical-align: 1px;
+  color: #fff;
+}
+
+.tag.flex { background-color: #2f6f4f; }
+.tag.grid { background-color: #2b4e86; }
+.tag.flow { background-color: #7a7a7a; }
+
+.sheet-foot {
+  max-width: 1500px;
+  margin: 40px auto 0;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  color: var(--mid);
+}
+
+@media (max-width: 600px) {
+  body { padding: 20px 14px 40px; }
+  .b.split { flex-direction: column; }
+  .col.rail { flex: 1 1 auto; }
+  .grid5 .cells, .grid3 .cells { grid-template-columns: repeat(2, 1fr); }
+}
