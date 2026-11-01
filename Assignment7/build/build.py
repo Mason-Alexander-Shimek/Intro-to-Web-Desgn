@@ -1,9 +1,3 @@
-"""Generate the Missoula Resource Finder from content.json.
-
-The generator exists so every listing is built from one template: the proposal
-promises that each one answers the same four questions in the same order, and
-hand-writing twelve of them is how that promise quietly breaks.
-"""
 import json, html, re, pathlib, unicodedata
 
 HERE = pathlib.Path(__file__).resolve().parent
