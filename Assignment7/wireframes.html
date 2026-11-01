@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Missoula Resource Finder &mdash; Page Wireframes</title>
+<link rel="stylesheet" href="styles/wireframes.css">
+</head>
+<body>
+
+<header class="sheet-head">
+  <p class="eyebrow">Assignment 7 &middot; Module 7 Deliverable 1</p>
+  <h1>Missoula Resource Finder &mdash; Page Wireframes</h1>
+  <p class="sub">Five pages: one start page that routes by need, plus four category pages, exactly
+     as the proposal scoped. Every block is a named component. Tags mark which layout system holds
+     it together. Drawn at phone width first, because the proposal promises phone-first.</p>
+  <ul class="key">
+    <li><span class="tag flex">FLEX</span> one-dimensional row or column</li>
+    <li><span class="tag grid">GRID</span> two-dimensional, auto-fit columns</li>
+    <li><span class="tag flow">FLOW</span> normal document flow</li>
+  </ul>
+  <p class="sub"><b>The four questions.</b> Every listing on every category page answers the same
+     four, in the same order: <i>Do I qualify? &middot; What do I bring? &middot; How do I apply?
+     &middot; Where and when?</i> Learn the pattern on the first listing and the twentieth takes
+     ten seconds. That repetition is the whole design.</p>
+</header>
+
+<main class="sheets">
+
+  <!-- 1 -->
+  <section class="sheet">
+    <h2>1 &middot; index.html <span class="file">Start here</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span><em>5 links, wraps to two rows on a phone</em></div>
+      <div class="b">.demo-banner <span class="tag flow">FLOW</span><em>sample listings, not real services &mdash; on every page</em></div>
+      <div class="b">.page-head <span class="tag flow">FLOW</span><em>&ldquo;What do you need help with?&rdquo; and one line under it</em></div>
+      <div class="b grid2">.need-grid &rsaquo; 4 &times; .need-card <span class="tag grid">GRID</span>
+        <em>auto-fit minmax(240px, 1fr) &mdash; counted: 4 cards, so 2&times;2 on a phone, one row on a laptop</em>
+        <div class="cells"><i>Housing</i><i>Food</i><i>Utilities</i><i>Health care</i></div>
+      </div>
+      <div class="b wide">.urgent-strip <span class="tag flex">FLEX</span><em>tonight-level needs, phone number as the whole target</em></div>
+      <div class="b">.rules-strip &rsaquo; 4 &times; .rule <span class="tag flex">FLEX</span><em>wraps; what this site does and does not do</em></div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 2 -->
+  <section class="sheet">
+    <h2>2 &middot; housing.html <span class="file">Housing</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b">.demo-banner <span class="tag flow">FLOW</span></div>
+      <div class="b">.page-head <span class="tag flow">FLOW</span><em>category name + one plain line</em></div>
+      <div class="b wide">.urgent-card <span class="tag flex">FLEX</span><em>&ldquo;Nowhere to sleep tonight?&rdquo; &mdash; call, don&rsquo;t read</em></div>
+      <div class="b">.jump-list <span class="tag flex">FLEX</span><em>the 3 listings by name; skips the scroll</em></div>
+      <div class="b tall">
+        .listing &times; 3 <span class="tag flow">FLOW</span>
+        <em>name, who runs it, one-line summary, then the four answers</em>
+        <div class="cells" style="grid-template-columns:repeat(2,1fr)">
+          <i>Do I qualify?</i><i>What do I bring?</i><i>How do I apply?</i><i>Where and when?</i>
+        </div>
+      </div>
+      <div class="b in">.answers <span class="tag grid">GRID</span><em>2&times;2 on a laptop, stacked on a phone, order never changes</em></div>
+      <div class="b in">.where-block <span class="tag flex">FLEX</span><em>address, hours, bus, and whether to call first</em></div>
+      <div class="b wide">.checklist <span class="tag flow">FLOW</span><em>printable &ldquo;what to bring&rdquo;, tick boxes, one per listing</em></div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 3 -->
+  <section class="sheet">
+    <h2>3 &middot; food.html <span class="file">Food</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b">.demo-banner <span class="tag flow">FLOW</span></div>
+      <div class="b">.page-head <span class="tag flow">FLOW</span></div>
+      <div class="b wide">.urgent-card <span class="tag flex">FLEX</span><em>&ldquo;No food in the house today?&rdquo;</em></div>
+      <div class="b">.jump-list <span class="tag flex">FLEX</span></div>
+      <div class="b tall">.listing &times; 3 <span class="tag flow">FLOW</span>
+        <em>same template, same four answers, same order</em>
+        <div class="cells" style="grid-template-columns:repeat(2,1fr)">
+          <i>Do I qualify?</i><i>What do I bring?</i><i>How do I apply?</i><i>Where and when?</i>
+        </div>
+      </div>
+      <div class="b wide">.checklist <span class="tag flow">FLOW</span></div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 4 -->
+  <section class="sheet">
+    <h2>4 &middot; utilities.html <span class="file">Utilities</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b">.demo-banner <span class="tag flow">FLOW</span></div>
+      <div class="b">.page-head <span class="tag flow">FLOW</span></div>
+      <div class="b wide">.urgent-card <span class="tag flex">FLEX</span><em>&ldquo;Shut-off notice in hand?&rdquo;</em></div>
+      <div class="b">.jump-list <span class="tag flex">FLEX</span></div>
+      <div class="b tall">.listing &times; 3 <span class="tag flow">FLOW</span>
+        <div class="cells" style="grid-template-columns:repeat(2,1fr)">
+          <i>Do I qualify?</i><i>What do I bring?</i><i>How do I apply?</i><i>Where and when?</i>
+        </div>
+      </div>
+      <div class="b wide">.checklist <span class="tag flow">FLOW</span></div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+  <!-- 5 -->
+  <section class="sheet">
+    <h2>5 &middot; health.html <span class="file">Health care</span></h2>
+    <div class="wf">
+      <div class="b nav">.site-nav <span class="tag flex">FLEX</span></div>
+      <div class="b">.demo-banner <span class="tag flow">FLOW</span></div>
+      <div class="b">.page-head <span class="tag flow">FLOW</span></div>
+      <div class="b wide">.urgent-card <span class="tag flex">FLEX</span><em>crisis line; the one card that breaks the rhythm on purpose</em></div>
+      <div class="b">.jump-list <span class="tag flex">FLEX</span></div>
+      <div class="b tall">.listing &times; 3 <span class="tag flow">FLOW</span>
+        <div class="cells" style="grid-template-columns:repeat(2,1fr)">
+          <i>Do I qualify?</i><i>What do I bring?</i><i>How do I apply?</i><i>Where and when?</i>
+        </div>
+      </div>
+      <div class="b wide">.checklist <span class="tag flow">FLOW</span></div>
+      <div class="b foot">.site-foot <span class="tag flex">FLEX</span></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="sheet-foot">
+  <p>Mason Shimek &middot; Intro to Web Design &middot; Assignment 7 &middot; wireframes drafted before build</p>
+</footer>
+
+</body>
+</html>
