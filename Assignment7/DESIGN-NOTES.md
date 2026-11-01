@@ -1,4 +1,4 @@
-# Design Document — Module 7 Principles
+# Design Document, Module 7 Principles
 
 Answered against the built pages. Numbers come from `build/audit.py`, not from impression.
 
