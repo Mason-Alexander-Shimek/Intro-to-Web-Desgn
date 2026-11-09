@@ -1,0 +1,13 @@
+# Design Document, Module 7 Principles
+
+Answered against the built pages. Numbers come from `build/audit.py`, not from impression.
+
+The spacing distinctly distinguishes between listings using 44 pixels margin and 3 pixels line, separates answers with colored background and 22 pixels space, and places the labels next to the values. But equal height for all the answers creates an unnecessary empty space under some answers, and the checklist appears not related to the last listing. The row “CALL FIRST” requires additional space since the consequences of ignoring it can be really severe.
+
+Phone numbers are the most distinctive numbers, written in white against solid blue backgrounds, while urgent messages have distinct dark red backgrounds, pale red backgrounds, and solid left borders. All texts meet the AA level of contrast criteria although the lack of imagery makes it easier, as an intentional design decision to make weak links, even though it makes it less warm. The white-bordered “Where and when?” box is also distinguishable among other answers, and quite rightly so since users need to read it.
+
+The homepage highlights the four category links and the category page highlights urgent notifications and phone numbers rather than descriptive text. The yellow banner for demonstration purposes is highlighted before the headline, which is fine for the demo but not the case for the final version of the website. Calls to action for the category links need to be more prominent, and the organizational credits need to be shifted to location details.
+
+Variation derives from unique treatment of panels, size of typography and two accents colours - blue (action) and red (urgency). Harmony stems from one font type, rules for making the listings and the constant sequence of four answers. Predictability is useful, but long pages may seem monotonous. The contrasting element between listings would help users keep track of their location, especially on mobile devices, where several panels are stacked and listings become hard to distinguish from one another.
+
+Constant listing sequence (name, organisation, summary and four answers) provides a constant rhythm as well as listing of heading, urgent notice and jump list on each category page. Smooth reading is possible within the listings, but not between them, especially on mobile devices, when twelve similar panels follow one after another. Listing numbering would bring back the feeling of progress. Urgent cards are deliberately disrupting the rhythm as the only red elements on the page. The health page uses the actual 988 number.

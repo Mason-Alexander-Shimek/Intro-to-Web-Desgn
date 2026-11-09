@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300"
+     role="img" aria-labelledby="heroTitle" preserveAspectRatio="xMidYMid slice">
+  <title id="heroTitle">An illustration of the Missoula valley: Mount Sentinel and the Clark Fork river</title>
+
+  <rect width="1200" height="300" fill="#F0E9DD"/>
+
+  <!-- far ridgeline -->
+  <path fill="#CFC8B8" d="M0 150 L120 112 L236 142 L352 96 L470 136 L590 104 L706 140 L826 110 L944 146 L1064 118 L1200 152 L1200 300 L0 300 Z"/>
+
+  <!-- middle ridge -->
+  <path fill="#B3AA97" d="M0 186 L150 150 L300 180 L452 142 L604 182 L760 152 L910 188 L1060 158 L1200 190 L1200 300 L0 300 Z"/>
+
+  <!-- Mount Sentinel, with the concrete M on its flank -->
+  <path fill="#8A8273" d="M0 236 L190 176 L380 222 L548 166 L720 214 L890 180 L1050 220 L1200 196 L1200 300 L0 300 Z"/>
+  <path fill="#F0E9DD" d="M516 206 l9 0 l9 17 l9 -17 l9 0 l0 30 l-7 0 l0 -20 l-8 15 l-6 0 l-8 -15 l0 20 l-7 0 Z"/>
+
+  <!-- the Clark Fork -->
+  <path fill="#93A8B5" d="M0 268 C 180 252, 330 282, 520 266 C 700 251, 860 280, 1040 264 C 1110 258, 1160 262, 1200 258 L1200 300 L0 300 Z"/>
+  <path fill="#A8BAC4" opacity=".55" d="M0 276 C 190 262, 340 288, 530 274 C 710 260, 870 286, 1050 272 C 1115 267, 1162 270, 1200 267 L1200 300 L0 300 Z"/>
+
+  <!-- near bank -->
+  <path fill="#6E6757" d="M0 292 C 220 286, 420 296, 640 290 C 860 284, 1020 294, 1200 288 L1200 300 L0 300 Z"/>
+</svg>
