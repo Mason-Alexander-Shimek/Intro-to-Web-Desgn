@@ -1,6 +1,4 @@
 /* Missoula Resource Finder — Assignment 7
-   Phone first. No webfonts and no images: the site has to open on a bad
-   signal in a car park, not on office wi-fi. */
 
 /* 1. THEME */
 :root {
@@ -128,9 +126,7 @@ main {
 
 /* 5. START PAGE: THE FOUR DOORS */
 
-/* Five categories, counted at each breakpoint rather than left to auto-fit,
-   which orphans the last card. At two columns the fifth spans the row so the
-   block has no hole in it. */
+
 .need-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
@@ -454,10 +450,7 @@ main {
 /* 16. HERO WITH TEXT OVERLAY                            */
 /* ---------------------------------------------------- */
 
-/* Both children sit in the same grid cell, so the overlay stacks on the
-   photograph without absolute positioning. The aspect-ratio here must match
-   the crop the <picture> serves at the same breakpoint, or the browser
-   letterboxes one of them. Wide crop is 1280x499; narrow is 1050x730. */
+
 .hero {
   display: grid;
   aspect-ratio: 1280 / 499;
@@ -485,10 +478,6 @@ main {
   flex-direction: column;
   justify-content: flex-end;
   padding: 34px 28px 24px;
-  /* Colour lives on the container, not on h1. Headings have no colour of
-     their own, so whatever heading level the slot is given inherits this.
-     Binding it to h1 made the component work on exactly one page; the
-     component library is where that showed up. */
   color: #ffffff;
   background-image: linear-gradient(to top,
       rgba(20, 17, 13, 0.93) 0%,
@@ -525,8 +514,6 @@ main {
 /* 17. PREVIEW COMPONENT                                 */
 /* ---------------------------------------------------- */
 
-/* One component, two arrangements. Flexbox lays the wide variant out as a
-   row; Grid lays three of them out as a row of columns. */
 .preview {
   display: block;
   border: 1px solid var(--rule);
@@ -597,9 +584,6 @@ main {
 .preview-wide:hover .preview-title { color: var(--accent); }
 .preview-wide:hover .preview-go { text-decoration: underline; }
 
-/* Grid arrangement: three places, equal columns. The photographs have three
-   different native ratios, so a shared aspect-ratio keeps the row aligned
-   and the eye moving at a steady pace down the column of text. */
 .preview-row {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -675,12 +659,7 @@ main {
 /* ---------------------------------------------------- */
 
 @media (max-width: 700px) {
-  /* On a phone the heading, lede and eyebrow wrap to about nine lines, which
-     is nearly the full height of the hero. No scrim can both protect type that
-     tall and leave the photograph visible underneath it, so the overlay is
-     dropped: the picture becomes a band and the words sit on paper below it.
-     Measured, not guessed. Before this, the eyebrow ran 1.24:1 at 390px.
-     The aspect-ratio moves onto the media so the box is still reserved. */
+  
   .hero { display: block; aspect-ratio: auto; background-color: transparent; }
   .hero-media { aspect-ratio: 1050 / 730; }
 
@@ -708,8 +687,7 @@ main {
 /* ---------------------------------------------------- */
 
 @media print {
-  /* Drop the photographs, keep the words. The hero carries the page h1, so
-     it collapses to plain type rather than disappearing with its image. */
+
   .hero-media, .valley-band, .preview-media, .preview-wide { display: none; }
 
   .hero {
