@@ -1,0 +1,179 @@
+{
+  "hero-wide": {
+    "alt": "The Clark Fork river running past downtown Missoula, with the riverside path, Caras Park and the hills above the city.",
+    "credit": "Clark Fork river and downtown Missoula",
+    "ratio": 2.5651,
+    "widths": [
+      640,
+      860,
+      1100,
+      1280
+    ],
+    "jpg_widths": [
+      640,
+      860
+    ],
+    "sizes": {
+      "hero-wide-640.avif": 16.0,
+      "hero-wide-640.webp": 33.5,
+      "hero-wide-640.jpg": 40.8,
+      "hero-wide-860.avif": 29.7,
+      "hero-wide-860.webp": 60.3,
+      "hero-wide-860.jpg": 73.4,
+      "hero-wide-1100.avif": 49.9,
+      "hero-wide-1100.webp": 100.3,
+      "hero-wide-1280.avif": 71.2,
+      "hero-wide-1280.webp": 142.8
+    },
+    "intrinsic": {
+      "w": 1280,
+      "h": 499
+    }
+  },
+  "hero-narrow": {
+    "alt": "The Clark Fork river running past downtown Missoula, with the riverside path, Caras Park and the hills above the city.",
+    "credit": "Clark Fork river and downtown Missoula",
+    "ratio": 1.4384,
+    "widths": [
+      420,
+      640,
+      860,
+      1050
+    ],
+    "jpg_widths": [
+      420,
+      640
+    ],
+    "sizes": {
+      "hero-narrow-420.avif": 11.2,
+      "hero-narrow-420.webp": 23.4,
+      "hero-narrow-420.jpg": 29.2,
+      "hero-narrow-640.avif": 27.8,
+      "hero-narrow-640.webp": 55.8,
+      "hero-narrow-640.jpg": 68.3,
+      "hero-narrow-860.avif": 52.7,
+      "hero-narrow-860.webp": 105.2,
+      "hero-narrow-1050.avif": 84.2,
+      "hero-narrow-1050.webp": 164.1
+    },
+    "intrinsic": {
+      "w": 1050,
+      "h": 730
+    }
+  },
+  "valley-band": {
+    "alt": "The Missoula valley seen from above, with the Clark Fork river winding through the middle of town and the Sapphire Mountains beyond.",
+    "credit": "Aerial view of Missoula, Montana",
+    "ratio": 3.7037,
+    "widths": [
+      640,
+      860,
+      1100,
+      1400
+    ],
+    "jpg_widths": [
+      640,
+      860
+    ],
+    "sizes": {
+      "valley-band-640.avif": 14.5,
+      "valley-band-640.webp": 34.1,
+      "valley-band-640.jpg": 36.2,
+      "valley-band-860.avif": 25.1,
+      "valley-band-860.webp": 59.0,
+      "valley-band-860.jpg": 63.3,
+      "valley-band-1100.avif": 40.5,
+      "valley-band-1100.webp": 93.7,
+      "valley-band-1400.avif": 62.1,
+      "valley-band-1400.webp": 139.9
+    },
+    "intrinsic": {
+      "w": 1400,
+      "h": 378
+    }
+  },
+  "mainhall": {
+    "alt": "Main Hall at the University of Montana, a red brick building with a clock tower, below the grassy slope of Mount Sentinel.",
+    "credit": "Main Hall, University of Montana",
+    "ratio": 1.5148,
+    "widths": [
+      380,
+      560,
+      760
+    ],
+    "jpg_widths": [
+      380,
+      560
+    ],
+    "sizes": {
+      "mainhall-380.avif": 8.7,
+      "mainhall-380.webp": 17.8,
+      "mainhall-380.jpg": 23.0,
+      "mainhall-560.avif": 17.4,
+      "mainhall-560.webp": 37.7,
+      "mainhall-560.jpg": 48.0,
+      "mainhall-760.avif": 31.6,
+      "mainhall-760.webp": 73.5
+    },
+    "intrinsic": {
+      "w": 760,
+      "h": 502
+    }
+  },
+  "depot": {
+    "alt": "The Missoula depot, a yellow brick building with two towers, with the bronze bear statue in front and the M on Mount Sentinel behind.",
+    "credit": "Missoula depot and the bear statue",
+    "ratio": 1.4975,
+    "widths": [
+      380,
+      560,
+      760
+    ],
+    "jpg_widths": [
+      380,
+      560
+    ],
+    "sizes": {
+      "depot-380.avif": 7.8,
+      "depot-380.webp": 16.5,
+      "depot-380.jpg": 21.8,
+      "depot-560.avif": 15.7,
+      "depot-560.webp": 34.2,
+      "depot-560.jpg": 44.1,
+      "depot-760.avif": 27.6,
+      "depot-760.webp": 61.5
+    },
+    "intrinsic": {
+      "w": 760,
+      "h": 508
+    }
+  },
+  "locomotive": {
+    "alt": "A preserved logging locomotive and flatcar loaded with timber at Fort Missoula, with the hills west of town behind it.",
+    "credit": "Historical logging locomotive, Fort Missoula",
+    "ratio": 1.7778,
+    "widths": [
+      380,
+      560,
+      760
+    ],
+    "jpg_widths": [
+      380,
+      560
+    ],
+    "sizes": {
+      "locomotive-380.avif": 6.3,
+      "locomotive-380.webp": 12.2,
+      "locomotive-380.jpg": 16.8,
+      "locomotive-560.avif": 11.6,
+      "locomotive-560.webp": 22.8,
+      "locomotive-560.jpg": 32.6,
+      "locomotive-760.avif": 19.6,
+      "locomotive-760.webp": 38.3
+    },
+    "intrinsic": {
+      "w": 760,
+      "h": 428
+    }
+  }
+}

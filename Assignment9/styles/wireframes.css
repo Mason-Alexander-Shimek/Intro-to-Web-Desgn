@@ -1,0 +1,199 @@
+/* Wireframe sheet. Greyscale on purpose: this shows structure and layout
+   system only, not the finished design. */
+
+:root {
+  --ink: #1b1b1b;
+  --mid: #6d6d6d;
+  --line: #b9b9b9;
+  --fill: #ececec;
+  --fill-2: #dedede;
+  --paper: #f7f7f5;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 36px 28px 60px;
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* 1. SHEET HEADER */
+.sheet-head { max-width: 940px; margin: 0 auto 40px; }
+
+.eyebrow {
+  margin: 0 0 6px;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+
+.sheet-head h1 { margin: 0 0 10px; font-size: 30px; font-weight: 700; }
+.sheet-head .sub { margin: 0 0 18px; max-width: 72ch; color: #3c3c3c; }
+
+.key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 0 0 18px;
+  padding: 14px 16px;
+  background-color: #fff;
+  border: 1px solid var(--line);
+  list-style: none;
+  font-size: 13px;
+}
+
+.key li { display: flex; align-items: center; gap: 8px; }
+
+/* 2. THE FIVE SHEETS */
+.sheets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  gap: 26px;
+  align-items: start;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+
+.sheet {
+  padding: 16px 16px 20px;
+  background-color: #fff;
+  border: 1px solid var(--line);
+}
+
+.sheet h2 {
+  margin: 0 0 14px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--ink);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.sheet h2 .file { float: right; font-weight: 400; color: var(--mid); }
+
+/* 3. BLOCKS */
+.wf { display: flex; flex-direction: column; gap: 8px; }
+
+.b {
+  padding: 10px 12px 11px;
+  background-color: var(--fill);
+  border: 1px solid var(--line);
+  font-size: 12.5px;
+  font-weight: 600;
+}
+
+.b em {
+  display: block;
+  margin-top: 3px;
+  font-size: 11.5px;
+  font-style: normal;
+  font-weight: 400;
+  color: #555;
+}
+
+.b.in { background-color: var(--fill-2); }
+.b.nav, .b.foot { background-color: #cfcfcf; }
+.b.wide { padding-top: 20px; padding-bottom: 20px; background-color: #c9c9c9; }
+.b.tall { padding-top: 20px; padding-bottom: 22px; }
+
+/* 4. GRID CELL SWATCHES */
+.cells { display: grid; gap: 5px; margin-top: 8px; }
+.grid2 .cells { grid-template-columns: repeat(2, 1fr); }
+
+.cells i {
+  display: block;
+  padding: 12px 4px;
+  background-color: #fff;
+  border: 1px solid var(--mid);
+  font-size: 10.5px;
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+  color: #444;
+}
+
+/* 5. LAYOUT-SYSTEM TAGS */
+.tag {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 7px;
+  border-radius: 2px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  vertical-align: 1px;
+  color: #fff;
+}
+
+.tag.flex { background-color: #2f6f4f; }
+.tag.grid { background-color: #2b4e86; }
+.tag.flow { background-color: #7a7a7a; }
+
+.sheet-foot {
+  max-width: 1150px;
+  margin: 40px auto 0;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  color: var(--mid);
+}
+
+@media (max-width: 600px) {
+  body { padding: 20px 14px 40px; }
+  .grid2 .cells { grid-template-columns: 1fr; }
+}
+
+/* ---------------------------------------------------- */
+/* SITEMAP                                               */
+/* ---------------------------------------------------- */
+/* Flat structure drawn flat: one root, one row of children, no second level. */
+.map { margin-top: 18px; }
+
+.map-root {
+  display: inline-block;
+  padding: 10px 16px;
+  border: 2px solid #1d4e89;
+  border-radius: 3px;
+  background-color: #eaf0f7;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.map-row {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  margin-top: 18px;
+  padding-top: 18px;
+  border-top: 2px solid #c9c2b5;
+}
+
+.map-node {
+  padding: 10px 12px;
+  border: 1px solid #c9c2b5;
+  border-radius: 3px;
+  background-color: #fff;
+  font-size: 14.5px;
+  font-weight: 600;
+}
+
+.map-node em {
+  display: block;
+  margin-top: 3px;
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+  color: #6a655c;
+}
+
+.map-about { border-style: dashed; }
+.map-note { margin: 16px 0 0; font-size: 14.5px; color: #4f4a42; }
+
+@media (max-width: 760px) {
+  .map-row { grid-template-columns: repeat(2, 1fr); }
+}
