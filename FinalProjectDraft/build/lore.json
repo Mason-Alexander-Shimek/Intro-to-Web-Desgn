@@ -1,0 +1,1743 @@
+[
+ {
+  "title": "The World",
+  "page": 1,
+  "y": 72.0,
+  "body": [
+   {
+    "p": "This section is not necessary for those who just want to make characters and play around, but exists for those who want to ingrain themselves deeply into it. This document will start with the broad strokes, condensing more on the city Vallamers call home the more you scroll down."
+   },
+   {
+    "p": "Morphe (pronounced Morf-ay) is the setting of Vallam, occupying Earth's position in a solar system otherwise identical to our own. It is geologically older and 2.5 times Earth's size, but its lower overall density and smaller relative iron-nickel core produce surface gravity within 2% of Earth's. Its weaker magnetic field still provides sufficient protection from solar radiation. Morphe's lower internal heat limits volcanic activity, while its greater surface area and extensive tectonic plate network distribute geological activity across more fault lines, some of which are exceptionally violent. Its vast oceans, powerful long-lived storms, and immense distances between continents have made maritime travel central to civilization."
+   },
+   {
+    "p": "Most of Morphe's landmass surrounds the Zodiac Ocean, a relatively calm central sea and the historical center of maritime trade."
+   },
+   {
+    "li": "​ Nihil Oceans: Twin eastern and western oceans marked by catastrophic tectonic activity,"
+   },
+   {
+    "p": "unpredictable swells, and magnetic anomalies that disrupt compasses. Circumnavigation remains exceptionally dangerous."
+   },
+   {
+    "li": "​ Arctic Ocean: Also called the Northern Nihil or Northern Void, this frozen polar expanse is"
+   },
+   {
+    "p": "filled with icebergs and extreme cold. No landmasses beyond those already charted are known to exist."
+   },
+   {
+    "li": "​ Southern Ocean: Extending south beyond the inhabited equatorial continents, this largely"
+   },
+   {
+    "p": "unmapped ocean is notorious for ships that never return. Permanent cyclone systems south of The Cradle reinforce the belief that these waters are cursed."
+   },
+   {
+    "p": "The global population of Morphe in 1926 is approximately 3.2 billion people."
+   }
+  ],
+  "meta": [],
+  "art": [
+   "p01_x9.png"
+  ],
+  "children": [
+   {
+    "title": "The Day, The Year, and The Axis",
+    "page": 2,
+    "y": 324.1259765625,
+    "body": [
+     {
+      "p": "A Morphean day lasts 25.4 Earth hours, divided into 24 hours of approximately 1.06 Earth hours each. A year lasts 371 days. Fairbourne and much of the Reach follow a calendar of twelve 30-day months, followed by an eleven-day intercalary period called the Long Week. Falling between years, the Long Week serves as both a major holiday and a civic reset, though local cultures may observe it differently."
+     },
+     {
+      "p": "Morphe's axial tilt is 26.1 degrees, slightly greater than Earth's 23.5, producing more pronounced seasonal variation outside the equatorial regions. Mid-latitude winters average roughly 2°C colder and summers 2°C warmer than their Earth equivalents. Morphe's vast oceans moderate coastal temperatures, reducing seasonal extremes across much of the world's inhabited land. Inland regions experience stronger temperature fluctuations, creating distinct regional climates and growing conditions."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   },
+   {
+    "title": "The Moon",
+    "page": 2,
+    "y": 579.2535400390625,
+    "body": [
+     {
+      "p": "Morphe has one moon, simply called the Moon in Fairbourne. Other cultures have their own names for it. The older Astralist tradition called it the Second Eye, with the sun as the first, though the Reformist branch has largely abandoned this terminology. The Moon is 1.84 times the radius of Earth's Moon and orbits Morphe at approximately 707,000 km, completing an orbit every 29.5 days. The Moon produces tides approximately 20% stronger than Earth's, significantly affecting coastal infrastructure, harbour design, and navigation schedules. Vallam's dockyards and other coastal settlements account for these stronger tidal ranges as a routine part of maritime life."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   },
+   {
+    "title": "Atmosphere and Climate",
+    "page": 3,
+    "y": 126.02684783935547,
+    "body": [
+     {
+      "p": "Morphe's atmosphere is compositionally near-identical to Earth's, the same oxygen-nitrogen mix, the same trace gases, the same greenhouse effect keeping the surface within habitable temperature ranges."
+     },
+     {
+      "p": "The same photosynthetic chemistry produces the same oxygen. The same respiration chemistry consumes it. The larger planet holds more atmosphere by total volume but at comparable surface pressure, because the surface area is also proportionally larger."
+     },
+     {
+      "p": "The greater ocean surface area, Morphe's seas cover a proportionally larger percentage of the planet's surface than Earth's, given that the four major continents, while larger than their Earth counterparts, do not scale at the same rate as the planet itself, means more evaporation, more moisture cycling through the atmosphere, and more energy available to storm systems. Morphe's weather is recognisably Earth-like in structure, fronts, pressure systems, trade winds, the jet streams that steer those systems across the mid-latitudes, but the storms that develop over the great ocean basins are larger and more energetic than their Earth equivalents. A Morphean hurricane isn't categorically different from an Earth hurricane. It is, on average, bigger, lasts longer, and carries more rainfall. The cyclone systems that make the Southern Ocean impassable and the Selkeff straits dangerous are partly a function of the normal mechanics of mid-latitude storm generation, and partly a function of Morphe's storms simply having more energy to sustain themselves before they dissipate."
+     },
+     {
+      "p": "Ocean circulation follows the same broad logic as Earth's. Morphe's rotation drives the same Coriolis deflection, the same great gyres in the ocean basins, and the same thermohaline conveyor belts driven by temperature and salinity gradients. The Zodiac Ocean, being relatively enclosed and in the equatorial-to-mid-latitude band, is calmer than the great surrounding oceans for the same reason the Mediterranean is calmer than the North Atlantic. The Nihil Oceans, being vast open basins directly exposed to the full energy of Morphe's storm systems, are not."
+     },
+     {
+      "p": "Nihil Oceans The Nihil Oceans cover Morphe's two most seismically active tectonic boundaries. Although Morphe's plate tectonics follow the same principles as Earth's, its greater surface area supports more plates and complex boundary interactions. Both ocean basins formed along ancient divergent boundaries that later became convergence zones, creating regions where subduction zones, submarine volcanic ranges, and active mid-ocean ridges coexist."
+     },
+     {
+      "p": "Frequent, powerful submarine earthquakes generate sudden wave systems with steep fronts and little warning. Unlike ordinary ocean swells, these waves travel rapidly and change direction unpredictably."
+     },
+     {
+      "p": "Their danger lies less in their size than in their erratic movement. Dense hydrothermal vent fields create unpredictable ocean conditions, including fog over warm upwellings, sudden cold currents where heated water sinks beneath colder layers, and thermal stratification that disrupts normal wave patterns."
+     },
+     {
+      "p": "Volcanic gases introduce trace compounds into the water column, complicating depth measurements made with weighted sounding lines. Repeated seismic events also reshape the seabed, rendering most charts unreliable within approximately five years."
+     },
+     {
+      "p": "The Nihil's hyperactive volcanic ridges produce vast deposits of rapidly cooled basalt. As the rock solidifies, it preserves the orientation of Morphe's magnetic field. Repeated magnetic reversals have left the seabed magnetized in conflicting directions, creating localized fields that deflect compass needles independently of true north. These anomaly zones shift as new volcanic material accumulates, meaning a magnetic chart that guided a navigator in 1901 may be dangerously misleading by 1926."
+     },
+     {
+      "p": "Gyroscopic compasses, recently introduced aboard Morphe's most advanced vessels, are unaffected by these anomalies. Their adoption has renewed interest in Nihil passage since approximately 1918, though they offer no protection against seismic or volcanic hazards. Nations that have established reliable routes across the Nihil keep them closely guarded."
+     },
+     {
+      "p": "Abyss Serpents Morphe's vast oceans and ancient, complex deep-sea ecosystems support marine fauna larger than anything known in Earth's oceans. Abyss Serpents, a collective term for enormous deep-sea predators, are real animals confirmed by naval encounters and partially studied by Morphe's zoological institutions. They are not supernatural, but their size makes them dangerous to small vessels and potentially capable of damaging larger ships under specific circumstances. They avoid the surface during daylight, making sightings rare and allowing them to remain the subject of sailor's tales among inland populations."
+     },
+     {
+      "p": "Abyss Serpents are most prevalent in the Nihil Oceans, where hydrothermal vent systems sustain deep-sea food chains capable of supporting such large predators, and the Southern Ocean below the cyclone belt, where limited maritime traffic has allowed populations to develop with little pressure from human hunting. They are less common in the deeper regions of the Zodiac Ocean, where proximity to established shipping lanes has produced the most documented encounters and successful hunts. Fairbourne's navy has recorded 14 confirmed encounters in the past century. The largest documented specimen was encountered by the HFS Constant in 1887 and estimated at approximately 27 metres long. Larger specimens have been reported, but the Dominion Zoological Institute considers these accounts unverified."
+     },
+     {
+      "p": "Abyss Serpents compound the Nihil Oceans' existing navigational hazards. Seismic activity, magnetic anomalies, and unpredictable swells already make passage dangerous; the possibility of encountering a predator capable of damaging a ship further discourages exploration. Together, these geological, navigational, and biological threats make the Nihil Oceans waters that even experienced sailors prefer to avoid."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   },
+   {
+    "title": "The Continents",
+    "page": 5,
+    "y": 288.10791015625,
+    "body": [
+     {
+      "p": "Morphe has four major landmasses: the Reach, Corda, Selkeff, and the Cradle. These are informal names; formal designations vary by nation and tradition, and the Fairbourne Dominion's cartographic standards are not universally accepted."
+     },
+     {
+      "p": "The Reach is the easternmost of the two great continents, a landmass comparable in total area to Africa, Europe, and Asia combined, dense with mountain ranges, interior plains, river systems, and climates ranging from equatorial to subarctic. The Reach is home to Morphe's oldest continuous civilizations, including its first organized states, recorded religions, and major wars. The Fairbourne Dominion occupies its northwestern peninsula, with Vallam on the northern coast. The fractious vassal states of Cerani and Răvin lie immediately south and southeast, along the warmer eastern seaboard."
+     },
+     {
+      "p": "Corda is the westernmost great continent, roughly mirroring the Reach in size across the Zodiac Ocean. It is where the Lys Monarchy's Renascia emerged, initially in Corda's northern reaches. By 1926, Renascia controls most of northern Corda, while the Deadlock, a contested frontier between Renascia's expansion and the remaining Fairbourne-aligned nations, runs along the continent's southern spine. Corda is generally warmer than the Reach, with longer growing seasons and enormous river deltas that historically supported agricultural wealth."
+     },
+     {
+      "p": "Many of the Zodiac Ocean's major merchant traditions also originated here."
+     },
+     {
+      "p": "The Cradle is a southern-central continent slightly larger than Australia. It is the birthplace of humanity and the oldest continuously inhabited region of Morphe. Both Astralism and the Eclipsiad trace their civilizational and religious origins to this landmass. Its northern coast borders the Zodiac Ocean, while its southern reaches approach the Southern Ocean's permanent cyclone belt, which prevents further navigation. By 1926, several Fairbourne vassal states formally divide the Cradle, though the Dominion's influence weakens considerably inland, where its authority is increasingly contested. The Cradle holds both religious and strategic importance. It contains the holy city at the heart of Astralism's most sacred sites and controls southern Zodiac sea lanes connecting the Reach and Corda."
+     },
+     {
+      "p": "Selkeff is a smaller northern landmass situated between Corda and the Reach, separated from both in part by cold archipelagos. Its climate is harsh, its geology highly active, and its interior remains only partially mapped as of 1926. Repeated colonization attempts have failed, and Selkeff's indigenous peoples maintain limited contact with the major powers through a combination of deliberate isolation and geographic barriers. Fairbourne maintains a naval presence in the Selkeff Straits to monitor Renascia's northern expansion as it approaches Selkeff's eastern shores. Much of Selkeff's interior remains unexplored, leaving its geography, inhabitants, and natural hazards poorly understood."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   }
+  ]
+ },
+ {
+  "title": "The Religions",
+  "page": 6,
+  "y": 396.162109375,
+  "body": [],
+  "meta": [],
+  "art": [],
+  "children": [
+   {
+    "title": "The Eclipsiad",
+    "page": 6,
+    "y": 525.2265625,
+    "body": [
+     {
+      "p": "The Eclipsiad is Morphe's oldest major religion. Despite centuries of persecution and suppression by dominant religious and political institutions, it survives through scattered communities and underground sects. The Eclipsiad teaches that the Sun, known as the Radiance or Sol, is a living, consuming entity rather than an ordinary star. It sustains itself by drawing the vital energy of orbiting worlds through a process called the Tithe. Every life, civilization, and birth contributes to this consumption. In return, the Radiance produces the light and warmth necessary for life. Eclipsiad scripture traditionally presents this relationship as both parasitic and sustaining, likening the Radiance to a garden that continually tends, consumes, and regrows."
+     },
+     {
+      "p": "The Eclipsiad's sacred text, also called the Eclipsiad, has no single author, founding date, or editorial authority. During every lunar eclipse, practitioners gather beneath the open sky before a white flame and record whatever comes to them: visions, impressions, prophecies, or instructions from seemingly unseen sources. These writings are added to the living text without a unified system of interpretation."
+     },
+     {
+      "p": "New verses may overwrite older ones, contradictory prophecies are combined, and some original passages have been lost beneath successive revisions. Verses use the prefix E. followed by an ordinal number (e.g., E.1 or E.714), indicating their order of addition rather than their authority or importance. Consequently, no two regional versions are necessarily alike. One sect might interpret a passage as a literal account of the Radiance's feeding cycle, while another reads it as a metaphor for nonlinear time."
+     },
+     {
+      "p": "Older Eclipsiad sects, descended from the pre-Astralist religious traditions, practice ritual self-mutilation. This practice reflects the belief that the Radiance is perpetually revising itself through cycles of growth, consumption, and transformation without ever reaching completion. By permanently altering their bodies, practitioners participate in this process, affirming that they, too, remain unfinished. Centuries of persecution and the marginalization of these older orders have caused the practice to lose its original context in some communities. Some younger adherents inflict severe injuries, including amputating limbs, without fully understanding the theology behind the ritual."
+     },
+     {
+      "p": "They preserve the practice much as people repeat prayers whose original meanings they no longer understand. Surviving theologians of the older orders regard this loss of meaning as part of the same cycle of revision that defines the Radiance: practices persist beyond their original purpose, awaiting rediscovery."
+     },
+     {
+      "p": "The Eclipsiad has no formal clergy. Its practitioners include keepers of the text, readers of eclipses, and solitary wanderers from older sects who carry partial copies of the scripture across national borders, often at considerable personal risk. By 1926, the religion is practiced openly in a handful of small nations and underground across much of the rest of Morphe. Public perceptions range from scholarly curiosity to outright condemnation as a pagan faith."
+     }
+    ],
+    "meta": [],
+    "art": [
+     "p07_x27.png"
+    ],
+    "children": []
+   },
+   {
+    "title": "Astralism",
+    "page": 8,
+    "y": 342.13525390625,
+    "body": [
+     {
+      "p": "Astralism is Morphe's dominant religion in 1926, deeply embedded in its calendars, laws, architecture, naming conventions, culture, and political legitimacy. In most nations, living entirely outside its institutions presents administrative as well as spiritual difficulties. The Astralist calendar's year zero marks the birth of the Prophet Lyster, placing Morphe in the nineteenth century of Astralist reckoning."
+     },
+     {
+      "p": "Astralism teaches that the constellations are living godlike beings that have cultivated life on Morphe across countless cycles. Each constellation shapes life according to its own nature, competing and collaborating with the others for humanity's loyalty and vital expression. Each also governs its own tailored afterlife, receiving those who belong to it. The constellations are not considered inherently evil or selfish. They are ancient, powerful, and interested in the world they have created. However, their competing ambitions have made Morphe itself the battleground for their rivalries."
+     },
+     {
+      "p": "Lyster was the constellations' final deliberate attempt to create the ultimate human being, designed after millennia of studying the imperfections of their previous creations. He was born understanding his origins and spent his early years reconciling himself with his purpose before turning his attention to the world around him. His life is recorded in the Verse Book, Astralism's central scripture, written by his apostle Rothos Allistair. Lyster challenged the political order established by the ancient sultans and kings of the Cradle's interior, whose governments claimed divine authority without treating it as a genuine obligation. His opposition began with argument and escalated into war. Lyster was not a pacifist, and the Verse Book does not conceal the violence of his campaigns. His followers, particularly the Lysterists, have never fully resolved the tension between his methods and his moral vision. The old sultans fell, their courts were dissolved, and Lyster sought to return political agency to the people they had ruled."
+     },
+     {
+      "p": "Lyster was killed during the conflict before he could complete his work. Members of the Eclipsiad regarded him as their greatest threat yet, believing he could reorganize human society in ways that disrupted the Radiance's Tithe. They captured him during open warfare and executed him using an older Eclipsiad ritual: a single metal spike driven through his hands and heart simultaneously, intended to destroy beings whose divine nature made conventional death unreliable. His apostles recovered his body three days later and brought it to the Ancient Tomb of Solenne, outside the holy city. Lyster had previously told them he would be waiting there, though they had not understood his meaning. Instead of finding a corpse to bury, they found Lyster alive, quietly meditating. He reviewed the work that remained and explained what he intended to do now that he had become something beyond the human form the constellations had designed. He gathered his apostles, outlined his plan, and asked whether they understood. Most had heard his words, but few grasped their implications."
+     },
+     {
+      "p": "Lyster's final act, known as the Re-Ordering, transformed him beyond his original human form and allowed him to reshape the night sky. He displaced the constellations that had created him, dispersing or redirecting their energies. Most of the Eclipsiad's remaining practitioners died during the event, though the reasons remain disputed. Orthodox Lysterists attribute their deaths to their connection with the Radiance, which made them conduits for the energy unleashed during the Re-Ordering."
+     },
+     {
+      "p": "Older Classical Astralist interpretations describe the event as a deliberate purge. Lyster then created the Ring, a faint arc visible across Morphe's night sky. It encircles the Radiance and protects the world from outside influence or attack. Having completed the Re-Ordering, Lyster departed for another plane of existence. The Verse Book's final chapter describes this destination incomprehensibly; Rothos Allistair reportedly wrote the passage in a single sitting and refused to discuss it afterward."
+     },
+     {
+      "p": "The Re-Ordering is commonly cited as the reason the Eclipsiad has no continuous institutional record predating Astralism. However, surviving Eclipsiad texts claim the religion existed for millennia before Lyster. These documents are preserved by practitioners who carry them underground, often at considerable risk. The dominant historical account instead presents the Eclipsiad as a post-Lyster heresy that eventually alienated every major power and was suppressed. The possibility that this history was deliberately rewritten remains largely unexplored by the wider population of Morphe."
+     },
+     {
+      "p": "Classical Astralism is the oldest continuous Astralist denomination. By 1926, its influence has declined to a handful of nations and significant minority communities elsewhere."
+     },
+     {
+      "p": "Classicalists worship the constellations alongside Lyster, viewing the Re-Ordering as the completion of the constellations' cycle. They treat the post-Re-Ordering night sky as sacred scripture and the Ring as proof that the cosmos has finally been placed in its proper order."
+     },
+     {
+      "p": "Historically, Classical Astralism has been the most hostile denomination toward non-Astralist religions. It teaches that other gods are either corrupt remnants of the old cosmic order or outright fabrications, a doctrine that has frequently justified persecution and violence. By 1926, such practices have largely been criminalized in Fairbourne-aligned nations. Classical institutions now insist they have been misrepresented, though many remaining Classicalists reject this position."
+     },
+     {
+      "p": "Lysterism follows the Verse Book, the closest thing Astralism has to an orthodox tradition. Its worship centers on Lyster, the teachings recorded by his apostle Rothos Allistair, and the community structures established by the apostles after the Re-Ordering. Where Classical Astralism emphasizes cosmic order, Lysterism emphasizes moral conduct: how people should live in light of what Lyster demonstrated humanity could achieve. Lysterism established Astralism's first seminaries, formal clergy, and sustained tradition of political theology. Lysterist political thought holds that legitimate governance must derive from Astralist principles and remain accountable to Astralist moral standards. This has supported a wide range of systems, from theocracies to constitutional monarchies. Lysterism is also the most politically accommodating denomination, with a long tradition of advising governments and adapting its principles to existing political structures."
+     },
+     {
+      "p": "Reformist Astralism is Morphe's dominant denomination in 1926, largely because its theology is more compatible with religious and political diversity. Its formal split from Classical Astralism occurred in the mid-eighteenth century, driven by disputes over how to treat non-Astralist peoples encountered during Fairbourne's expansion. Classical doctrine favored conversion or exclusion, with violence permitted when necessary. Reformists instead advocated incorporation. Reformist theology does not necessarily deny the existence of other religions' gods. Instead, it classifies them as lesser spiritual powers operating within the larger cosmic order established by the Re-Ordering. A local deity may be real and active, and its worship may be legitimate, but its followers are understood to lack the complete cosmological perspective provided by Astralism. This doctrine proved useful to Fairbourne's expanding dominion."
+     },
+     {
+      "p": "Rather than suppressing every local religion, Reformist institutions could incorporate existing traditions as regional expressions of a broader Astralist cosmos. Most Fairbourne vassal states were gradually integrated into its religious institutions through this process, rather than through forced conversion or outright religious displacement."
+     },
+     {
+      "p": "By 1926, Reformist Astralism has also formally recognised Sol, the Radiance of the Eclipsiad, as a real entity, incorporated into the Astralist cosmology as the dangerous external force that the Ring was built to contain. This is theologically significant because it means the Eclipsiad's core claim, that the Sun is alive and consuming, is in the Reformist framework correct. The Eclipsiad simply lacks the full account of what happened next."
+     }
+    ],
+    "meta": [],
+    "art": [
+     "p08_x30.png"
+    ],
+    "children": []
+   }
+  ]
+ },
+ {
+  "title": "FAIRBOURNE",
+  "page": 12,
+  "y": 72.0,
+  "body": [],
+  "meta": [],
+  "art": [
+   "p12_x41.png"
+  ],
+  "children": [
+   {
+    "title": "The Founding",
+    "page": 12,
+    "y": 520.837890625,
+    "body": [
+     {
+      "p": "Orion Fairbourne arrived on the northern coast of the Reach in 1142, roughly 784 years before the present day of 1926. Sent by a river-city state in the Cradle to establish a trading post, he proved an unusual colonial administrator: meticulous, curious about local cultures, and committed to the belief that a settlement's legitimacy came from its inhabitants' consent rather than its sponsor's authority. He was also notably confident in his own judgment. At the mouth of the river that still runs through Vallam, Orion negotiated with the local inhabitants rather than displacing them, incorporated their leadership structures into his administration, and drafted a founding charter still studied in Fairbourne's universities. The charter established that the state exists to serve its people. Leadership is a responsibility, not a right. Authority lasts only as long as its holder deserves it."
+     },
+     {
+      "p": "The trading post grew into a town, then a city, and eventually the capital of an expanding territory."
+     },
+     {
+      "p": "Over the following three centuries, that territory became the most powerful nation on the Reach and ultimately the most powerful single nation on Morphe. Orion died in his eighties while still working."
+     },
+     {
+      "p": "His descendants inherited both his position and, with remarkable consistency, his temperament and political convictions. Across seven centuries, the Fairbourne dynasty has produced an almost unbroken succession of intelligent, measured rulers committed to the principle that their authority depends on their worthiness to wield it. Whether through improbable chance or deliberate institutional cultivation, the result has been a dynasty that is not universally loved, but whose rulers are difficult to dismiss or challenge on principle."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   },
+   {
+    "title": "The Parliament and the Crown",
+    "page": 13,
+    "y": 270.0986328125,
+    "body": [
+     {
+      "p": "Fairbourne's political system resembles Great Britain's, with an elected Parliament responsible for legislation and a Crown holding executive authority. The monarch ordinarily governs through Parliament, but retains the power to act directly. Unlike a conventional constitutional monarchy, the Crown's reserved authority faces few practical limits: by tradition, Parliament defers when the monarch intervenes. Seven centuries of effective rule have cultivated greater trust in the dynasty's judgment than resentment of its power. This arrangement remains contentious. In 1926, a significant parliamentary reform movement argues that the Crown's unchecked authority is a structural weakness."
+     },
+     {
+      "p": "Although generations of capable monarchs have made it a strength, the system has no reliable safeguards against an incompetent or unfit successor."
+     },
+     {
+      "p": "King Gabriel Fairbourne IV, aged fifty-three, has ruled for eighteen years. He is widely respected for his leadership during the early years of the Great War and his refusal to pursue the total-conquest strategy central to Renascia's ambitions. His public trust remains unusually high for a monarch in wartime. His son and heir, Crown Prince Caelum Fairbourne, is twenty-seven and markedly different from his father. Whether he will develop into a similarly capable ruler remains uncertain, and factions within Parliament and the military have quietly considered the implications of his eventual succession for years."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   },
+   {
+    "title": "The Dominion and Its Reach",
+    "page": 13,
+    "y": 624.2763671875,
+    "body": [
+     {
+      "p": "At its height, the Fairbourne Dominion held formal dominion over most of Morphe's civilized world."
+     },
+     {
+      "p": "It expanded through naval superiority, economic leverage, occasional military conquest, and the appeal of its political model compared to the failing autocracies that ruled much of the world. Most nations entered the Dominion as vassal states, retaining their internal governments and cultural autonomy in exchange for trade agreements, military protection, and adoption of Fairbourne's legal framework for foreign affairs and commerce."
+     },
+     {
+      "p": "The arrangement was neither benevolent nor equitable. Trade terms favored Fairbourne, while military protection provided justification for maintaining troops and bases within vassal territories. Fairbourne presented vassalage as a path toward eventual full partnership, a promise many Dominion citizens sincerely believed. However, vassals increasingly resented a system in which equal standing always seemed one generation away, regardless of how many generations passed."
+     },
+     {
+      "p": "By 1926, the Dominion's global reach has largely collapsed. Although Fairbourne still claims suzerainty over its vassal network and exercises substantial authority over neighboring territories, the Great War and preceding political fractures have severely weakened its ability to project power abroad. Fairbourne remains the most powerful single nation on Morphe, but it can no longer maintain control over everything it once held. Its government must now choose which territories, alliances, and interests it can afford to protect."
+     }
+    ],
+    "meta": [],
+    "art": [],
+    "children": []
+   },
+   {
+    "title": "The Great War (1903–Present)",
+    "page": 14,
+    "y": 414.1708984375,
+    "body": [
+     {
+      "p": "It began with fire. In 1903, when Renascia, formally a Fairbourne vassal and nominally Classical Astralist, launched a southern campaign across Corda. For thirty years, the Lys Monarchy had prepared to challenge the Dominion, viewing Fairbourne as both the primary obstacle to Renascia's rise and a major source of Morphe's political dysfunction. Its strategy relied on the belief that Fairbourne's global authority was weaker than it appeared. A correct assessment, though Renascia underestimated the resistance it would face."
+     },
+     {
+      "p": "Renascia's initial campaign employed scorched-earth tactics, chemical warfare, aerial bombardment from early military aircraft, and systematic destruction of civilian infrastructure. These methods marked a significant escalation beyond previous conflicts. Fairbourne condemned them as atrocities;"
+     },
+     {
+      "p": "Renascia's military doctrine justified them as efficient, and the Lys Monarchy as necessary. Renascia's territorial gains accelerated. In 1910, it controlled the northern third of Corda, and half the continent by 1915. By 1920, The Lys Empire incorporated numerous formerly independent nations through conquest, political destabilization followed by the installation of loyal governments, and treaties that secured Renascian objectives at the signatories' expense. By 1926, the Renascian Empire of the Lys is Morphe's second most powerful political entity, behind Fairbourne."
+     },
+     {
+      "p": "Since approximately 1922, the war has stalled along the Deadlock, a contested frontier across southern Corda. Fairbourne cannot advance without overextending supply lines already strained by unrest among its western vassals. Renascia cannot push farther west without exposing its rear to the unconquered nations of eastern Corda, which accept Fairbourne's military support and continue to resist absorption. Both sides hold their positions, conduct limited offensives, and probe for weaknesses, waiting for an opportunity to break the stalemate."
+     },
+     {
+      "p": "By 1926, the Great War permeates daily life in Vallam. Newspapers report on the fighting, memorial plaques mark losses, and returning soldiers bear its lasting physical and psychological effects. Recruiting posters compete with growing casualty lists, while public confidence in the war's outcome remains uncertain. The central question is whether Fairbourne is winning, or merely delaying defeat."
+     }
+    ],
+    "meta": [],
+    "art": [
+     "p15_x49.png"
+    ],
+    "children": [
+     {
+      "title": "Cerani and Răvin",
+      "page": 16,
+      "y": 216.072265625,
+      "body": [
+       {
+        "p": "The État Impérial de Cerani occupies the warm, wine-producing peninsulas and mountain valleys of the Reach's southeastern coast, south of Fairbourne's heartland, surrounding a large inland sea."
+       },
+       {
+        "p": "Known for its cultural confidence, old aristocratic families, and magnificent cities, Cerani has long resisted the idea that it is subordinate to Fairbourne. Although formally a vassal for two centuries, its nobility views the arrangement as a temporary partnership with a northern power whose commercial advantages happen to exceed its own. By 1926, Cerani is approaching a political crisis. The Great War has exposed Fairbourne's inability to enforce its authority in Cerani while committed to the Corda front and the Deadlock. Over the past decade, the Imperial faction, composed of nobles and military officers who believe Cerani should become an independent great power, has steadily gained influence."
+       },
+       {
+        "p": "Empress Regent Isolde Varen-Caux remains formally loyal to Fairbourne's framework but has gradually expanded Cerani's independence through tariff renegotiations, bilateral agreements with non-Fairbourne nations, and investment in its own military capabilities. Each measure is defensible in isolation, but together they indicate a clear shift in policy. Fairbourne's ambassador reports on these developments with increasing concern. The Imperial faction is also predominantly Classical Astralist, placing it at odds with the Reformist Astralist framework underpinning Fairbourne's diplomatic institutions. Cerani's principal strategic ambition is the Cradle, specifically the southern sea lanes along its northern coast. Control of these routes would free Cerani's merchant fleet from dependence on the northern passages managed by Fairbourne. Both governments continue to treat this ambition as a legitimate economic interest rather than a prelude to formal separation, and neither can maintain that position indefinitely."
+       },
+       {
+        "p": "Where Cerani's ambitions are aristocratic and directed outward, the Republic of Răvin faces an internal ideological struggle. Located in the Reach's southwestern interior, Răvin is characterized by long winters, dense forests, and extensive iron mining. Its political history alternates between reformist democracy and strongman rule. Răvin entered Fairbourne's vassal network through a treaty following a period of domestic collapse. Its terms have remained politically contentious ever since, with opposition emerging in every subsequent decade. Răvin's current crisis centers on the Răvin Workers' Congress, originally a legitimate trade union federation that has evolved over fifteen years into a parallel governing power across several industrial cities. The Congress publicly advocates wage reform, mine safety regulations, and electoral reforms to expand the franchise. Beneath these demands, however, lie more radical ideological currents. Some factions maintain contact with foreign powers interested in destabilizing Răvin, and Fairbourne's intelligence services suspect that Renascia is among them."
+       },
+       {
+        "p": "Răvin's elected Parliament is aware of the Congress's growing power and its foreign connections."
+       },
+       {
+        "p": "However, a decade of wartime economic strain has eroded the Parliament's legitimacy, making direct confrontation risky. A crackdown could strengthen the Congress enough to overthrow the government. The Parliament therefore delays decisive action while attempting to maintain its position against factions that might replace it if it acts too aggressively in either direction. Fairbourne's position is equally difficult. Its vassal agreement legally obliges it to support Răvin's legitimate government, but it remains unclear whether that means the elected Parliament, the increasingly powerful Workers' Congress, or a future political arrangement that has yet to emerge. Fairbourne's Foreign Office is working to avoid making that determination prematurely."
+       },
+       {
+        "p": "In the shadow of this unending conflict, Fairbourne’s capital remains a beacon of both pride and despair. Its streets thrum with the rhythm of industry, the air thick with the smog of progress and the lights of revelry. Veterans, broken and haunted, return from the front lines, passing fresh-faced recruits marching onto boats toward the same horrors. Amid this mix of patriotic fervor, mundane day to day living, and quiet dread, the story begins in this capital, known as–"
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "title": "VALLAM",
+  "page": 17,
+  "y": 576.251953125,
+  "body": [
+   {
+    "p": "Vallam combines the sophistication of an imperial capital with the restless energy of a city convinced the world is ending and determined to dance through it. As the largest city on Morphe, it is extraordinary, exhausting, and very loud. Founded in 1142 of the Astralist calendar, Vallam began as a trading settlement on the northern coast of the Reach, at the mouth of the river Orion Fairbourne selected for its establishment. After nearly eight centuries of growth, the city reflects its layered history."
+   },
+   {
+    "p": "Its oldest cobbled streets remain too narrow for modern motor vehicles, following the original settlement's layout, while steel-framed commercial towers and Art Deco administrative complexes commissioned by the current Parliament rise above them. Vallam has never been rebuilt from scratch;"
+   },
+   {
+    "p": "it has only expanded, leaving its architecture a constant source of debate."
+   },
+   {
+    "p": "By 1926, Vallam has a population of approximately 6.5 million, nearly twice that of its closest competitor. It houses the Royal Palace of Fairbourne, Parliament, the Dominion Ministry complex, Fairbourne Naval Command headquarters, the country's two largest universities, its largest hospital, its most prominent courts, its busiest port, and most of its major newspapers. Beyond its official institutions, Vallam also boasts the Dominion's most established criminal underworld, the northern hemisphere's most active speakeasy scene, and a substantial foreign population representing nearly every nation Fairbourne has traded with or annexed. Its police force struggles to maintain order amid the competing interests, illicit industries, and sheer scale of the city."
+   }
+  ],
+  "meta": [],
+  "art": [
+   "p18_x56.png"
+  ],
+  "children": [
+   {
+    "title": "Culture",
+    "page": 19,
+    "y": 72.0,
+    "body": [],
+    "meta": [],
+    "art": [],
+    "children": [
+     {
+      "title": "The Vallammer",
+      "page": 19,
+      "y": 144.037109375,
+      "body": [
+       {
+        "p": "The term Vallammer refers to a native or long-term resident of Vallam, distinguishing them from visitors and recent arrivals. By 1926, the city's mix of grandeur, squalor, and constant activity has shaped a recognizable local character."
+       },
+       {
+        "p": "The first is a general indifference to the remarkable. Vallam produces so many remarkable events that its residents develop a high threshold for surprise. Even genuinely unprecedented occurrences may earn little more than a casual remark. Vallammers have learned that fixating on one spectacle means missing the next. Visitors often mistake this composure for coldness. The second is a strong and largely unsentimental civic pride. Vallammers take genuine pride in their city without overlooking its flaws."
+       },
+       {
+        "p": "Vallam is filthy in some districts, beautiful in others, violent in particular ways, generous in others, and perpetually under construction. It encompasses humanity at its most sublime and shameless, and its residents resist attempts to simplify that complexity. They criticize their city freely but are quick to take offence when outsiders do the same, regarding such criticism as an unearned privilege."
+       },
+       {
+        "p": "The third is a relationship with class that is more permeable than most of the world but less permeable than Vallam likes to believe about itself. Vallam's founding mythology emphasizes merit and earned status, supported by social mobility that remains remarkable by global standards. Yet its egalitarian self-image exceeds reality. Aldenmere Heights still house many of the same families they have for a century, while children raised in Ironside's tenements tend to remain there. Those who cross these boundaries are celebrated precisely because they are exceptions. Vallam is sincerely idealistic in its public attitudes, structurally conservative in practice, and adept at reconciling the two through stories of exceptional individuals and social advancement."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The War and The City",
+      "page": 19,
+      "y": 606.2666015625,
+      "body": [
+       {
+        "p": "The Great War isn’t in Vallam in any observable, dramatic sense. The front is thousands of miles away on the other continent. The bombing raids that some of the smaller Corda cities have endured have not reached Vallam. The Fairbourne Naval Command has ensured that. What is in Vallam is quieter."
+       },
+       {
+        "p": "The veterans are the most visible sign. They return through the docks in batches no longer with parades. The parades stopped in about 1910 when it became clear the war was not going to be brief, and scatter into the city's neighborhoods, distinguishable in the first weeks by a particular way of moving through crowds that has nothing to do with confidence and everything to do with the habit of treating open spaces as threats. Most of them find their way back to ordinary life eventually. Some of them do not, and the city has developed an informal infrastructure of people who know how to recognise the ones who are not finding their way back and direct them toward help that may or may not actually help."
+       },
+       {
+        "p": "The recruiting offices are still open. The ships still leave. The men and women who board them pass, on the dock, the men and women coming off them, and both groups have learned never to look too hard at the other. The gap between what is on the faces of the returning and what is on the faces of the departing is one of the defining images of Vallam in 1926, and enough people have seen it enough times that the newspapers have stopped printing it and the artists have started."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Prohibition",
+      "page": 20,
+      "y": 360.1435546875,
+      "body": [
+       {
+        "p": "National Prohibition took effect in Fairbourne in 1918, driven by wartime economic priorities."
+       },
+       {
+        "p": "Supporters argued that breweries could be converted into factories, grain redirected toward ammunition production, and reduced alcohol consumption would make the population more productive. The policy was introduced in good faith, but its consequences were poorly anticipated."
+       },
+       {
+        "p": "Prohibition has done little to reduce alcohol consumption in Vallam. Instead, it has shifted profits from licensed breweries and public houses to a loose, often violent network of bootleggers, importers, illicit distillers, and speakeasy owners. Hundreds of speakeasies operate across the city at any given time, ranging from sophisticated clubs with live jazz and proper ice to basement establishments serving unidentifiable liquor in filthy cups."
+       },
+       {
+        "p": "The police know of most speakeasies, but enforcement varies by precinct, officer, and the prevailing balance of informal financial arrangements. Some officers enforce Prohibition rigorously out of genuine conviction; others selectively target rival criminal organisations, while some ignore violations entirely. All three groups share a common resentment of the Prohibition Division, a national enforcement agency operating semi-independently of the city police. By 1926, speakeasies had become central to Vallam's social, cultural, and criminal life. They bring together people who might rarely otherwise interact: wealthy and working-class residents, immigrants and native-born citizens, criminals and legitimate businesspeople, veterans and civilians. Their patrons share tables, liquor, and music across traditional social boundaries. Whether speakeasies represent genuine social democratisation or simply the usual function of bars operating underground depends on the establishment."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Immigration and The Cities’ People",
+      "page": 21,
+      "y": 126.0263671875,
+      "body": [
+       {
+        "p": "Vallam's port has received immigrants for five centuries, creating a population too diverse for any simple cultural or ethnic classification. Families who have lived in Vallam for three or four generations often claim a degree of seniority over newer arrivals, though each generation finds itself displaced by the next. Ethnic neighborhoods have formed throughout the city, where communities establish their own institutions and preserve traditions adapted to Vallam's conditions. These districts remain fluid, with boundaries shifting over time. Their children grow up speaking Vallammer English with accents their grandparents barely recognize, often experiencing both belonging and alienation in their ancestral and adopted cultures."
+       },
+       {
+        "p": "The war has introduced another significant group to Vallam's immigrant population: refugees. Since 1918, increasing numbers have arrived through the city's port from Corda's occupied territories, nations conquered by the Lys Monarchy, and regions along the Deadlock's edge that have become unsafe. The Dominion's immigration office processes them in the Merchant District before assigning them whatever temporary accommodation is available. From there, they must find their place in Vallam's social fabric, with varying levels of support and acceptance. The refugee population keeps the war's consequences visible in everyday life. Vallam's response reflects its broader tendency to treat distant crises as someone else's problem until their consequences arrive at the city's doorstep."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "The Neighborhoods of Vallam",
+    "page": 21,
+    "y": 498.2129211425781,
+    "body": [],
+    "meta": [],
+    "art": [],
+    "children": [
+     {
+      "title": "A gazetteer.",
+      "page": 21,
+      "y": 618.2734375,
+      "body": [],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Eye of Vallam",
+      "page": 21,
+      "y": 639.28515625,
+      "body": [
+       {
+        "p": "The bay around which Vallam curves is known as the Eye of Vallam, a name predating the city. It originates from the language of the coastal people Orion encountered, describing the inlet as the place where the land looks toward the sea. Roughly circular and wide enough for the opposite shore to disappear in overcast weather, the bay has deep natural channels that made it ideal for a port and influenced Orion's choice of river mouth. At its center lies the Mote, a small, steep-sided island occupying the bay's natural focal point. Its name refers to a speck in the eye, reflecting how the island appears from the surrounding hills. Throughout Vallam's history, it has served as a defensive fortification, naval resupply station, and, for the past 150 years, a prison."
+       },
+       {
+        "p": "Motefold Prison is among the Dominion's most secure correctional facilities. Accessible only by prison-service ferry from a restricted dock in the Merchant District, it holds between 600 and 800 inmates. Most serve long sentences for serious crimes, while a smaller number are held under wartime political detention provisions whose legality Parliament continues to debate. The prison's imposing stone silhouette is visible from much of the crescent's shoreline on clear days. In Vallam's public imagination, the Mote represents everything the city would rather keep out of sight, despite having limited space to contain it."
+       },
+       {
+        "p": "Beyond the bay, the coastline opens into the Galmier Archipelago, a chain of larger islands known collectively as the Upper Eyelid. Regular ferry services connect the islands to the mainland and each other, while a vehicle causeway built in 1911 links the largest, most closely situated islands. Once controversial, the causeway has become an essential part of the city's transport network. The three largest islands, Havelock, Corren, and Strand Isle, maintain their own communities, commercial districts, schools, and local governments while remaining closely tied to mainland Vallam. Havelock is primarily residential, with cliff-top houses among the city's most desirable addresses for those seeking access to Vallam's social life without its noise and congestion. Corren supports a substantial fishing industry, supplying a significant portion of the mainland's markets. Strand Isle has a smaller permanent population supplemented by seasonal residents. Its community includes artists, eccentrics, and people seeking refuge from troubles elsewhere. Farther north, the islands grow smaller, ferry services become less frequent, and settlements more isolated. Eventually, the chain dwindles into remote ocean outposts before giving way to the ice beyond."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": [
+       {
+        "title": "Climate In The Reach",
+        "page": 22,
+        "y": 594.26171875,
+        "body": [
+         {
+          "p": "The Valinne Current runs north along the Reach's western coast, carrying warm equatorial water northeast through the Zodiac Ocean's gyre system. Like Earth's Gulf Stream, it raises coastal temperatures several degrees above what the latitude would otherwise produce. In Fairbourne, it moderates winter cold and supplies moisture, producing Vallam's characteristic cold, wet winters, persistent rain, and coastal fog. Its influence also creates the mild, wet winters and cool summers needed to sustain coastal redwood forests in the valleys behind the city. The mountain range forming the eastern arc of the Eye of Vallam's crescent extends into the surrounding uplands, shielding the coastal region from the Reach's colder, drier continental climate. The mountains deflect cold air masses southward or force them over the range, limiting their influence on the coastal valley. The Aldenmere estates occupy a particularly sheltered position on the range's coastal face, protected from both continental cold and the strongest ocean winds. The golf course above them is exposed and windy, while the estates below remain comparatively sheltered."
+         },
+         {
+          "p": "The Eye of Vallam further moderates the local climate. Its broad, deep waters face north toward the open ocean and absorb heat during warmer periods, releasing it gradually as temperatures fall. This reduces seasonal extremes across the surrounding coastal lowlands, keeping the bay ice-free and preventing deep freezes around Vallam in all but the most severe winters. The higher terrain behind Aldenmere receives regular, sometimes substantial snowfall, while the city benefits from a maritime climate more typical of regions farther south. Together, the Valinne Current, the mountain range, and the Eye of Vallam create a coastal microclimate that supports redwood forests, keeps Vallam's winters wet and relatively mild, and produces cool, often foggy summers. The result is a region whose climate differs significantly from the harsher continental conditions at the same latitude."
+         }
+        ],
+        "meta": [],
+        "art": [],
+        "children": []
+       }
+      ]
+     },
+     {
+      "title": "The Confluence",
+      "page": 23,
+      "y": 450.189453125,
+      "body": [
+       {
+        "p": "Five rivers converge along the southern arc of the bay, forming the delta that Orion's earliest maps labeled the confluence. The name became that of the Confluence, Vallam's industrial heart and the district that transformed the settlement into the Dominion's economic engine. The district's skyline is dominated by factory stacks, cranes, and market halls. Its air carries the smells of iron, coal smoke, and river water, alongside an unidentified chemical odor that University of Vallam chemists have studied for decades without agreeing on its composition. Because the rivers flood unpredictably, waterfront streets sit on embankments and raised platforms, while nearby buildings elevate their ground floors or use them for flood-tolerant storage, light industry, and commerce."
+       },
+       {
+        "p": "By day, factories and riverside markets process enormous volumes of goods. These markets operate six days a week, attracting buyers and sellers from across Vallam. The northwestern fish market opens at three in the morning and runs until its stock sells out, bringing together Archipelago fishermen, Terrace hotel suppliers, Ashford households, and chefs from the Merchant District. After dark, changing factory shifts send workers into streets already occupied by the district's nightlife."
+       },
+       {
+        "p": "Long-established jazz clubs, crowded dance halls, and speakeasies offer cheaper, less polished entertainment than the city's wealthier districts. The Prohibition Division repeatedly raids these establishments, but most reopen within a week, sometimes in new locations and sometimes in the same basements under new furnishings."
+       },
+       {
+        "p": "The Confluence also houses the Delta, Vallam's largest open-air market, on a broad cobbled square between three central river bridges. On weekends, it grows to three times its weekday size, selling everything from produce and livestock to used clothing and goods of uncertain provenance. City council efforts to regulate, modernize, or relocate the market have repeatedly failed. Operating on the same site for four centuries, the Delta remains a fixture of the district despite persistent administrative opposition."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Merchant District",
+      "page": 24,
+      "y": 324.125,
+      "body": [
+       {
+        "p": "North of the Confluence, the Merchant District follows the inner coast of the Eye from the river mouth to the eastern crescent. It is Vallam's working downtown, where most residents outside the tourist, bureaucratic, and wealthy classes conduct their daily business. Narrow in places, only three or four blocks deep between the waterfront and rising land, it stretches along the coast with a density of commerce unmatched elsewhere in the Dominion."
+       },
+       {
+        "p": "The waterfront is a continuous network of unloading docks, warehouses, chandleries, rope yards, cold storage facilities, and shipping offices. Its largest vessels include cargo ships carrying goods from Corda, Cerani, and the Cradle through the Zodiac Ocean; military supply ships serving naval logistics; and emigration vessels bringing increasing numbers of people from Corda's territories since 1918. At the district's northern end, the Immigration Processing Office handles these arrivals in a long, functional building whose waiting rooms are rarely empty. Its staff rely on standardized procedures to manage a workload that leaves little room for individual attention."
+       },
+       {
+        "p": "Inland, streets rise gradually from the waterfront and fill with shops, restaurants, pawn brokers, currency exchanges, travel agents, and market stalls serving the city's working population. Businesses cater directly to local budgets and practical needs rather than prestige. Mende Street, three blocks from the docks, is particularly known for its restaurants, ranging from modest white-tablecloth establishments at its eastern end to informal noodle counters in the west."
+       },
+       {
+        "p": "At the western end of the immigration infrastructure lies Coppergate, Vallam's primary immigrant district. Rather than a unified community, it consists of numerous neighboring groups whose identities emerge through language, cuisine, music, and hand-painted signage. Its residents tend to be newer arrivals, more multilingual, and more conscious of the uncertainty involved in building a life in Vallam. The district is known for its lively streets, complicated local politics, and widely praised food, often considered the best in the city."
+       },
+       {
+        "p": "At the Merchant District's eastern end, near the Confluence junction, begins the Narrows, officially known as Southgate. Its informal name comes from a compressed street grid that remained unchanged during successive city expansions because property owners repeatedly resisted municipal widening orders. The Narrows is Vallam's oldest entertainment and vice district, predating both the Confluence's clubs and the Terrace's hotels by centuries. It has survived repeated raids, regulations, condemnations, and periods of neglect because its businesses continue to serve demand regardless of their legal status."
+       },
+       {
+        "p": "By 1926, the Narrows is a major center of Vallam's Prohibition-era underground economy. Its speakeasies are among the oldest and best-stocked in the city, while back rooms host technically illegal gambling operations that the local precinct largely tolerates. Its clubs have hired jazz musicians from Coppergate and the Confluence for fifteen years, making the district a major live-music destination."
+       },
+       {
+        "p": "Venues range from established clubs with stages and balconies to improvised back rooms with little more than a piano and cleared floor space. With its mix of coal smoke, food, and river air, the Narrows remains active well into the early morning, with establishments still operating and streets busy at three o'clock."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Terrace and the Sovereign Quarter",
+      "page": 25,
+      "y": 540.234375,
+      "body": [
+       {
+        "p": "South of the Confluence, the city changes the register. The industrial infrastructure gives way to something more deliberate, a district designed in the last fifty years on the clear intention of creating a face for Vallam that matches its status as the capital of the world's most powerful nation, and largely succeeding."
+       },
+       {
+        "p": "The Terrace is Vallam's hotel and entertainment strip, running along the bay's southern inner coastline in a curve of illuminated high rises that on a clear night are visible from the archipelago. Its hotels are the grandest in the Dominion, ranging from the historic Grand Peeress Hotel, open since 1843, recently refurbished, operating with a discretion about its guests that has made it the first choice of foreign dignitaries and people whose business in Vallam benefits from the assumption they are foreign dignitaries, to the newer towers of the commercial hotel chains that have risen in the last twenty years to accommodate the city's expanding visitor population. The Terrace also contains Vallam's licensed casino district, known as the Hall of Chances colloquially, is a cluster of establishments whose official legal status under Fairbourne gaming law is complex and the subject of annual parliamentary discussion, and which continues to operate with the confidence of something that has been argued about long enough that the arguing has become its own form of endorsement."
+       },
+       {
+        "p": "The Terrace is where Vallam's theatre district sits, its largest venues hosting productions that run for months and attract audiences from across the Reach. The Vallam Royal Theatre is the nation's flagship dramatic institution, funded partly by public subsidy and partly by a membership scheme whose waiting list is fifteen years long, sits at the Terrace's northern end. The theatres become progressively less prestigious and progressively more interesting as you move south, ending at the Terrace's southern tip with the Vanguard, a small venue that has been producing politically engaged and formally experimental work for thirty years, has been shut down by the authorities four times, and reopened each time to somewhat larger audiences."
+       },
+       {
+        "p": "The Terrace gives way, at the crescent's lowest point, to the Sovereign Quarter: the city's governmental district, where the scale of the architecture changes from grand to deliberate and the streets are wider and cleaner than anywhere else in Vallam because they are maintained to a different standard."
+       },
+       {
+        "p": "Parliament House occupies the northern edge of the Quarter. A building of appropriate size and rather less appropriate pomposity, its debating chamber audible from the street on a day when something controversial is being voted on. The Dominion Ministry complex clusters to the east of Parliament, its various departments occupying buildings that range from the properly monumental to the converted Georgian townhouse that the Foreign Office has somehow made work for sixty years."
+       },
+       {
+        "p": "At the southern center of the Sovereign Quarter, on the slight rise of ground where Orion Fairbourne's original fort stood in the year 1143, stands the Royal Palace of Fairbourne. It is not, architecturally, the most spectacular palace on Morphe as it lacks the baroque excess of Cerani's imperial residences, or the ancient grandeur of Solenne's temple complexes. What it has is seven centuries of continuous habitation, which gives it the specific quality of a building that has been genuinely lived in by people who mattered, and the collection of changes, additions, and unresolved contradictions in its architecture that comes from that length of occupation. The palace's public face are its formal rooms, its gallery of the Fairbourne monarchs, the ceremonial hall used for State occasions, and are open to visitors on specific days and is one of the city's principal tourist destinations. The working palace behind it, where King Gabriel and the family of The Crown actually reside, is not open to visitors and is managed by a staff whose primary qualification is discretion."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Greenvale",
+      "page": 27,
+      "y": 144.037109375,
+      "body": [
+       {
+        "p": "East of the Confluence and slightly elevated above it, the ground rises toward the beginning of the crescent's mountain slope, and in that rise the character of the streets changes from industrial to something greener. Greenvale is the name the neighborhood acquired gradually, following the establishment of its central park and the planting campaigns that the University undertook in the 1880s to create a visual counterpoint to the factory skyline of the Confluence below."
+       },
+       {
+        "p": "The University of Vallam, formally The Royal University of Vallam, informally and always the University or simply Vallam U, is the Dominion's oldest and most prestigious institution of higher learning, founded in 1531 in a building that still stands and is now used as the administrative centre. Its campus has expanded in every direction since then, absorbing adjacent blocks and streets into a loose federation of quads, libraries, lecture halls, laboratories, and the accumulated infrastructure of five centuries of academic activity. The University has faculties in law, medicine, science, arts, philosophy, engineering, and what it calls esoteric studies, the last of which operates from a building in the northwestern corner of campus that other faculties affect not to notice."
+       },
+       {
+        "p": "The University's Exhibit Museum, its collection of natural history, cultural artifacts, and scientific specimens, is open to the public and serves the dual function of being both a genuine world-class institution of learning and one of the city's primary cultural destinations. Its holdings include material from every continent on Morphe, gathered over four centuries of Dominion exploration and, occasionally, appropriation. The question of how much of this material should still be in Vallam rather than in its place of origin is currently being raised with increasing directness by several of those places of origin, and the Museum's director has been having the same conversation with the Foreign Office about it since 1921."
+       },
+       {
+        "p": "Vallam General Hospital sits on Greenvale's northern edge, adjacent to the medical faculty and connected to it by a walkway that has been used by medical students and junior physicians running between teaching duties and clinical work for eighty years. It is the largest hospital in the Dominion, serving both as the primary care facility for Vallam's population and as the country's leading centre of medical research. Its waiting rooms are always full. Its wards are always staffed. Its morgue, in the basement, is managed by the hospital's forensic pathology department and is the facility that the city police use for examinations relevant to criminal investigation, a relationship that is practically characterised by the forensic pathologists having strong opinions about how evidence should be handled and the police having strong opinions about forensic pathologists."
+       },
+       {
+        "p": "The student halls of residence occupy a stretch of Greenvale's southeastern streets as a mix of purpose-built university accommodation and converted private houses that the University has bought up over the decades. The neighborhood around them is accordingly student-inflected with cheap restaurants, bookshops, coffee houses with the particular atmosphere of establishments that have been the setting of many arguments about ideas, and the specific economic ecology of a district where the primary population has limited money and significant time. The University's sports grounds occupy the northeastern corner of Greenvale, and the student athletic culture that centres on them is one of the two universities' most visible points of institutional rivalry."
+       }
+      ],
+      "meta": [],
+      "art": [
+       "p27_x76.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Aldenmere",
+      "page": 28,
+      "y": 468.197265625,
+      "body": [
+       {
+        "p": "East of Greenvale, the crescent's slope steepens dramatically as the city climbs into the mountain range that defines the eastern arm of the bay. Aldenmere, a name derived from the old pre-Fairbourne settlement language, meaning something like the high water, a reference to the mountain snowmelt that feeds the streams running down through the district, is where Vallam's wealthy live, and it makes no particular effort to disguise this."
+       },
+       {
+        "p": "The estates of Aldenmere climb the mountain in roughly ascending order of wealth, with the lower sections of the district occupied by the prosperous upper-middle class, senior civil servants, established professionals, the partners and directors of successful firms, and the upper sections by the families who have been wealthy long enough that the question of how they became so is no longer asked in their presence. The estates are large, their grounds maintained by staff whose services are engaged through agencies that have operated in Aldenmere for generations, their driveways occupied by motorcars that are chosen primarily for what they communicate about the person who parks them."
+       },
+       {
+        "p": "The Wildwood Club, privately incorporated, membership by introduction only, waiting list running at approximately eleven years (a joke among the residents), is the social institution around which much of Vallam's elite civic life quietly organises itself. Its building, a long, stone structure set into the mountain's lower slope with views over the entire bay, contains dining rooms, private meeting rooms, a billiard hall, a wine cellar of museum quality, and a library whose acquisition policy is effectively a map of what Aldenmere's membership considers intellectually respectable. The Club's membership is predominantly male; a separate institution, the Wildwood Ladies' Association, occupies an adjacent building and maintains a studiously independent relationship with the Club that has been the subject of both progressive advocacy and persistent aristocratic defensiveness for thirty years."
+       },
+       {
+        "p": "The Aldenmere Golf Course occupies the mountain's more accessible summit plateau, its eighteen holes requiring a funicular railway to reach and offering views that members describe as compensating adequately for the difficulty of the climb. The course is also, incidentally, one of the better sites in the city for a private conversation that cannot be overheard, which is why it is used for that purpose considerably more often than its nominal function would suggest."
+       },
+       {
+        "p": "The furthest northern point of Aldenmere's slope descends to The Old Strand, which is a stretch of the crescent's northeastern coast where the oldest residential buildings in the city stand, some of them surviving from the first century of Vallam's history, their walls modified enough times that their present appearance is a palimpsest of seven centuries of architectural fashion. The Old Strand's families are Vallam's oldest, their presence in the city predating the Fairbourne dynasty itself in some cases, and they maintain their warehouses and private docks along the waterfront below as working commercial assets that also happen to be extraordinarily useful for conducting business with minimal port authority involvement."
+       }
+      ],
+      "meta": [],
+      "art": [
+       "p28_x79.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Ironside",
+      "page": 30,
+      "y": 90.0078125,
+      "body": [
+       {
+        "p": "West of the Confluence, the ground flattens and the city's housing density increases dramatically."
+       },
+       {
+        "p": "Ironside is the name for the arc of dense apartment housing that wraps around the western edge of the industrial center, its streets arranged in a grid that was planned in the 1870s to house the workforce the Confluence's factory expansion required and has been housing them, and their children, and their children's children, ever since."
+       },
+       {
+        "p": "The buildings of Ironside are tall by the standards of residential construction. Six, seven, eight stories in the older blocks, climbing higher with the more recent additions, and the streets between them narrow enough that in winter the lower floors receive direct sunlight for only a few hours daily. The apartments are small, the common areas are worn, and the buildings' maintenance is the subject of ongoing and generally unsuccessful correspondence between their tenants' associations and the property management companies that own them. Ironside is a “not-a-slum” working-class neighborhood with the specific pride and specific grievances of a working-class neighborhood that knows the city would not function without it and is not consistently acknowledged for this,  but it is also not comfortable in the ways that comfort requires space and quiet and sufficient heat."
+       },
+       {
+        "p": "What Ironside does have is a tram, Ironside Central Station. The hub of Vallam's tram network, a large and surprisingly elegant building whose cast-iron concourse roof has been compared by architecture critics to several much more famous structures in other cities, which sits at the neighborhood's heart, its lines radiating outward to connect every major district in the city. The tram is the practical circulatory system of Vallam for the majority of its population who do not own motorcars, and its Central Station the place where the cross-sections of the city encounter each other in transit, the Greenvale student and the Merchant docker and the Aldenmere domestic servant all passing through the same concourse, waiting for their respective lines, occupying the same space briefly and entirely separately."
+       },
+       {
+        "p": "The trainyards that adjoin Ironside Central extend west along the embankments built above the neighborhood's lower streets, their activity a constant background of mechanical sound and the particular smell of hot iron and coal that Ironside's longer-term residents have stopped noticing. The yards handle primarily commuter and regional passenger traffic; the freight traffic belongs to Millfield."
+       },
+       {
+        "p": "Ironside is also home to St. Butcher’s, Vallam's largest Lysterist cathedral. A substantial building in the older Astralist architectural style that occupies an entire city block in the neighborhood's center and serves both as the primary place of worship for Ironside's significant Lysterist community and as the de facto community center for the neighborhood. The cathedral's choir school is one of the city's better free musical education institutions, its choir having produced a disproportionate number of the Confluence's jazz musicians, a fact that the canon currently in charge of the choir school has decided views on."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Millfield",
+      "page": 31,
+      "y": 198.0625,
+      "body": [
+       {
+        "p": "West of Ironside, the apartment towers give way to the commercial and financial district that the city's growth in the last century made necessary and that has been expanding westward ever since. Millfield takes its name from the grain mills that occupied this site before the financial district displaced them, a displacement that happened swiftly and without particular ceremony in the 1850s when the economics of Vallam's growth made milling grain significantly less profitable than processing paperwork about the people who bought grain from elsewhere."
+       },
+       {
+        "p": "In the northern half of Millfield lies the professional offices of solicitors, accountants, insurance agencies, shipping firms, and the various professional services that cluster around the financial institutions they serve. The Vallam Stock Exchange occupies a building on Millfield's central street that is intentionally imposing and whose trading floor noise can be heard from the pavement outside during active hours. The major banks have their Vallam headquarters in Millfield, and the foreign banks that have established Dominion operations occupy the district's northern streets, their walls carrying the architectural signatures of their home countries in ways that make Millfield's streetscape a fun little tour of Morphe's architectural traditions."
+       },
+       {
+        "p": "The southern half of Millfield gives way to smaller commercial enterprises, then to the first residential streets of the suburb, then to the handful of small factories that occupy the district's southwestern corner. Several of these factories are currently closed, their bricks presenting blank windows to streets that were, a decade ago, busy enough to require traffic management. The closures are attributed variously to wartime supply chain disruption, to the prohibition of certain chemicals used in manufacturing, and to decisions made by holding companies in Aldenmere whose full reasoning is not publicly available. Whatever the reason, the empty factories are there, and the streets around them have adjusted to their absence quietly, with more people who have nowhere particular to go standing in them."
+       },
+       {
+        "p": "Millfield Freight Yard occupies the southern edge of the district, a working logistics hub that connects Vallam to the interior rail network running south into the Reach's agricultural and mining regions. The freight yard is the opposite of Ironside Central aesthetically, being entirely functional, unglamorous, organised entirely around the movement of goods rather than people, and equally vital to the city's practical functioning and dependent on a workforce whose relationship with their employer is currently being mediated by a union that is affiliated with the national labour movement and whose local leadership attends, as it happens, the same Lysterist congregation as the canon at St."
+       },
+       {
+        "p": "Butcher's."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Ashford",
+      "page": 32,
+      "y": 252.08985900878906,
+      "body": [
+       {
+        "p": "North of Millfield, the streets widen slightly and the buildings drop from the commercial scale to the residential. Ashford is Vallam's most extensive middle-class suburb, a district of one and two-story terraced houses that stretches across the upper-western section of the crescent in a pattern that the city's planners laid out in the 1890s and that has been filled in, block by block, over the thirty years since, so that the district now presents to visitors the coherent, slightly repetitive aesthetic of a neighborhood designed to contain respectable people efficiently."
+       },
+       {
+        "p": "Ashford's residents are the city's working middle class: the clerks of Millfield, the teachers of the district's schools, the nurses and administrators of Vallam General, the tram operators of Ironside Central, the better-paid skilled workers of the Confluence and the Yards. They own their houses or rent them at rates that require a degree of financial stability without demanding prosperity, they maintain their small front gardens to a standard that communicates effort without excess, and they participate in the local institutions. The schools, the churches, the civic associations, the neighborhood cooperative, all of them carry the specific energy of people who understand that the institutions work because enough people show up to make them work."
+       },
+       {
+        "p": "Ashford Comprehensive, the district's main secondary school, is one of the better state schools in the city, its reputation sufficient to make the north-western section of Ashford slightly more sought-after as a residential address for families with children of secondary school age. Its sports facilities are used by the neighborhood's youth associations on weekends, and its hall serves as the venue for the area's civic meetings, which are attended by a higher proportion of the local population than comparable events in any other district of the city, a fact that local councillors attribute to Ashford's civic culture and that cynics attribute to Ashford having fewer alternative ways to spend an evening."
+       },
+       {
+        "p": "Ashford has several significant concentrations of the immigrant communities who moved outward from Coppergate over the generations. Families who arrived at the Merchant docks one or two or three generations ago and have spent the intervening time becoming, through a combination of proximity and time and shared school runs and shared fences, Ashford residents of long standing. Their temples, meeting houses, and cultural associations are woven into the neighborhood's fabric alongside the Lysterist congregations and the secular civic institutions, and the district's local stores reflect, accordingly, a range of culinary and commercial traditions that makes Ashford's high street considerably more interesting than its architecture might suggest."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Fenwick",
+      "page": 33,
+      "y": 252.08985900878906,
+      "body": [
+       {
+        "p": "The northernmost point of the crescent, separated from Ashford by a shallow depression in the ground that fills with standing water in heavy rain and has never been adequately drained, is Fenwick."
+       },
+       {
+        "p": "A neighborhood whose character is shaped by three things: the second university, the marsh, and the graveyard."
+       },
+       {
+        "p": "The ground here is low and damp, the soil heavy, the air in summer carrying the particular quality of heat over wet ground that produces a specific muggy unpleasantness during the months when the rest of the city is merely warm. In winter it is cold and damp instead of hot and damp, which the neighborhood's long-term residents consider a modest improvement. The streets of Fenwick are built on raised embankments above the marsh line, their foundations reinforced repeatedly in the century since the first serious building began here, and the architecture has the look of something that has spent a long time negotiating with unstable ground. It is lower than Ironside's towers, broader than Millfield's terraces, and built with the thick walls and small windows of structures that expect moisture to be a permanent condition."
+       },
+       {
+        "p": "St. Aldrek's College occupies Fenwick's eastern center, its campus arranged around the old ecclesiastical buildings that formed its original core. It began as a seminary for the Astralist church, a function it retained until the late nineteenth century when the secularisation of higher education funding and the recognition that seminary graduates were in declining demand produced a pragmatic conversion to a general university. St. Aldrek's is smaller than the University of Vallam and considerably less prestigious, a fact that its students and faculty are collectively ambivalent about in a way that usually translates into defiant pride. Its strengths are in theology, law, and social sciences. Its athletic program, though smaller, produces an occasional championship team, and its rivalry with the University of Vallam's sports teams is older than either institution's current form and taken more seriously by St. Aldrek's students than by the University's, which the St. Aldrek's students consider confirmation of something they have long suspected about people who attend the University of Vallam."
+       },
+       {
+        "p": "The western coastline of Fenwick is occupied, for approximately a mile and a half of its length, by Aldrek's Field, the city's primary and oldest municipal cemetery. Established in the 1640s when the city's population had grown sufficient to require a dedicated burial ground outside the church precincts, Aldrek's Field has been receiving Vallam's dead for nearly three centuries. Its oldest sections, nearest the water, are the most historically significant: the graves of people who were present at the founding, the monuments of the city's early merchant families, the mass burial grounds of two epidemic years in the seventeenth century. Its newer sections, in the eastern areas added as the old sections filled, are where the war dead are buried. Those whose bodies were repatriated from the Corda front and the earlier campaigns, their graves marked with the Dominion's standard military stone and, on many of them, the Astralist Ring symbol that has become the dominant visual marker of military commemoration in Fairbourne."
+       },
+       {
+        "p": "The cemetery is a working civic institution. Its administrative offices process death registrations, manage burial rights, and maintain records that the city's historians and genealogists rely on. It is also, by the nature of its function and its age, one of the stranger places in Vallam to spend an afternoon. Its older sections have the specific atmosphere of places where a lot of history has accumulated in a relatively small space. Its paths are used by students from St. Aldrek's as a shortcut and by Fenwick's residents as a park, in the particular tradition of walking among graves as a form of contemplative pastime that the city's residents find unremarkable and visitors consistently find surprising. In winter, when the marsh fog comes in off the bay, Aldrek's Field is the kind of place that produces, in even the most resolutely unsentimental visitor, a strong desire to be somewhere else."
+       },
+       {
+        "p": "There are things buried in the older sections of Aldrek's Field that the administration's records do not accurately describe. This is true of every cemetery that has been operating long enough. In Aldrek's Field's case, the inaccuracies include several entries that are not inaccurate by accident."
+       }
+      ],
+      "meta": [],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Vallam County",
+      "page": 34,
+      "y": 612.26953125,
+      "body": [
+       {
+        "p": "Vallam as a city is the bright center of Vallam County, a roughly hundred-mile spread of coast, redwood shire, river valley, and mountain that the Dominion administers as a single revenue and policing district out of offices in the Sovereign Quarter. The County is where the city's raw materials come from and where its inconvenient people go. It is patrolled by a thin scatter of constabulary who answer to Vallam in principle, or to whoever owns the local mill or mine, and it is connected to the city by a single decent coastal road, a rail spur that runs as far as the mountains and stops, and a great many lesser roads that the maps are optimistic about. South and inland lie the shires proper. Mild, wet, fog-soft valleys where the coastal redwoods grow, given over to farms, estates, and the timber the Spencer concerns cut and float down to the Millfield Yards. North and up the land climbs into the mountain range that walls off the continental interior and gives Aldenmere its privileged air; the range is cold, snowbound in winter, rich in iron and copper, and the County's population thins as the altitude rises until it stops entirely at a dead-end village most of the city could not name. West is the coast, with working harbors, fishing water, and the long shoreline that the Galmier archipelago sits off but is not, administratively, part of. The islands answer to their own Warden and regard the mainland County with polite distance. Five rivers braid down through the shires to meet at the Confluence, and the greatest of them, the Miskatonic, runs through the center of the farms before it reaches the city, carrying barges, timber, and the occasional smuggled thing."
+       },
+       {
+        "p": "What follows are the six settlements a city person is most likely to have heard of, and most likely to have heard wrong:"
+       },
+       {
+        "li": "​ Whittington: The southernmost settlement of any size, Whittington is a logging town on the"
+       },
+       {
+        "p": "County's ragged southern edge, where the shire valleys give out into the disputed scrub that nobody has ever bothered to survey precisely because there is nothing there worth the surveyor's fee. It exists to cut, mill, and float timber, and its several hundred residents are the sort of people who can drop a two-hundred-foot redwood in the direction they intend and think nothing of it. It is a hard, close, capable town that settles its own disputes."
+       },
+       {
+        "li": "​ Steel Point: This town is driven into the mountain range Aldenmere makes the beginning of,"
+       },
+       {
+        "p": "Steel Point is where it means it. Steel Point is the largest settlement in the County outside the city, and it does nothing but dig, following the iron and copper down into the dark under the range on a schedule set by the freight contracts, and the town's whole rhythm is the shift whistle, the cage, and the long climb back to daylight. The Spencer Industrial Group owns the principal mines, most of the stores, most of the housing, and the loyalty or resentment of nearly everyone in the town, and the family functions as Steel Point's de-facto government, convenient for the dominion and complicated for the miners. Lucas Spencer's word is law here more reliably than any law is. The work is well-paid by County standards and lethal by any other, and the town keeps its own hard counsel."
+       },
+       {
+        "li": "​ Ipswitch: Past Steel Point the road climbs on, worsening, through the high passes, and where"
+       },
+       {
+        "p": "it finally gives up, it arrives at a village of perhaps fifty souls. It exists because the road had to stop somewhere and this is where it stopped. It is the last inhabited place before the range becomes only rock and weather, and its people raise animals such as sheep and goats on the thin high pasture, a few hardy cattle, the wool and mutton and milk that come down the mountain in the same carts that carry ore, when the passes are open, which is not all year."
+       },
+       {
+        "p": "Ipswitch keeps to itself. Fifty people at the top of a mountain in the winter become, of necessity, a single stubborn organism, married and remarried into a handful of surnames, keeping traditions the lowland shires abandoned generations ago and calendars the city has never heard of. They are hospitable to travelers in the hard, obligatory way, and are unforthcoming about a great many things."
+       },
+       {
+        "li": "​ Brancrug: This town sits in the geographic middle of the County. It is a crossroads town"
+       },
+       {
+        "p": "where the roads to Whittington, to Mystic, and on toward Ingfell all pass through or branch apart, and it has made a modest, comfortable living for generations as a reliable stop before those roads get lonely. It has good pubs, more of them than its resident population justifies, a coaching inn or two updated with a petrol pump, working farms, and a scatter of middling gentry estates whose families are grand enough to be somebody in Brancrug and nobody at all in Aldenmere (or a summer home of an Aldenmere family). Nothing of importance has ever happened in Brancrug. Everyone traveling the County's interior stops there, refuels there, drinks there, and talks there, and a patient listener in the right pub on the right evening can learn the movements of half the County without leaving the fireplace."
+       },
+       {
+        "li": "​ Mystic: Set in the heart of the shire farmland on the bank of the Miskatonic, Mystic is the"
+       },
+       {
+        "p": "distribution point for a wide spread of farmhouses and smallholdings too scattered to supply themselves directly from Vallam. The trucks and the river barges come up from the city and drop their loads of seed, feed, tools, fuel, wire, parts, and another hundred things a working farm runs through, and the outlying farmers come in to Mystic to buy, collect, and haul the rest of the way home themselves. A busy lil’ town, with warehouses, a feed store, a chandlery, and a wharf where the barges tie up. You can hire a hand here, sell a crop, hear who has died and who is selling up, and quietly arrange the sort of transaction that does not want the city's paperwork."
+       },
+       {
+        "li": "​ Ingfell: A substantial coastal town on the far shore, well away from the city's stretch of the"
+       },
+       {
+        "p": "Eye, and the hardest of all six to actually reach. The roads to Ingfell are poorly kept and, past Brancrug, poorly marked: signposts that should direct a traveler toward the town are missing, or turned, or were apparently never erected, and within the town itself the street signs have been quietly removed, so that an outsider trying to find a specific address discovers that no one seems able, or willing, to help them do it. A first-time visitor can find sagging wharves, shuttered frontages, salt-eaten paint, a harbor that clearly once did far more business than it does now. It is a town that has no public library, no chamber of commerce, no civic apparatus of the kind every other settlement its size maintains, and does not appear to feel the lack. There is a look to certain of the old Ingfell lines, something in the set of the eyes, the skin, the neck, the gait, that the town treats as unremarkable, and it runs in the families that never leave and never marry out. Vallam, for its part, has decided that Ingfell is a depressed and inbred fishing backwater best left to itself, and files the occasional strange report from that stretch of coast under nothing at all."
+       }
+      ],
+      "meta": [],
+      "art": [
+       "p35_x94.png"
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "title": "Organizations",
+  "page": 38,
+  "y": 72.0,
+  "body": [
+   {
+    "p": "A categorical guide to the institutions, societies, families, and enterprises that shape life in the Vallam of 1926."
+   }
+  ],
+  "meta": [],
+  "art": [],
+  "children": [
+   {
+    "title": "GOVERNMENT & OFFICIAL INSTITUTIONS",
+    "page": 38,
+    "y": 366.146484375,
+    "body": [],
+    "meta": [],
+    "art": [],
+    "children": [
+     {
+      "title": "The Vallam Metropolitan Police Department",
+      "page": 38,
+      "y": 414.169921875,
+      "body": [
+       {
+        "p": "The Vallam Metropolitan Police Department (VMPD) is divided into eight precincts loosely aligned with the city's major neighborhoods. The Central Precinct, located in the Sovereign Quarter, serves as headquarters. Commissioner Arthur Voss, a career administrator, has managed the department through Prohibition by maintaining a careful distinction between what he knows and what he officially chooses to ignore."
+       },
+       {
+        "p": "The VMPD's relationship with Vallam's criminal underworld varies by precinct, ranging from active enforcement cooperation to near-total institutional capture. The Prohibition Division operates within the VMPD's structure but reports directly to the national Home Office, creating resentment throughout the regular force. Relations between the two bodies are strained, and inter-agency cooperation is minimal."
+       }
+      ],
+      "meta": [
+       "Central Precinct: The Sovereign Quarter"
+      ],
+      "art": [
+       "p38_x102.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Prohibition Division",
+      "page": 39,
+      "y": 180.052734375,
+      "body": [
+       {
+        "p": "Formed under the National Prohibition Act of 1924, the Prohibition Division enforces national alcohol restrictions as the enforcement arm of the Temperance Bureau. Its officers are recruited primarily from outside the regular police force, which was considered too compromised to enforce Prohibition reliably. The Division excels at high-profile raids, prominent bootlegger arrests, and major shipment seizures but struggles with routine enforcement due to its officers' lack of established neighborhood relationships."
+       },
+       {
+        "p": "The Division is headed by Chief Agent Emmeline Strauch, a former customs investigator known for her competence and blunt manner. Recognizing that the VMPD ranges from indifferent to openly hostile toward her mandate, she has developed independent networks of informants and contacts outside its structure. Commissioner Voss finds these arrangements deeply irritating."
+       }
+      ],
+      "meta": [
+       "Location: Millfield, a deliberately unremarkable building on Crane Street"
+      ],
+      "art": [
+       "p39_x105.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Suppression Bureau",
+      "page": 39,
+      "y": 574.60546875,
+      "body": [
+       {
+        "p": "The Suppression Bureau operates covertly within the Dominion government under the official designation Office for Cultural and Historical Integrity, a deliberately vague title that has concealed its true mandate for thirty years. The Bureau manages the boundary between the ordinary world and the supernatural, restricting exposure to phenomena and knowledge that can endanger those who encounter them."
+       },
+       {
+        "p": "Its primary functions include: the censorship and removal of written, artistic, and printed works that describe, reference, or inadvertently replicate knowledge of the horrors; the investigation and, if necessary, the disappearance of individuals who have come into contact with supernatural entities or knowledge and represent a risk of further exposure or contamination; the monitoring of organisations and individuals with demonstrated occult interest; and the containment of what the Bureau's internal documents call threshold events. These refer to occurrences in which the boundary between the ordinary and the supernatural has been breached in ways that require immediate and deniable management."
+       },
+       {
+        "p": "The Bureau's agents carry badges whose statement reads Aliis Si Licet, Tibi Non Licet, which can translate to “What is permitted for others is not permitted for you”, a quotation selected by the Bureau's founder. Agents receive only enough information to perform their assigned duties and are discouraged from investigating the broader mandate. The Bureau maintains that restricted knowledge protects agents from psychological harm, a rationale that is partly justified and partly convenient."
+       },
+       {
+        "p": "Director Zachary Wakefield, forty-one, heads the Vallam Station. His background before joining the Bureau is undocumented in any files accessible to his agents. He rarely leaves the Sovereign Quarter building; when he does, observers take notice and question what prompted his departure. The Bureau cooperates with St. Butcher's Custos when operationally necessary and surveys the Hush House, the University's Society for the Exploration of the Unexplained, and several individuals connected to the Eclipsiad's surviving underground presence. People disappear from Vallam regularly, and some would likely remain had the Bureau not needed them to."
+       }
+      ],
+      "meta": [
+       "Location: Officially listed as a division of the Home Ministry, physically located in a four-story building in the Sovereign Quarter that is not labeled and has no public-facing signage beyond a street number."
+      ],
+      "art": [
+       "p40_x108.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Dominion Naval Command",
+      "page": 41,
+      "y": 126.02733612060547,
+      "body": [
+       {
+        "p": "Headquartered at a large complex on the Merchant District's northern waterfront, adjacent to the naval dockyards. The Navy is present in Vallam as a major institutional fact of the city's life. Its dockyards employ several thousand civilian workers, its officers occupy a significant portion of the Aldenmere lower-slope residences, and its command structure is one of the city's most important centres of power. Admiral Constance Harrow, the first woman to hold the position, appointed in 1923 after a career that included the most successful anti-smuggling operation in Dominion naval history and the management of the Selkeff Straits monitoring station during the early war years, is one of the most significant people in Vallam and one of the least publicly prominent, which she considers an appropriate arrangement."
+       }
+      ],
+      "meta": [
+       "Location: A large complex on the Merchant District's northern waterfront, adjacent to the naval dockyards."
+      ],
+      "art": [],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "THE PRESS",
+    "page": 41,
+    "y": 414.169921875,
+    "body": [],
+    "meta": [],
+    "art": [],
+    "children": [
+     {
+      "title": "The Vallam Standard",
+      "page": 41,
+      "y": 474.203125,
+      "body": [
+       {
+        "p": "The Standard is the Dominion's newspaper of record. The broadsheet that foreign governments read to understand what Fairbourne thinks, that Parliament reads to understand what the public thinks, and that the public reads to understand what Parliament is doing wrong. It has been publishing continuously since 1801 and has, over that period, broken more significant stories than any other paper on the Reach, retracted fewer of them than any reasonable person would expect, and been the target of more legal threats than all other Vallam newspapers combined."
+       },
+       {
+        "p": "Its editor-in-chief, Barnabas Quelch, is seventy-one, has been at the Standard for forty-three years, holds views that cannot be mapped onto any recognisable political position without significant distortion, and has an editorial instinct that his reporters find terrifying and his proprietors find, with some justice, more valuable than the building they publish from. The Standard's relationship with the Suppression Bureau is contentious. The Bureau has successfully suppressed four Standard stories in the last decade. The Standard is, in all four cases, aware that the suppression occurred."
+       }
+      ],
+      "meta": [
+       "A six-story building in Millfield, whose printing presses are audible from the street during night runs."
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Vallam Evening Courier",
+      "page": 42,
+      "y": 126.02733612060547,
+      "body": [
+       {
+        "p": "The Standard's principal competitor for serious news coverage, younger by forty years, considerably more willing to pursue stories through methods the Standard's code of ethics does not endorse, and consistently better at the kind of crime reporting that requires sources in the criminal community."
+       },
+       {
+        "p": "Its crime desk is staffed primarily by former police officers and one former bootlegger whose arrangement with the Courier's editor has never been formally documented. Its editor, Petra Daun, is forty-four, was the Courier's crime reporter for fifteen years before being given the chair, and has a network of informants across Vallam's underworld that several law enforcement agencies would describe as inappropriately comprehensive if they were willing to acknowledge officially that they know about it."
+       }
+      ],
+      "meta": [
+       "Location: The Narrows, Southgate Building"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Morning Post",
+      "page": 42,
+      "y": 360.14453125,
+      "body": [
+       {
+        "p": "The Morning Post is not the Standard or the Courier. It knows it is not the Standard or the Courier, and it has made a consistent editorial decision that the correct response to this is to be more useful to the people who actually read it rather than to the people who do not. It covers Vallam's neighborhoods with greater granularity than either of its larger competitors. Local council votes, school board appointments, street-level crime, the kind of community news that the Standard considers beneath notice and the Courier considers insufficiently dramatic. Its readership is Ashford and Ironside and Fenwick. Its journalists are from those neighborhoods and know them in ways that no desk at Millfield or the Narrows can replicate. It breaks local stories that the Standard then follows up on at three times the space and half the accuracy."
+       }
+      ],
+      "meta": [
+       "Headquartered in ashford, a functional brick building on the high street"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Illustrated Gazette",
+      "page": 42,
+      "y": 576.25,
+      "body": [
+       {
+        "p": "A weekly periodical combining long-form journalism, cultural criticism, and illustration. Its arts coverage is the best in the city. Its political coverage takes the form of long essays that are read by the people who write them, the people who disagree with them, and not many others. Its editor, Marguerite Palliser, is a former academic who treats the Gazette as an ongoing argument with the city about what matters, and whose back-page column, weekly, unsigned, and written in a style that makes it instantly identifiable, has been both prosecuted for libel twice and nominated for the Dominion's press award four times. She lost both trials and won two nominations"
+       }
+      ],
+      "meta": [
+       "Situated in Greenvale near the university"
+      ],
+      "art": [],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "CIVIC & PROFESSIONAL ORGANISATIONS",
+    "page": 43,
+    "y": 198.0625,
+    "body": [],
+    "meta": [],
+    "art": [
+     "p43_x115.png"
+    ],
+    "children": [
+     {
+      "title": "Vallam Chamber of Commerce",
+      "page": 43,
+      "y": 400.9296875,
+      "body": [
+       {
+        "p": "The Chamber is the city's primary business advocacy body, formally voluntary, practically indispensable for any commercial operation that wants a voice in city policy, licensing decisions, or the various municipal processes that govern commercial life in Vallam. Its membership ranges from the large Aldenmere holding companies to the shopkeepers of Coppergate, though the Chamber's governance structure, a board elected by members weighted by contribution tier, means that in practice the large interests tend to set the agenda and the small ones attend the quarterly meetings and vote accordingly."
+       },
+       {
+        "p": "The current Chamber president is Duncan Crayle, the managing director of a mid-sized shipping insurance firm whose career has been built on knowing more about who needs what than anyone else in the room. Crayle is not corrupt but deeply well-informed, which produces similar outcomes in many situations. The Chamber's relationship with the city's criminal enterprises is mostly transactional and mostly conducted at arm's length. A number of the Chamber's members operate legitimate businesses that are adjacent to illegitimate supply chains, and the Chamber has a consistent institutional policy of not asking questions whose answers would require it to do something."
+       }
+      ],
+      "meta": [
+       "Location: Millfield, Commerce House, a large Edwardian building with a public meeting room that can seat three hundred."
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Rotary Club",
+      "page": 44,
+      "y": 90.0078125,
+      "body": [
+       {
+        "p": "Vallam's Rotary chapter was founded in 1912 by a group of younger professionals who found the Chamber of Commerce too formal and the established clubs too expensive, and wanted an organization focused on doing something useful rather than simply knowing useful people. The current membership is largely drawn from the working professional class, teachers, junior lawyers, small business owners, mid-grade civil servants, with a higher proportion of women than any of the other civic organisations and a younger average age than all of them."
+       },
+       {
+        "p": "The Rotary's service projects in 1926 include a reading program in Ironside's primary schools, a weekly soup provision operation in Coppergate, and an ongoing campaign to get the city council to finally address Fenwick's drainage problem. None of these projects are glamorous, but they are all doing something. The club's president, Vera Ashby, is a secondary school teacher at Ashford Comprehensive who runs the organisation with a cheerful relentlessness that its members find either inspiring or exhausting depending on the week and how many service hours they have had to log."
+       }
+      ],
+      "meta": [
+       "Location: Ashford, meeting weekly at the Ashford Arms public house (currently serving what the landlord describes as a selection of non-alcoholic fermented beverages)"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Masonic Lodge. Charter No. 7",
+      "page": 44,
+      "y": 393.16015625,
+      "body": [
+       {
+        "p": "The Masonic Lodge has been operating in Vallam since 1788, long enough that its membership rolls read as a partial history of the city's professional and academic establishment. Its rituals, so far as the public knows anything about them, involve a mixture of ceremonial tradition, fraternal obligation, and a system of moral philosophy expressed through symbolic architecture that members take more seriously than outsiders tend to expect."
+       },
+       {
+        "p": "Its secrets, which are genuinely kept, are less dramatic than popular imagination suggests and more practical. The lodge's membership overlaps extensively with the city's judiciary, its senior civil service, and its major financial institutions, and the fraternal obligation of the lodge produces a network of informal professional support and mutual assistance that operates quietly and effectively. The Master of the Lodge is Sir Edmund Bracke, a retired judge whose post-retirement social life is conducted almost entirely through the lodge's structures."
+       },
+       {
+        "p": "The Companion Circle, an informal associate group for women, acknowledged but formally separate from the lodge, meets monthly in a private room at the Grand Peeress Hotel. It does not include the lodge's ritual elements and has a considerably more overtly social character. Several of its members have been attempting for ten years to formalize the association into something with actual lodge status. This effort is proceeding in the way that such efforts proceed inside institutions that would prefer them not to succeed."
+       }
+      ],
+      "meta": [
+       "Location: Millfield, a building on Redfield Street that is distinguished from its neighbors primarily by the absence of any signage whatsoever."
+      ],
+      "art": [
+       "p44_x118.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Vallam Athletic Association",
+      "page": 45,
+      "y": 324.125,
+      "body": [
+       {
+        "p": "The VAA is the city's central sports and socialising club for those who want the social infrastructure of an athletic association without the commitment to regular athletic activity. Its membership includes genuine sportspeople, such as the the Rowing Club, the Amateur Boxing League, and a Cricket Association that takes itself seriously, plus a substantially larger contingent who joined for the discounted bar, the connections, and the general pleasure of belonging to something whose atmosphere smells of liniment and old leather without having to exert themselves. Both constituencies are welcome, and the VAA's success as an institution derives largely from this inclusive approach."
+       },
+       {
+        "p": "Its facilities include a gymnasium, a swimming pool, several dining rooms, a bar, a billiard hall, and a room informally designated as the smoking lounge in which no smoking has technically been possible since the incident of 1919, the nature of which is not recorded in the official minutes. The President, Captain (Ret.) Frederick Orme, is a former army officer whose definition of sport expands conveniently to include most of what the VAA's members actually want to do there."
+       }
+      ],
+      "meta": [
+       "Location: A large Victorian building in Greenvale, adjacent to the University sports grounds, known simply as the VAA House."
+      ],
+      "art": [],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "ACADEMIC AND UNIVERSITY ORGANIZATIONS",
+    "page": 45,
+    "y": 684.3046875,
+    "body": [],
+    "meta": [],
+    "art": [],
+    "children": [
+     {
+      "title": "The Society for the Exploration of the Unexplained",
+      "page": 46,
+      "y": 93.01171875,
+      "body": [
+       {
+        "p": "The SEU began in 1919 as a response to a wave of interest among returning veterans and their younger university counterparts in ghost stories, paranormal reports from the front, and the general sense that the world, having demonstrated its willingness to be much stranger and more horrible than expected, might also be strange in more interesting ways. Its membership is drawn from the University's more socially peripheral students. The ones who find the mainstream student social world slightly impenetrable and prefer a context in which enthusiasm for strange subjects is a social asset rather than a liability."
+       },
+       {
+        "p": "The SEU investigates reported paranormal events in Vallam with the rigour available to a group of undergraduates who have read a lot but have little field experience. Their investigations are almost uniformly unsuccessful in finding genuine evidence of anything supernatural, which is partly because the city's actual supernatural activity is well enough concealed that undergraduate investigators won't stumble onto it by accident, and partly because the SEU's investigative methodology, while enthusiastic, is not sophisticated. Several of its members are, however, more observant than average, and the SEU's archive of reported strange occurrences in Vallam, five years of case files, compiled with inconsistent but genuine diligence, contains, buried in the less dramatic material, several reports that the Suppression Bureau has reason to wish it had found before the SEU did."
+       },
+       {
+        "p": "The faculty advisor, Dr. Clement Foss, teaches in the Esoteric Studies faculty and is broadly supportive of the SEU in the sense that he signs the paperwork required for them to exist as a university society and does not attend their meetings. He is aware of considerably more than the SEU's members and has made a careful decision about how much of that awareness to share."
+       }
+      ],
+      "meta": [
+       "Location: University of Vallam, a borrowed basement room beneath the Esoteric Studies building, meetings Wednesday evenings"
+      ],
+      "art": [
+       "p46_x123.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Vallam Ladies' Shooting Club",
+      "page": 47,
+      "y": 126.02733612060547,
+      "body": [
+       {
+        "p": "Officially registered as a marksmanship sports society under the University's athletics programme, the VLSC is, in practice, a government-sponsored recruitment pipeline for the Dominion's Women's Auxiliary Corps, which has been accepting female volunteers into non-combat military roles since 1917 and combat-adjacent roles since 1922, and which has been trying to do both of these things without making it obviously a military recruitment operation since a Public Conscription Debate in 1924. The Club's official patron is the University's Athletics Department. Its practical administration is managed by a liaison from the Dominion War Ministry whose university affiliation is described, on all relevant paperwork, as visiting instructor in applied athletics."
+       },
+       {
+        "p": "The Club's membership includes women who genuinely want to learn to shoot, women who have intuited or been quietly told about the military connection and want to join the war effort, women who think it is funny that the Dominion's military recruitment is happening in a university shooting club basement, and one woman, Sergeant Instructor Ilara Vetch (university paperwork: Miss Vetch, Instructor), who has been running the Club since 1921 and whose combat record from the Corda front is significantly more extensive than her title suggests. The firing range is in use most evenings and all day Saturday and Sunday. The walls are thick enough to be effectively soundproofed."
+       },
+       {
+        "p": "Sergeant-Instructor Vetch has made this point to University administration on several occasions when other building use has been proposed."
+       }
+      ],
+      "meta": [
+       "University of Vallam, the Pennant Building, with a fully soundproofed firing range in the basement"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The St. Aldrek's Club",
+      "page": 47,
+      "y": 504.2187805175781,
+      "body": [
+       {
+        "p": "The St. Aldrek's Club is, formally, a private members' club for students, alumni and senior staff of St."
+       },
+       {
+        "p": "Aldrek's College, offering dining, reading rooms, overnight accommodation for visiting alumni, and the specific institutional feeling of a place whose purpose is to allow its members to be unavailable. Its building has been modified over the decades to eliminate window sight lines from the street, to install a rear entrance accessible without passing through the main lobby, and to soundproof, with considerable thoroughness, its private dining rooms."
+       },
+       {
+        "p": "These modifications were funded by the Club's membership and are not mentioned in its official prospectus. Within the Club's structure, the most significant and least officially acknowledged entity is the Aldrek Skulls, the Club's senior fraternity, whose membership is invitation-only, whose meetings are conducted in a room that non-members do not know exists, and whose influence in the placement of St. Aldrek's graduates into positions in law, finance, and the civil service has been the subject of four separate Standard investigations, none of which produced enough documentation to publish. The Skulls are not sinister in any supernatural sense. They are sinister in the ordinary sense of being a group of men with institutional connections and significant mutual interest in each other's continued success, operating without accountability."
+       },
+       {
+        "p": "The Skulls' current chair is Reginald Vacarro, a property lawyer whose office in Millfield represents a portfolio of clients whose legal needs occasionally require the kind of discretion that the Skulls' network is specifically equipped to provide."
+       }
+      ],
+      "meta": [
+       "A converted townhouse on Fenwick's main residential street, three buildings from the St. Aldrek's College eastern gate"
+      ],
+      "art": [],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "CULTURAL & SOCIAL SOCIETIES",
+    "page": 48,
+    "y": 360.14453125,
+    "body": [],
+    "meta": [],
+    "art": [
+     "p48_x128.png"
+    ],
+    "children": [
+     {
+      "title": "Vallam Amateur Theatre Company",
+      "page": 48,
+      "y": 566.74609375,
+      "body": [
+       {
+        "p": "The VATC is one of Vallam's oldest continuously operating amateur artistic institutions, founded in 1887 by a group of civil servants who found that government work, while intellectually satisfying, offered insufficient opportunity for melodrama. It has since become the primary social institution for a particular cross-section of the city: people who work in professional occupations during the day and want, in the evenings, to be someone else entirely. Its membership includes accountants, lawyers, teachers, a surprising number of police officers, and at least three individuals whose day occupation is of sufficient sensitivity that their VATC membership is the main thing their colleagues know about their personal lives."
+       },
+       {
+        "p": "The Company produces four shows per year from a mixture of established works, original productions, and the occasional experiment that the Committee describes as ambitious and the audience describes as testing, in The Lamp Room's intimate 180-seat house. Backstage at The Lamp Room is one of the more reliable social environments in Vallam. The greenroom is never empty, the caretaker serves tea at all hours without being asked, and the Company's tradition of post-show suppers at the restaurant next door has continued without interruption since 1891, including during the recent years of the Prohibition Act during which the restaurant's wine list became, officially, a menu of grape-based restorative beverages."
+       },
+       {
+        "p": "The Company's director is Sylvester Quine, a former professional actor who had a respectable provincial career before returning to Vallam and discovering that he preferred directing amateurs to performing with professionals, because amateurs are doing it because they love it, and that turns out to matter. He is also one of the more reliable sources in the city for information about who is having an affair with whom, a fact that several parties value for different reasons."
+       }
+      ],
+      "meta": [
+       "The Terrace, a converted former music hall called The Lamp Room, leased from the city at rates that the City Council reviews annually and consistently fails to raise"
+      ],
+      "art": [
+       "p49_x132.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "First Ladies of Vallam",
+      "page": 49,
+      "y": 676.640625,
+      "body": [
+       {
+        "p": "The First Ladies are not exactly a formal organisation. They are a social network with an identity, defined by shared ancestry, shared wealth, and a shared decision that the constraints society places on women of their position are less binding than those women are generally led to believe. Membership requires either a demonstrable Vallam lineage traceable to colonial-era settlement, a documented family presence in the city of three or more generations, or sufficient wealth and the endorsement of three existing members, which in practice means that the society is roughly equally divided between old money who earned their membership through birth and new money who earned it through the right combination of charming the right people."
+       },
+       {
+        "p": "The First Ladies have a reputation in Vallam that they are “aware of, have largely decided to cultivate, and consider to be, on balance, more accurate than their critics would prefer to acknowledge”. They are louder, more present, and more comfortable in spaces traditionally dominated by men than the social conventions of 1926 technically endorse. Several of them are genuinely talented musicians and performers; the nucleus of the group grew from a shared interest in jazz and the social world that surrounded it, and that connection to the music and the clubs remains central to the First Ladies' character."
+       },
+       {
+        "p": "Their informal leader  (the First Ladies have no formal leadership, but there is a person whose preferences shape what the group does) is Adeline Fairchild, twenty-eight, a member of the Fairchild branch of the Fairbourne family offshoot network, who plays the piano with a technical accomplishment she consistently refuses to take seriously and whose social influence extends far further than she typically allows people to know she is exerting it."
+       }
+      ],
+      "meta": [
+       "Nominally, wherever they happen to be. In practice, The Terrace hotels, the Confluence clubs, the speakeasies of the Narrows, and various private residences across Aldenmere"
+      ],
+      "art": [
+       "p50_x135.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Hush House",
+      "page": 50,
+      "y": 679.6484375,
+      "body": [
+       {
+        "p": "The Hush House Society presents itself, to the limited extent that it presents itself to anything outside its membership, as a society devoted to esoteric philosophy, alchemical study, and the collection of rare books. This presentation is accurate. It is also incomplete."
+       },
+       {
+        "p": "The Society was founded in 1889 by Desmond Farrant, an independently wealthy antiquarian whose collection of pre-Astralist texts represented, at the time of his death in 1911, one of the most comprehensive private occult libraries on the Reach. The manor he used as its headquarters, Hush House, on Strand Isle, a building whose peculiar acoustic qualities give it a permanent hushed quality that visitors invariably note and cannot explain, passed to the Society rather than to Farrant's family, a provision of his will that his family contested unsuccessfully for several years."
+       },
+       {
+        "p": "The current Society numbers thirty-one members, drawn from Vallam's professional and artistic upper-middle class. Most of them understand themselves to be members of a sophisticated intellectual club with excellent library access and a pleasingly theatrical approach to its own meetings. Some of them have noticed that the library's deeper stacks contain texts that are not catalogued and that produce, in extended reading, a specific kind of headache and a tendency to see things in peripheral vision. A very small number have noticed that the headache is not the worst thing the texts can produce."
+       },
+       {
+        "p": "The Society's current chair is Theodora Clemens, a retired chemist who joined in 1914 and has spent the twelve years since moving carefully and methodically through the library's uncatalogued section, recording what she finds, and reaching conclusions that she has not shared with any of the Society's other members. She is sixty-seven, moves slowly, asks precise questions, and has not been unwell in fourteen years, which she attributes to a good diet."
+       }
+      ],
+      "meta": [
+       "Strand Isle, in a large Victorian manor known as Hush House, accessible by private ferry from the southern Merchant District docks"
+      ],
+      "art": [
+       "p51_x138.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Vallam Society for the Prevention of Cruelty to Animals",
+      "page": 52,
+      "y": 72.0,
+      "body": [
+       {
+        "p": "The VSPCA was founded in 1891 and has operated as an entirely conventional animal welfare organisation for most of its history, running Vallam's only animal shelter, advocating for animal welfare legislation, and prosecuting cruelty cases through civil channels. Its current membership is approximately two hundred, with a core volunteer group of around thirty who do the actual work."
+       },
+       {
+        "p": "The organisation's unofficial mascot and most significant asset, in terms of public attention, is a family of five red pandas that arrived in Vallam in 1921 aboard a diplomatic vessel from a Renascia-aligned state, as part of a gift shipment to a private collector who subsequently went bankrupt and lost them to creditors. The VSPCA acquired them through a city auction, built a suitable enclosure in its garden, and discovered that the public's appetite for visiting the organisation's premises increased by approximately 400% immediately thereafter. The eldest and largest of the five, a round, placid animal named Cohh who has achieved the status of local celebrity, is the most photographed resident of Vallam after the King and is generally acknowledged by the organisation's members to be responsible for a significant percentage of its annual donations."
+       }
+      ],
+      "meta": [
+       "Greenvale, a converted Victorian house three blocks from the University hospital, with a large garden that has been modified to serve as an animal welfare facility"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Vallam Gun Club",
+      "page": 52,
+      "y": 393.16015625,
+      "body": [
+       {
+        "p": "The Vallam Gun Club occupies a position in Aldenmere's social ecosystem somewhere between a sporting society and a private members' club that has chosen firearms as its organising rationale. Its membership is drawn from the Aldenmere wealthy with a minority of enthusiasts from Greenvale and Millfield who have been admitted through the standard introduction process and who have learned that the Gun Club's social functions, monthly dinners, annual shooting competition (whose prizes are disproportionate to the competition's actual prestige), and informal gatherings on the practice range that last longer than practice ranges ordinarily warrant, are its primary purpose and the shooting is the justification."
+       },
+       {
+        "p": "The Club is owned and operated by Horatio Parrington, the proprietor of Parrington's on Ironside Street, Vallam's most comprehensively stocked firearms retailer, which serves both the professional and the sporting market with equal accommodation. Parrington is sixty-three, compact, with the specific physique of someone who has handled precision instruments all his life, and possesses a conversational style that produces, in people who underestimate him, the gradual discovery that they have told him considerably more than they intended to. He is not affiliated with any criminal organisation and knows about most of them, because they buy from him, and Parrington has a policy of excellent memory and no questions."
+       }
+      ],
+      "meta": [
+       "Below the Aldenmere Golf Course, on the mountain's east face, in a long timber-and-stone building accessible by a road that is not on any city map and which gun club members simply know"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Ecdysis Society",
+      "page": 53,
+      "y": 126.02733612060547,
+      "body": [
+       {
+        "p": "The Ecdysis Society is a performance and dance collective that is, in the city's broader cultural consciousness, simultaneously famous and impossible to describe accurately to anyone who hasn't been. It is known (imprecisely) through the accounts of those who have attended, as a dance club, a performance space, a sensory experience, something to do with transformation, something to do with shedding, something that you are told about by a friend who attended and who struggles to explain exactly what they saw, only that they watched it for what felt like twenty minutes and left at three in the morning."
+       },
+       {
+        "p": "It is run by Amavasya Hessenger, a woman whose background is not clearly established in any source that anyone has been able to verify. She is tall and bright-eyed in a way that suggests either exceptional health or the permanent presence of something being very interested in everything around her. She blinks infrequently. The Society's logo on the door, membership cards and brooches worn by the performers is a moth. The performers of the Ecdysis Society are extraordinary. What they do varies each month, shaped by Hessenger's direction and the dynamic of the audience and performers present."
+       }
+      ],
+      "meta": [
+       "The Narrows, in a building that is not findable without knowing which door to push and which painted number to ignore.",
+       "Opens only on nights of the full moon."
+      ],
+      "art": [
+       "p53_x143.png"
+      ],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "THE CONGREGATION",
+    "page": 53,
+    "y": 618.16015625,
+    "body": [],
+    "meta": [],
+    "art": [],
+    "children": [
+     {
+      "title": "St. Butcher's Cathedral (The Main Congregation)",
+      "page": 53,
+      "y": 669.1875,
+      "body": [
+       {
+        "p": "St. Butcher's is Vallam's largest and most prominent Lysterist cathedral, the seat of the Bishop of Vallam and the primary place of worship for the city's Lysterist majority. Its choir school, its charitable programmes, and its social presence in Ironside and the surrounding neighborhoods make it one of the city's significant civic institutions in addition to its religious function. The Bishop, Aldous Maren, is seventy-six, scholarly, theologically sophisticated, and genuinely uncertain about several things that his position officially requires certainty about. He is also one of the more perceptive readers of character in Vallam, which makes him interesting to a wider range of people than his age and position might suggest."
+       }
+      ],
+      "meta": [
+       "Ironside, occupying a full city block on the neighborhood's central street"
+      ],
+      "art": [
+       "p54_x146.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "St. Butcher's Custos",
+      "page": 54,
+      "y": 409.5078125,
+      "body": [
+       {
+        "p": "The Custos is publicly described as a Classical Astralist outreach ministry of St. Butcher's, focused on practical community service and pastoral care across Vallam's neighborhoods."
+       },
+       {
+        "p": "The Custos was established in 1847 following an event in the Narrows that the official cathedral record describes as “an episode of civil disorder requiring pastoral response” and that Custos internal records describe in considerably more specific and alarming terms. Since then, the Custos has operated as what is essentially an ecclesiastical rapid response capability for supernatural incursion: a small group of trained individuals, drawn primarily from the cathedral's clergy and lay members, who are aware of the nature of the world's darker inhabitants and who maintain a body of procedural knowledge, about how to manage the consequences of encounters with them."
+       },
+       {
+        "p": "The Custos's training includes practical components that would surprise the cathedral's general congregation, and its small library includes texts that the Suppression Bureau is intermittently interested in and consistently unable to remove, partly because removing them from church property raises jurisdictional issues and partly because the Custos's senior membership tends to inexplicably know they're coming."
+       },
+       {
+        "p": "The Custos operates approximately twenty active members in 1926, organised in small response teams under the leadership of Father Billy Callum, a former military chaplain whose tour in the Corda campaign exposed him to things that field chaplaincy training had not prepared him for and that led, through a sequence of events he does not enjoy describing, to his current position. He is forty-four and has a relationship with the Suppression Bureau that is best described as mutually reluctant professional cooperation."
+       }
+      ],
+      "meta": [
+       "St. Butcher's Cathedral, operating from the chapter house's lower level, which has two rooms that are kept locked and are not on the cathedral's floor plan"
+      ],
+      "art": [],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "THE WEALTHY FAMILIES OF ALDENMERE",
+    "page": 55,
+    "y": 270.1015625,
+    "body": [],
+    "meta": [],
+    "art": [
+     "p55_x149.png"
+    ],
+    "children": [
+     {
+      "title": "Fairchild Family",
+      "page": 55,
+      "y": 482.8984375,
+      "body": [
+       {
+        "p": "The Fairchilds are the most prominent of Fairbourne's bastard offshoot branches, descendants of a liaison between the third Fairbourne monarch's younger brother and a Cerani merchant's daughter in the mid-1600s, legitimised by a patent of nobility that is slightly more complicated to explain than the family's social position requires, and which the family accordingly does not explain unless directly asked. They have been in Aldenmere for a century and a half, and they have been collecting owls for most of it."
+       },
+       {
+        "p": "Fairchild House has a number of facilities housing over forty owls, actual pets of the family's members current patriarch, Cornelius Fairchild, fifty-eight, who believes that owls are the intellectually most honest animals. Predators who make no pretence of being anything else, and who are more perceptive than their stillness suggests. This is, those who know Cornelius observe, a reasonable description of the man himself."
+       },
+       {
+        "p": "His daughter Adeline Fairchild (see: First Ladies of Vallam) is the family member most visible in the city's social life. His son and heir Edmund Fairchild, thirty-one, manages the family's various investment interests from an office in Millfield and is widely considered to be quietly becoming more significant than his present profile suggests."
+       }
+      ],
+      "meta": [
+       "Upper Aldenmere, Fairchild House, a large late-Georgian property notable for the owl motif that appears consistently across its architectural details, carved into the gateposts, rendered in the ironwork of the balcony, present in the family's monogram. They are the family's most consistent personality trait, expressed in stone."
+      ],
+      "art": [
+       "p56_x152.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Harwick-Sel Family",
+      "page": 56,
+      "y": 595.3515625,
+      "body": [
+       {
+        "p": "The Harwick-Sels are a merged family line produced by the marriage in 1876 of the Harwick banking family and the Sel shipping concern, explicitly arranged by both families' patriarchs for commercial reasons and has produced, in subsequent generations, both genuine affection and excellent return on investment. The family's current head is Lyra Harwick-Sel, fifty-nine, who inherited the combined enterprise after the deaths of both her husband and her father within eighteen months of each other in 1907, made a practical decision to manage both concerns as a single entity, and has spent the seventeen years since demonstrating that this was the right decision. She sits on the Vallam Chamber of Commerce board, the University of Vallam Court, and the advisory board of the Dominion Naval Command, whose last position is entirely appropriate given that the Harwick-Sel shipping concern holds three current naval supply contracts."
+       }
+      ],
+      "meta": [
+       "Mid-Aldenmere, Harwick Hall, a Victorian Gothic property whose tower is the most visible silhouette on Aldenmere's slope after the Golf Course."
+      ],
+      "art": [
+       "p57_x155.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Calloway Family",
+      "page": 57,
+      "y": 430.28515625,
+      "body": [
+       {
+        "p": "The Calloways are a legal family. Four consecutive generations of barristers, solicitors, and at least one judge, whose current representative, Sir Gerald Calloway, sixty-two, sits on the Dominion Appeals Court and whose connection to Vallam's Masonic Lodge is well-known to its membership and politely unacknowledged outside it. The family's more interesting current member is his niece, Helena Calloway, twenty-nine, who graduated from the University of Vallam Law Faculty in 1919, one of the first batch of women to complete the degree, and has spent the six years since building a practice that specialises in cases that other firms decline. She is effective, her fees are not modest, and she has a client list that includes several individuals whose presence in a respectable law practice requires explanation that she does not provide."
+       }
+      ],
+      "meta": [
+       "Lower Aldenmere, Calloway Terrace, a row of four adjoining townhouses purchased by the family across three generations and opened into a continuous residence without obvious exterior alteration"
+      ],
+      "art": [
+       "p57_x156.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Spencer House",
+      "page": 58,
+      "y": 180.0546875,
+      "body": [
+       {
+        "p": "The Spencers are industrialists. Not the old-money kind who made their fortune three generations ago and have since been living on the principal, but the working kind who are still making it and are not entirely finished. Lucas Spencer, fifty-five, is the family's current head: a large, physically imposing man who started in his father's iron foundry at fourteen and now owns, through the Spencer Industrial Group, the majority of the mining and timber operations in the regions surrounding Vallam and several further afield, along with a significant portfolio of freight facilities at the Millfield Yards. He does not speak loudly. He speaks once, at a volume appropriate to the room, and expects not to need to repeat himself. This expectation is met in most professional contexts."
+       },
+       {
+        "p": "His heir, Peter Spencer, twenty-two, returned from the Corda front one year ago. He had volunteered in 1922, served as an artillery officer, been decorated twice, and come back in a condition that anyone who has seen the front would describe without surprise and that Peter himself describes as fine. He is managing a return to the family business's management structure with the specific difficulty of a person who left for the war, spent four years in it, and is now expected to resume a trajectory that was designed for a different person. Lucas Spencer watches this process with a concern he does not know how to express to his son and a patience he is working at, because it does not come naturally."
+       }
+      ],
+      "meta": [
+       "Upper Aldenmere, Spencer House, a broad stone property built to communicate permanence."
+      ],
+      "art": [
+       "p58_x159.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Rajiv Family",
+      "page": 58,
+      "y": 687.1484375,
+      "body": [
+       {
+        "p": "The Rajivs are the second-oldest continuous family presence in Vallam, their history in the city predating the Fairbourne dynasty by at least two centuries according to records that the family has maintained and that no external archive fully corroborates. Their origins are in the Cerani-Răvin cultural borderlands, a heritage visible in the family's architecture and the character of their internal culture, which is warm within family lines and precisely calibrated at the boundary."
+       },
+       {
+        "p": "The family's most discussed aspect is its genetics, present with intensely bright violet eyes and white hair, present from childhood, unconnected to albinism and unexplained by any medical account that the Rajiv family has sought. This trait, which the family calls the clear in their own informal language, a word whose original meaning is not exactly clear (the irony is not lost), appears in perhaps one in three family members, and has done so for as long as the family's own records go back."
+       },
+       {
+        "p": "The current family head is Fabian Rajiv, seventy-two, who has violet eyes and hair the colour of new snow, and who conducts himself with patience, and knows what is in most rooms before he enters them. He has married children into most of the significant Aldenmere families over the last forty years, with what those who noticed describe as systematic care."
+       }
+      ],
+      "meta": [
+       "The Old Strand, Rajiv House. A shadowed, angular building of considerable age that sits at the Old Strand's northern extreme, overlooking the water on three sides. It has a quality of presence that people who pass it on the coastal path tend to feel before they can see it clearly."
+      ],
+      "art": [
+       "p59_x162.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Foulere House",
+      "page": 59,
+      "y": 624.8515625,
+      "body": [
+       {
+        "p": "The Fouleres are three generations removed from the docks of the Reach's northern port towns, where the family's original fortune was made in commercial sea trade before Cathair Foulere's grandfather made the pivot to armaments manufacturing that the family has never looked back from. The Foulere Industrial Works, headquartered at a facility in the outer shires east of Vallam, produces a significant share of the Dominion's small-arms ammunition and naval ordnance, a line of business that has become, since 1903, the closest thing the family possesses to a printing press. The Great War has been very good to the Fouleres. They will not say this aloud, they are not unaware of what it implies about them, and they have made their private accommodations with both facts."
+       },
+       {
+        "p": "The family has a long standing friendly rivalry with the Spencers. The two patriarchs have been to each other's tables, have spoken at the same Chamber of Commerce events, and have, on a couple documented occasions, collaborated on logistics problems to mutual benefit. The Spencers hold the inland resource extraction, and the Fouleres hold the coastal and manufactured goods, and the boundary between those domains has been tested, pushed at, and held through about a decade of courteous hostility. The current patriarch, Cathair Foulere, fifty-one, is an immediately recognisable figure in Aldenmere’s culture. A large man with an extraordinary mane of copper-red hair that has not significantly greyed. He is loud, gregarious, and his handshake is bone-crushing. His son Riordan Foulere, twenty-eight, manages the sea trade arm of the business from the Merchant District offices and is considerably less fun at dinner."
+       }
+      ],
+      "meta": [
+       "Upper Aldenmere, Foulere House, a broad, red-brick property built with the specific confidence of a family that arrived after the old money and decided this was not a disadvantage. The gateposts are topped with cast-iron anchors. This is not subtle, and it is not meant to be."
+      ],
+      "art": [
+       "p60_x165.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Marie Family",
+      "page": 60,
+      "y": 686.36328125,
+      "body": [
+       {
+        "p": "The Maries built their Aldenmere position on wine, producing an estate wine operation whose quality became, over two generations, the kind of reputation that opens doors in Aldenmere without requiring explanation. The family was comfortably wealthy, socially secure, and entirely unprepared for National Prohibition, which removed the market for their primary product at approximately the same speed that the Great War removed their best remaining export routes to Corda's occupied territories."
+       },
+       {
+        "p": "Sylvia Marie, thirty-six, took over the family's management five years ago and has spent most of those five years in the process of becoming something more than a vintner's heir with a portfolio problem."
+       },
+       {
+        "p": "She is diversifying into hospitality with medical goods manufacturing, as well as ownership of many of Vallam’s clinics, including the central hospital. She is stunningly attractive, and the eldest sibling of the Rajiv's current mainline generation, the product of an earlier and differently-named branch of the family. She possesses none of the violet-eyed clarity that marks that bloodline's more visible members."
+       }
+      ],
+      "meta": [
+       "A townhouse in lower Aldenmere proper, modest by the street's standards, supplemented by a significant collection of estate properties across Vallam's surrounding shires. The family's true holdings are in the rolling country south and west of Vallam."
+      ],
+      "art": [
+       "p61_x168.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Langford Family",
+      "page": 61,
+      "y": 519.06640625,
+      "body": [
+       {
+        "p": "The Langfords are the second significant bastard offshoot of the Fairbourne dynasty in Aldenmere, their line descending from a liaison between the fifth Fairbourne monarch's second son and a Vallam-born parliamentary administrator's daughter in the early eighteenth century, a generation later than the Fairchilds, and a legitimisation that came through a different legal mechanism, which the Langfords and Fairchilds have found no occasion to discuss in their two centuries of proximity. The Langford connection to the main Fairbourne line is sufficiently close and sufficiently documented that the family has, unlike the Fairchilds, held appointed government positions in most generations with advisory roles, departmental chairs, the occasional junior ministry. In 1926, the family's government connections are the most significant thing about them, and they know it, and the two things they have never done are ask for formal recognition of their lineage and behave as though they are not aware of it."
+       },
+       {
+        "p": "The Langford name is a household one in Vallam primarily through two channels: the Langford Foundation, a charitable body that funds scholarships at both universities, maintains three public reading rooms in the working-class districts, and operates a veterans' support program that is the city's most functional privately-funded equivalent; and Langford & Associates, the city's largest and most politically connected law firm. The current family head, Sir Emery Langford, sixty-six, holds a government advisory position in the Home Ministry that is described in official documents as consultative and functions in practice as something closer to a standing voice in the room where domestic security policy is formed. His daughter Constance Langford, thirty-two, manages the Foundation's operations and is widely considered the more interesting of the two."
+       }
+      ],
+      "meta": [
+       "Mid-upper Aldenmere, Langford Court, a Georgian property of considerable size whose walls are notable for being the most well-maintained exterior on the entire upper slope."
+      ],
+      "art": [
+       "p62_x171.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Galmier Family",
+      "page": 62,
+      "y": 639.875,
+      "body": [
+       {
+        "p": "The Galmiers hold the Wardenship of the Archipelago, a hereditary administrative title established by royal charter in 1763, when the islands' growing commercial importance made it apparent that governing them through the city's standard municipal framework was producing delays, confusion, and revenue losses that the Dominion could not sustain. The Warden holds authority over the archipelago's taxation, its port regulation, its internal legal proceedings up to a specified severity, and the management of its infrastructure, including the ferry services, the causeway, and the lighthouse network that makes the upper bay navigable in the fog conditions that characterise most of autumn and winter. It has a significant amount of practical authority over a collection of communities that generate a meaningful portion of Vallam's seafood supply, its informal shipping trade, and the particular social ecosystem on the islands, close enough to the great city, but far enough away to seem unique."
+       },
+       {
+        "p": "Warden Pilar Galmier, fifty-seven, has held the position for nineteen years following her mother’s death and has proved considerably more capable in it than her mother’s associates expected when they first assessed her, an assessment she has not forgiven. She is dark-complexioned, and governs the archipelago with the pragmatic attention to function over form that island administration requires."
+       },
+       {
+        "p": "Her son Aldric Galmier, twenty-nine, manages the Wardenship's mainland interface from the Aldenmere townhouse and the Merchant District administrative office, intermediating the relationship between the archipelago's commercial interests and the city's commercial interests."
+       }
+      ],
+      "meta": [
+       "Nominally a townhouse in lower Aldenmere, functionally the family spends the majority of its time across the archipelago, specifically on Havelock, where the Galmier administrative compound occupies the island's most defensible high point."
+      ],
+      "art": [
+       "p63_x174.png"
+      ],
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "CRIMINAL ORGANIZATIONS",
+    "page": 63,
+    "y": 680.390625,
+    "body": [],
+    "meta": [],
+    "art": [
+     "p64_x177.png"
+    ],
+    "children": [
+     {
+      "title": "The Cerani Club Organisation",
+      "page": 64,
+      "y": 245.765625,
+      "body": [
+       {
+        "p": "The Cerani Club organisation is the oldest substantial criminal enterprise in Vallam, its roots traceable to the early years of Prohibition when a consortium of Cerani-heritage businessmen recognised the opportunity created by the Act's passage and moved quickly to fill the distribution gap in Vallam's wealthiest neighborhoods. At its peak, in 1923–1925, the organisation controlled the majority of alcohol supply into Aldenmere, a significant portion of the upper Merchant District, and a protection arrangement with several Terrace establishments. It held this position for two years before losing most of it."
+       },
+       {
+        "p": "The event that ended the Cerani Club's dominance, being the killing of its second-in-command (a man known as Clyde Harris) and three senior distribution lieutenants in a series of incidents now referred to, in the criminal community, as the Bad Quarter, was the work of the Vulburrow organisation (see below), which moved with enough speed and enough coordination to significantly disrupt the Cerani Club before it could respond effectively. The Club's current territory is Aldenmere proper and the lower mountain approaches, a position that is comfortable and not expanding. Its leadership knows it is not expanding."
+       },
+       {
+        "p": "The organisation's effective head is Carlo Benedetti, fifty-five, who manages the Club's legitimate operations. It is a real private members' club with real wine and real food and a real membership, and its criminal ones with an equal hand. He is a Reformist Astralist who attends services at a cathedral in Greenvale monthly and who has, by his own count, not committed a violent act personally since 1918."
+       },
+       {
+        "p": "He has arranged several since then. He considers the distinction meaningful. His relationship with the Rajiv family is long-standing, mutually beneficial, and does not involve anything written down."
+       }
+      ],
+      "meta": [
+       "The Cerani Club, Aldenmere, a private club whose public face serves wine to regular members and tells newcomers it does not sell alcohol, this statement being delivered calmly and without apparent irony while wine is visible being consumed at the adjacent tables"
+      ],
+      "art": [
+       "p64_x178.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Corvenza Cartel",
+      "page": 65,
+      "y": 252.0859375,
+      "body": [
+       {
+        "p": "The Corvenza organisation operates Vallam's most comprehensive legitimate-front structure: a trucking and carriage company that genuinely moves goods around the city and its surrounds, a ferry service operating between the mainland and the archipelago, and a marine freight service that runs regular routes between Vallam and several other coastal cities. All of these operations are real, profitable, and useful. They are also the infrastructure through which a significant volume of the city's illicit imports, being alcohol from Răvin, controlled pharmaceuticals from Cerani, goods of various descriptions from several points of origin that the Corvenza Cartel does not advertise, move into and around Vallam."
+       },
+       {
+        "p": "The cartel is run by the Corvenza family, a Merchant District institution across three generations: the current operational head is Dario Corvenza, forty-eight, whose father established the legitimate freight company in 1897 and whose grandfather was a docker on the same wharf that Dario's ferry service now operates from. Dario Corvenza  is efficient, present, and has the authority that comes from running something that genuinely works. The cartel's primary criminal relationship is with the Răvin Workers' Congress's international networks. A supply connection established in the early years of Prohibition that provides a reliable flow of smuggled alcohol and other goods through the Zodiac route, arriving as legitimate cargo and diverging at the Corvenza yards."
+       }
+      ],
+      "meta": [
+       "The Merchant District, anchored around a trucking and carriage company, Clover Freight, operating from a yard on the district's southern edge"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "Vulburrow Organization",
+      "page": 65,
+      "y": 627.2734375,
+      "body": [
+       {
+        "p": "The Vulburrow organisation is the most numerous criminal enterprise in Vallam in 1926, having expanded rapidly through the Prohibition period into most of the city's working-class and middle-class neighborhoods by providing a simpler service than its competitors. Reliable alcohol at reasonable prices, delivered without excessive complexity. Its leadership model is correspondingly flat, with fewer hierarchical levels than the Cerani Club, more operating cells with direct territory responsibility, and a culture that rewards reliability over loyalty in the more elaborate sense."
+       },
+       {
+        "p": "It is not the most sophisticated operation in Vallam, and it knows it. The men who lead Vulburrow's cells have come up through the same neighborhoods as their customers, and the organisation's relationship with those spots is accordingly more embedded than the Cerani Club's or the Sycamore Room's. It is also more vulnerable. Its flat structure makes it effective at operating but less effective at responding to the kind of top-level strategic pressure that the Sycamore Room is increasingly applying."
+       },
+       {
+        "p": "The organisation takes its name from its founder, Thomas Vulburrow, who died in 1923 and is remembered within the organisation with reverence. His successor is Delia Marsh, forty-one, a former Millfield clerk who managed Vulburrow's financial operations from the beginning and took over the organisation's leadership after Thomas's death (in favour of his son Jack Vulburrow) simply by being the person who knew where everything was, how everything worked, and what the relevant people owed. The transition was not challenged all too much outside of Jack’s crew, and people who know Delia Marsh tend to understand immediately why."
+       }
+      ],
+      "meta": [
+       "Operating across the Confluence, Ironside, and Fenwick, with no single permanent headquarters. Meetings rotate."
+      ],
+      "art": [
+       "p66_x183.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "The Sycamore Room",
+      "page": 66,
+      "y": 605.359375,
+      "body": [
+       {
+        "p": "The Sycamore Room is the newest and most aggressively ambitious criminal organisation in Vallam. It was established approximately four years ago by the Romano family, specifically by Lexy Romano, thirty-seven, and her brother Nico Romano, thirty-four, as the consolidation of several smaller Terrace-area operations into a single entity with unified leadership, unified finances, and a strategy oriented toward long-term dominance rather than the immediate profit that most criminal operations optimise for."
+       },
+       {
+        "p": "The Romanos came from money. Legitimate, Cerani-origin trade wealth that gave them the initial capital and the social connections to build the Sycamore Room from an actually functioning hotel and nightclub rather than from a back-room arrangement masquerading as one. The club is, by any account, one of the best establishments in Vallam: its performers are exceptional, its wine list is extensive and not fake, and its private rooms, available for the right guests at rates that reflect their privacy rather than their occupancy, are used by people whose presence in the same building as an illegal operation would be legally inconvenient for several of them."
+       },
+       {
+        "p": "The organisation's members are identifiable to those who know by the purple flower brooch. A stylised sycamore blossom, worn in the lapel, and by the performers whose hair is dyed in the same deep violet."
+       },
+       {
+        "p": "The Sycamore Room's current operations include a city-wide protection network, the most comprehensive alcohol supply arrangement in the Terrace district, and an expanding network of safehouses and supplier relationships across the surrounding shires that is progressively constricting the other organisations' supply lines. Lexy Romano reads three newspapers every morning and has a map of the city's criminal territory on the wall of her private office that is updated weekly. Nico Romano handles the operations that require physical presence and does not use a map, because he already knows where everything is."
+       }
+      ],
+      "meta": [
+       "The Sycamore Room, a three-story underground club beneath the Grand Peeress Hotel on the Terrace. The hotel above it is also owned by the same family."
+      ],
+      "art": [
+       "p67_x186.png"
+      ],
+      "children": []
+     },
+     {
+      "title": "Black Tally",
+      "page": 67,
+      "y": 653.1640625,
+      "body": [
+       {
+        "p": "The Black Tally presents itself, in the portions of its identity it presents publicly, as a veterans' mutual aid society: men who came back from the Corda front changed, who found that civilian life had no adequate framework for what they had seen and done and endured, who organised around shared experience for mutual support and, eventually, for other purposes. This presentation is not entirely false. The men in the Black Tally did come back from the front, they have changed, and the organisation does provide a community for them that they have not found elsewhere."
+       },
+       {
+        "p": "The Tally is also something else, and something else is not entirely clear to most of its members. Its lower ranks, what its leadership calls the Counts, know the organisation as a bootlegging and robbery operation with an unusual internal culture with rituals, terminology, a hierarchical structure that has a specifically ceremonial quality to it, and reverence for certain objects and certain individuals that goes beyond what most criminal organisations produce in their members. Its higher ranks, referred to internally as the Old Brass, in a usage that sounds like military slang but isn't quite, know more. The full extent of what the Old Brass know is not communicated to the Counts, in the same way that most cults manage the relationship between what the inner circle understands and what the outer membership is told."
+       },
+       {
+        "p": "Its founding members are veterans who served in the Corda front's longest-running sections. The areas of continuous engagement, the positions that were held for years at a time. They came back at different points and from different units, without obvious prior connection. They found each other in Vallam and formed the organisation in 1921. The organisation's membership has not significantly decreased, which is notable given its involvement in activities that carry significant mortality rates."
+       }
+      ],
+      "meta": [
+       "Nominally based in the Confluence and Ironside, with gatherings ( they call them rallies) rotating between three warehouse locations that change on a monthly schedule that members are given at each meeting for the next one only"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Merr-Boys",
+      "page": 68,
+      "y": 486.203125,
+      "body": [
+       {
+        "p": "The Merr-Boys are a street gang of subadults, primarily from Ironside and the western Confluence, who have organised around territory, shared identity, and the social infrastructure of a peer group that the city's other institutions have not provided them. The Merr-Boys are not, by Vallam's criminal standards, a significant force, for their activities run to petty theft, minor extortion of local businesses, and the occasional violent confrontation. They hold neutral ground relative to the city's major criminal organisations because they are too small to be worth absorbing and not in anyone's specific territory."
+       },
+       {
+        "p": "The gang's internal culture centres on a brickyard, which they have been using as a base long enough that several generations of Confluence-area teenagers have passed through it. The current leadership is informal, the Merr-Boys do not have titles,  but centres on Finn Merrit, seventeen, whose family name is the probable origin of the gang's name through a linguistic compression that nobody now living can quite reconstruct. The Merr-Boys' ongoing conflict with the Crofts is largely territorial and largely theatrical in the sense that both sides have enough sense not to actually kill anyone."
+       }
+      ],
+      "meta": [
+       "The Confluence's eastern edge, centred on an abandoned brickyard off Kiln Street that the gang uses as a base, meeting point, and occasional residence for members who have nowhere else to be"
+      ],
+      "art": [],
+      "children": []
+     },
+     {
+      "title": "The Crofts",
+      "page": 69,
+      "y": 126.03124237060547,
+      "body": [
+       {
+        "p": "The Crofts are the Merr-Boys' primary rival and occasional sparring partner in a more literal sense than most gang rivalries. The gym that serves as their base is a functioning boxing gym with actual training equipment, and a significant number of Crofts members have genuine athletic capability that the gang's culture encourages and that has, in several cases, provided individual members with exits from the gang's trajectory into legitimate sporting careers. The Crofts are predominantly of Cerani heritage, second and third generation, and their connection to the Cerani community of Ironside and the Narrows gives them a cultural identity that the Merr-Boys lack. The Crofts' relationship with the Cerani Club organisation is acknowledged within the gang but not formalised, and the Club does not recruit from the Crofts directly, but several former Crofts members have ended up in the Club's lower-tier operations, and the Club is aware of and comfortable with the Crofts' presence as a territorial stabilising factor in Ironside's western streets."
+       }
+      ],
+      "meta": [
+       "Ironside's western streets, centred on a boxing gym on Croft Lane, a name that may be the origin of the gang's name or may have been adopted to fit the street; nobody is entirely sure which came first"
+      ],
+      "art": [],
+      "children": []
+     }
+    ]
+   }
+  ]
+ }
+]

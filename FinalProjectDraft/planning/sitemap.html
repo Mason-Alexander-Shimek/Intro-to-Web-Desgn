@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vallam &mdash; Sitemap</title>
+<link rel="stylesheet" href="planning.css">
+</head>
+<body>
+<div class="doc">
+
+<header class="doc-head">
+  <p class="eyebrow">Final Project &middot; Deliverable 1 of 3</p>
+  <h1>Vallam Lore Reference &mdash; Sitemap</h1>
+  <p class="sub">Six pages, one level deep. The structure mirrors the source document: it opens
+    on the whole world and narrows, page by page, until it reaches a single street in one city.</p>
+</header>
+
+<h2>Site-level structure</h2>
+
+<div class="map-root">
+  <b>index.html</b>
+  <span>HOME &middot; five gateways, the city map, the epigraph</span>
+</div>
+<div class="stem"></div>
+
+<div class="map-row">
+  <div class="map-node">
+    <b>world.html</b>
+    <span>The World</span>
+    <em>Morphe: its day and moon, climate, the Nihil Oceans, the continents, and the two
+      religions. 6 sections.</em>
+  </div>
+  <div class="map-node">
+    <b>dominion.html</b>
+    <span>Fairbourne</span>
+    <em>The founding, Crown and Parliament, the Dominion, and the Great War. 5 sections.</em>
+  </div>
+  <div class="map-node">
+    <b>vallam.html</b>
+    <span>Vallam</span>
+    <em>Culture, prohibition, immigration, the city map, and 9 located neighbourhoods.
+      7 sections.</em>
+  </div>
+  <div class="map-node">
+    <b>factions.html</b>
+    <span>Factions</span>
+    <em>23 organisations in 6 categories: government, press, civic, academic, cultural, and the
+      Congregation.</em>
+  </div>
+  <div class="map-node">
+    <b>houses.html</b>
+    <span>Houses</span>
+    <em>The 9 families of Aldenmere, and 7 criminal organisations. 2 categories.</em>
+  </div>
+</div>
+
+<div class="depth">
+  <b>There is no second level, and that is deliberate.</b> An entry for a faction, a family or a
+  neighbourhood is an anchor inside its category page, not a page of its own. Giving 48 entries
+  their own pages would mean 48 round trips for a reader who is usually comparing two of them.
+  Keeping them on one page means a GM can hold the whole Congregation in a single scroll, and the
+  sticky rail still makes any one of them reachable in a click.
+</div>
+
+<h2>How a reader moves through it</h2>
+
+<p>Every page reaches every other page from the main nav, so none of the three visitors below is
+ever more than two clicks from what they came for.</p>
+
+<table>
+  <thead>
+    <tr><th>Visitor</th><th>Entry point</th><th>Path</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Newcomer</b><br><span class="muted">has not read the setting</span></td>
+      <td>Home</td>
+      <td>Gateway card &rarr; part introduction &rarr; down the sticky rail in order</td>
+    </tr>
+    <tr>
+      <td><b>Returning player</b><br><span class="muted">wants one named thing</span></td>
+      <td>Nav, direct</td>
+      <td>Factions or Houses &rarr; crest index &rarr; anchor to that entry</td>
+    </tr>
+    <tr>
+      <td><b>GM mid-session</b><br><span class="muted">needs a fact in seconds</span></td>
+      <td>Nav, direct</td>
+      <td>Vallam &rarr; place index or map reference &rarr; neighbourhood;<br>
+          or Factions &rarr; rail &rarr; seat and allegiance</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>What sits outside the six pages</h2>
+
+<table>
+  <thead>
+    <tr><th>File</th><th>Role</th><th>In the nav?</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><code>wireframes.html</code></td><td>Planning document, kept with the build</td><td>No</td></tr>
+    <tr><td><code>planning/sitemap.html</code></td><td>This document</td><td>No</td></tr>
+    <tr><td><code>planning/proposal.html</code></td><td>The project proposal</td><td>No</td></tr>
+    <tr><td><code>build/lore.json</code></td><td>All content. The six pages are generated from it</td><td>No</td></tr>
+  </tbody>
+</table>
+
+<div class="callout">
+  <h3>One structural change under consideration</h3>
+  <p>The one component slot left under the 15 cap is reserved for a client-side filter. It would
+    not add a page or change this map. It sits at the top of <code>factions.html</code> and
+    <code>houses.html</code>, narrowing the entries already on the page. Findability is currently
+    carried entirely by the rail and the two indexes, and <code>factions.html</code> is about
+    18,000 pixels tall.</p>
+</div>
+
+<footer class="doc-foot">
+  Mason Shimek &middot; Intro to Web Design &middot; Final Project &middot; Sitemap
+</footer>
+
+</div>
+</body>
+</html>
