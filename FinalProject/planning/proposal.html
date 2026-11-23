@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vallam &mdash; Final Project Proposal</title>
+<link rel="stylesheet" href="planning.css">
+</head>
+<body>
+<div class="doc">
+
+<header class="doc-head">
+  <p class="eyebrow">Final Project &middot; Deliverable 3 of 3</p>
+  <h1>Vallam Lore Reference<br>Final Project Proposal</h1>
+  <p class="sub">A reference site for an eldritch mystery campaign set on the world of Morphe,
+    Anno 1926. Six pages, fifteen components, three weeks.</p>
+</header>
+
+<h2>1. Topic</h2>
+
+<p><b>Starting fresh, with a new subject.</b> Not a continuation of Project 1 and not the
+Missoula client site from Project 2. The subject is <b>Vallam</b>, a lore reference built from a
+69-page setting document: roughly 22,000 words, 35 pieces of art, and one 5333&times;8000 city
+map.</p>
+
+<div class="callout">
+  <h3>Disclosure: a working prototype already exists</h3>
+  <p>I built a version of this site earlier in the term before switching to the Missoula client
+    project, so six pages already exist and all fourteen current components are built and
+    proven. That is why the hour estimate in section 6 is low. The work ahead is improving a
+    concept rather than discovering one, and I would rather state that plainly than present
+    finished work as a plan.</p>
+</div>
+
+<h2>2. Goal</h2>
+
+<p><b>To let someone find one specific piece of a 22,000-word world in seconds.</b></p>
+
+<p>This is a reference, not a novel. The source material is a single long PDF, which is a fine
+way to write a setting and a useless way to run a session in one. Finding whether the Harwick-Sel
+family is allied to the Congregation means scrolling a document and hoping. The site's whole job
+is to make any faction, family, neighbourhood or piece of worldbuilding reachable without
+reading in order and without passing things nobody asked for.</p>
+
+<p>The secondary goal is orientation: a new player should be able to understand the shape of the
+world in ten minutes without being handed 69 pages.</p>
+
+<h2>3. Who it serves, and what they need to do</h2>
+
+<p>Three visitors, with genuinely different needs. The site has to serve all three without
+making any of them pay for the others.</p>
+
+<table>
+  <thead>
+    <tr><th>Visitor</th><th>What they need</th><th>What they do on the site</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>The newcomer</b></td>
+      <td>Orientation. They do not yet know what questions to ask.</td>
+      <td>Enter through one of five gateway cards, read the part introduction, follow the sticky
+          rail down through the sections in order.</td>
+    </tr>
+    <tr>
+      <td><b>The returning player</b></td>
+      <td>One named thing they half-remember, often by its emblem rather than its name.</td>
+      <td>Go straight to Factions or Houses from the nav, scan the crest index, click through to
+          that entry.</td>
+    </tr>
+    <tr>
+      <td><b>The GM, mid-session</b></td>
+      <td>A single fact, in seconds, while four people wait.</td>
+      <td>Look up a faction's seat and allegiance in its dossier, or find a neighbourhood by its
+          map grid reference.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>What all three need to <i>do</i> is arrive at a named entity in one or two clicks. That is
+the measure of whether this site works, and it is where the current build is weakest, which
+section 7 addresses.</p>
+
+<h2>4. Pages</h2>
+
+<p><b>Six.</b> The structure mirrors the source document, opening on the whole world and
+narrowing until it reaches a single street.</p>
+
+<table>
+  <thead>
+    <tr><th>Page</th><th>Part</th><th>Holds</th><th class="n">Entries</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><code>index.html</code></td><td>Home</td><td>Five gateways, the full city map, the epigraph</td><td class="n">&mdash;</td></tr>
+    <tr><td><code>world.html</code></td><td>The World</td><td>Morphe, its day and moon, climate, the Nihil Oceans, the continents, the two religions</td><td class="n">6</td></tr>
+    <tr><td><code>dominion.html</code></td><td>Fairbourne</td><td>The founding, Crown and Parliament, the Dominion, the Great War</td><td class="n">5</td></tr>
+    <tr><td><code>vallam.html</code></td><td>Vallam</td><td>Culture, prohibition, immigration, the city map, the located neighbourhoods</td><td class="n">9</td></tr>
+    <tr><td><code>factions.html</code></td><td>Factions</td><td>Organisations across government, press, civic, academic, cultural, and the Congregation</td><td class="n">23+</td></tr>
+    <tr><td><code>houses.html</code></td><td>Houses</td><td>The families of Aldenmere, and the criminal organisations</td><td class="n">16</td></tr>
+  </tbody>
+</table>
+
+<p class="muted">Factions is marked 23+ because additional organisations are being written. They
+are content, not structure: new entries reuse <code>.entry-row</code> and
+<code>.crest-tile</code> and add nothing to the component count.</p>
+
+<h2>5. Components</h2>
+
+<p>Counted inside <code>&lt;main&gt;</code>, as the brief specifies. The nav, footer, skip link
+and hero band sit outside <code>&lt;main&gt;</code> and are excluded as chrome. Full wireframes
+with per-page breakdowns are in the accompanying document.</p>
+
+<table>
+  <thead>
+    <tr><th class="n">#</th><th>Component</th><th>System</th><th>Status</th></tr>
+  </thead>
+  <tbody>
+    <tr><td class="n">1</td><td><code>.layout</code> &mdash; rail and content shell</td><td><span class="tag grid">GRID</span></td><td>Built</td></tr>
+    <tr><td class="n">2</td><td><code>.toc-rail</code> &mdash; sticky on-page index</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">3</td><td><code>.part-intro</code> &mdash; page opener</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">4</td><td><code>.lore-section</code> &mdash; heading and copy</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">5</td><td><code>.cat-head</code> &mdash; category divider</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">6</td><td><code>.figure-band</code> &mdash; figure with caption</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">7</td><td><code>.entry-row</code> &mdash; dossier row</td><td><span class="tag flex">FLEX</span></td><td>Built</td></tr>
+    <tr><td class="n">8</td><td><code>.crest-index</code> &mdash; grid of crest tiles</td><td><span class="tag grid">GRID</span></td><td>Built</td></tr>
+    <tr><td class="n">9</td><td><code>.place-index</code> &mdash; grid of place tiles</td><td><span class="tag grid">GRID</span></td><td>Built</td></tr>
+    <tr><td class="n">10</td><td><code>.place-section</code> &mdash; locator and prose</td><td><span class="tag grid">GRID</span></td><td>Built</td></tr>
+    <tr><td class="n">11</td><td><code>.gateway-grid</code> &mdash; the five gateways</td><td><span class="tag grid">GRID</span></td><td>Built</td></tr>
+    <tr><td class="n">12</td><td><code>.dossier</code> &mdash; labelled fields</td><td><span class="tag flex">FLEX</span></td><td>Built</td></tr>
+    <tr><td class="n">13</td><td><code>.pull</code> &mdash; epigraph</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">14</td><td><code>.lore-list</code> &mdash; styled list</td><td><span class="tag flow">FLOW</span></td><td>Built</td></tr>
+    <tr><td class="n">15</td><td><code>.entry-filter</code> &mdash; client-side filter</td><td><span class="tag flex">FLEX</span></td><td><b>To build</b></td></tr>
+  </tbody>
+  <tfoot>
+    <tr><td class="n">&nbsp;</td><td colspan="2">14 built, 1 to build</td><td><b>15 of 15</b></td></tr>
+  </tfoot>
+</table>
+
+<div class="callout warn">
+  <h3>The budget is exactly full</h3>
+  <p>Fifteen of fifteen, with nothing spare. If a sixteenth becomes necessary I will consolidate
+    rather than ask for an exception: <code>.crest-index</code> and <code>.place-index</code> are
+    both grids of small uniform tiles and could become one <code>.tile-index</code> with
+    modifiers, which frees a slot without changing a single page.</p>
+</div>
+
+<h2>6. Time estimate</h2>
+
+<p>Using the formula from the brief: one hour per component already in the library, three hours
+per component built from scratch, totalled and divided across the three remaining weeks.</p>
+
+<div class="est">
+  <table>
+    <tbody>
+      <tr><td>14 components already built and proven</td><td class="n">14 &times; 1</td><td class="n">14</td></tr>
+      <tr><td>1 component from scratch (<code>.entry-filter</code>)</td><td class="n">1 &times; 3</td><td class="n">3</td></tr>
+    </tbody>
+    <tfoot>
+      <tr><td>Sum</td><td class="n">&nbsp;</td><td class="n">17 hours</td></tr>
+      <tr><td>17 hours across 3 weeks</td><td class="n">&nbsp;</td><td class="n">5.7 hours / week</td></tr>
+    </tfoot>
+  </table>
+</div>
+
+<p>I want to be honest about what this number is and is not. It is low because the components
+already exist, and the formula rewards that. It does not account for the content work of writing
+and entering the additional factions, for the accessibility and performance fixes in section 7,
+or for testing. My own estimate for the real total is closer to <b>28&ndash;32 hours</b>, or
+about ten a week. The formula's value here is that it correctly identifies this as a project
+with very little construction risk and a lot of refinement work, which is the opposite of how
+Project 2 started.</p>
+
+<h3>Three-week plan</h3>
+
+<table>
+  <thead><tr><th>Week</th><th>Work</th><th>Done when</th></tr></thead>
+  <tbody>
+    <tr>
+      <td><b>1</b></td>
+      <td>Write and enter the additional factions into <code>lore.json</code>. Build
+          <code>.entry-filter</code> and wire it into Factions and Houses.</td>
+      <td>New entries render; filter narrows both pages with no reload.</td>
+    </tr>
+    <tr>
+      <td><b>2</b></td>
+      <td>Accessibility and performance. Fix the home page heading structure, raise
+          <code>.crest-absent</code> above AA, self-host the three typefaces, and run the
+          responsive image pipeline over the art.</td>
+      <td>Audit clean at 1400px and 390px; no page over 400&nbsp;KB.</td>
+    </tr>
+    <tr>
+      <td><b>3</b></td>
+      <td>Add all fifteen components to the ComponentLibrary. Full responsive pass, final audit,
+          README and design notes brought in line with the build.</td>
+      <td>Library documents every component; audit passes; documentation matches reality.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>7. Improving on the original concept</h2>
+
+<p>The brief asks for improvement rather than repetition. These are the specific things the
+prototype got wrong or left undone, each one measured.</p>
+
+<table>
+  <thead><tr><th>Problem</th><th>Measured</th><th>Fix</th><th>Costs a slot?</th></tr></thead>
+  <tbody>
+    <tr>
+      <td><b>Nothing is searchable.</b> With 48 entries and 82 sections, findability rests
+          entirely on the rail and the two indexes.</td>
+      <td><code>factions.html</code> is about 18,000px tall</td>
+      <td><code>.entry-filter</code></td>
+      <td><b>Yes</b>, the one free slot</td>
+    </tr>
+    <tr>
+      <td><b>The pages are heavy.</b> Art was resized but never format-optimised.</td>
+      <td><code>vallam.html</code> 1.9&nbsp;MB, <code>index.html</code> 858&nbsp;KB, art folder
+          3.4&nbsp;MB</td>
+      <td>AVIF and WebP with JPEG fallback and <code>srcset</code>, reusing the pipeline built
+          for Project 2, where AVIF came in near 40% of JPEG</td>
+      <td>No, a build change</td>
+    </tr>
+    <tr>
+      <td><b>The home page has no headings.</b> The five gateway names are styled spans, so a
+          screen reader gets an <code>h1</code> and then nothing.</td>
+      <td>0 <code>h2</code> on <code>index.html</code></td>
+      <td>Promote the gateway names to real headings</td>
+      <td>No, a markup fix</td>
+    </tr>
+    <tr>
+      <td><b>One element fails contrast.</b> <code>.crest-absent</code>, the diamond shown where
+          an organisation has no emblem.</td>
+      <td>2.46:1, against 4.5 required</td>
+      <td>Raise its value, or replace it with a text label</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><b>Typefaces load from a third party.</b> Offline or blocked, the page falls back to
+          Georgia and Gill Sans, which changes the look.</td>
+      <td>3 families from Google Fonts</td>
+      <td>Self-host with <code>font-display: swap</code></td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td><b>Documentation has drifted.</b> The old wireframes name components that were never
+          built, and the README counts 10 neighbourhoods where the build has 9.</td>
+      <td>4 phantom components named</td>
+      <td>Already corrected in the accompanying wireframes; README next</td>
+      <td>No</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>8. Scope</h2>
+
+<p><b>In scope:</b> six static pages generated from <code>lore.json</code>; fifteen components;
+the client-side filter; responsive layouts tested at 390px, 760px and 1400px; WCAG AA for every
+text and background pair; the ComponentLibrary entries.</p>
+
+<p><b>Out of scope:</b> accounts, comments, a backend or database, a content management system,
+a session tracker, player-editable content, and printing. None of these serve the goal in
+section 2, and the site is deliberately static so it can be hosted anywhere and opened at a
+table with no infrastructure behind it.</p>
+
+<h2>9. Risks</h2>
+
+<table>
+  <thead><tr><th>Risk</th><th>Likelihood</th><th>Response</th></tr></thead>
+  <tbody>
+    <tr>
+      <td>The component cap. Any new idea in the next three weeks has nowhere to go.</td>
+      <td>Moderate</td>
+      <td>Consolidate <code>.crest-index</code> with <code>.place-index</code> before asking for
+          an exception.</td>
+    </tr>
+    <tr>
+      <td>Content work expands. Writing new factions is open-ended in a way that building a
+          component is not.</td>
+      <td>High</td>
+      <td>Cap the new entries at a fixed number in week 1 and treat anything beyond it as after
+          the deadline. Content is the most common cause of a late project.</td>
+    </tr>
+    <tr>
+      <td>Art provenance. Every image needs to be my own or cleared.</td>
+      <td>Low</td>
+      <td>Audit the 51 files in week 1. This is the mistake Project 2 is still carrying and it
+          will not be repeated here.</td>
+    </tr>
+    <tr>
+      <td>The filter is the only untested thing in the project.</td>
+      <td>Low</td>
+      <td>It is one component with no dependencies. If it fails, the rail and the indexes still
+          work and the site ships without it.</td>
+    </tr>
+  </tbody>
+</table>
+
+<footer class="doc-foot">
+  Mason Shimek &middot; Intro to Web Design &middot; Final Project Proposal &middot;
+  all counts and weights measured from the working build
+</footer>
+
+</div>
+</body>
+</html>
